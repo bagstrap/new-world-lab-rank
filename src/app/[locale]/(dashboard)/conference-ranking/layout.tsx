@@ -1,8 +1,13 @@
-import { Metadata } from "next";
 
-export const metadata: Metadata = {
-    title: "Conference Ranking",
-    description: "Conference Ranking",
+import { getTranslations } from "next-intl/server";
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
+    const { locale } = await params;
+    const t = await getTranslations({ locale, namespace: 'Metadata' });
+
+    return {
+        title: t('conference_ranking.title'),
+        description: t('conference_ranking.description'),
+    };
 }
 
 export default function ConferenceRankingLayout({

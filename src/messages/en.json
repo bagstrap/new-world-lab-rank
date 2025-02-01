@@ -1,18 +1,31 @@
 {
     "Metadata": {
-        "title": "Idea2Posts - AI-Powered Thread Posting Automation Service",
-        "description": "AI saves you 90% of the time spent managing your threads. If you have a link or idea, we'll automatically generate optimized Thread posts for you.",
+        "title": "World Lab Ranking - Find Your Perfect Research Lab",
+        "description": "Explore and compare top research labs worldwide based on their publications and impact in computer science. Make informed decisions about your research career.",
         "og": {
-            "title": "Idea2Posts - AI-Powered Thread Management Automation",
-            "description": "AI saves you 90% of the time spent managing your threads! Just share a content link. AI will automatically generate and schedule posts.",
-            "alt": "Idea2Posts Preview"
+            "title": "World Lab Ranking - Research Lab Explorer",
+            "description": "Find the perfect research lab for your academic journey. Compare labs worldwide based on publications, impact, and research areas.",
+            "alt": "World Lab Ranking Preview"
         },
         "twitter": {
-            "title": "Idea2Posts - AI-Powered Thread Management Automation",
-            "description": "AI saves you 90% of the time spent managing your threads! Just share a content link. AI will automatically generate and schedule posts."
+            "title": "World Lab Ranking - Research Lab Explorer",
+            "description": "Find the perfect research lab for your academic journey. Compare labs worldwide based on publications, impact, and research areas."
+        },
+        "conference_ranking": {
+            "title": "Conference Rankings",
+            "description": "Explore and compare top computer science conferences worldwide based on their impact and significance in the field."
+        },
+        "lab_ranking": {
+            "title": "Lab Rankings",
+            "description": "Explore and compare research labs worldwide based on their publications and impact in different fields."
+        },
+        "landing": {
+            "title": "Find Your Perfect Research Lab",
+            "description": "Explore and compare top research labs worldwide based on their publications and impact in different fields of computer science."
         }
     },
     "Landing": {
+        "welcome": "Welcome!",
         "title": "Find Your Perfect Research Lab",
         "description": "Explore and compare top research labs worldwide based on their publications and impact in different fields of computer science.",
         "explore_labs": "Explore Labs",
@@ -146,21 +159,46 @@
         }
     },
     "conference_ranking": {
-        "title": "Conference Ranking"
+        "title": "Conference Rankings",
+        "description": "Explore and compare top computer science conferences worldwide based on their impact and significance in the field.",
+        "filters": {
+            "select_year": "Select Year",
+            "select_location": "Select Location",
+            "select_tier": "Select Tier",
+            "all_years": "All Years",
+            "all_locations": "All Locations",
+            "all_tiers": "All Tiers",
+            "top_tier": "Top Tier (30+ Score)",
+            "mid_tier": "Mid Tier (20+ Score)",
+            "entry_tier": "Entry Tier (10+ Score)"
+        },
+        "search_placeholder": "Search by conference name...",
+        "score": "Impact Score",
+        "no_results": "No conferences found matching your criteria"
     },
     "lab_ranking": {
         "title": "Lab Rankings",
         "description": "Explore and compare research labs worldwide based on their publications and impact in different fields.",
         "filters": {
             "select_continent": "Select Continent",
+            "select_country": "Select Country",
             "select_field": "Select Field",
-            "select_conference": "Select Conference"
+            "select_conference": "Select Conference",
+            "all_continents": "All Continents",
+            "all_countries": "All Countries",
+            "all_fields": "All Fields",
+            "all_conferences": "All Conferences"
         },
         "search_placeholder": "Search by lab or university name...",
         "total_score": "Total Score",
+        "field_score": "Field Score",
+        "total": "Total",
         "no_results": "No labs found matching your criteria",
         "lab": "Research Lab",
         "conferences": "conferences",
+        "fields_name": "Fields",
+        "conference_details": "Conference Details",
+        "field_details": "Field Details",
         "continents": {
             "north america": "North America",
             "south america": "South America",
@@ -174,7 +212,6 @@
             "machine learning": "Machine Learning",
             "general ai": "General AI",
             "nlp": "Natural Language Processing"
-        },
-        "fields_name": "Fields"
+        }
     }
 }

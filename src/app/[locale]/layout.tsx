@@ -5,6 +5,7 @@ import { routing } from '@/i18n/routing';
 import { getLocale } from 'next-intl/server';
 import { Navbar } from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import GoogleAdsense from '@/components/GoogleAdsense';
 
 const locales = routing.locales
 export default async function RootLayout({
@@ -24,6 +25,7 @@ export default async function RootLayout({
     return (
         <html lang={locale} suppressHydrationWarning>
             <body className="min-h-screen flex flex-col">
+                <GoogleAdsense />
                 <NextIntlClientProvider locale={locale} messages={messages}>
                     <Navbar />
                     <main className="flex-grow">

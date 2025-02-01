@@ -1,8 +1,13 @@
-import { Metadata } from "next";
+import { getTranslations } from "next-intl/server";
 
-export const metadata: Metadata = {
-    title: "Lab Ranking",
-    description: "Lab Ranking",
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
+    const { locale } = await params;
+    const t = await getTranslations({ locale, namespace: 'Metadata' });
+
+    return {
+        title: t('lab_ranking.title'),
+        description: t('lab_ranking.description'),
+    };
 }
 
 export default function LabRankingLayout({
