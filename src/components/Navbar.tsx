@@ -5,10 +5,12 @@ import Link from 'next/link'
 import { useTranslations } from 'next-intl'
 import { LanguageSelector } from './LanguageSelector'
 import Image from 'next/image'
+import { useLocale } from 'next-intl'
 
 export function Navbar() {
     const t = useTranslations('Navigation')
     const pathname = usePathname()
+    const locale = useLocale()
 
     const navigation = [
         { name: t('about'), href: '/about' },
@@ -30,7 +32,7 @@ export function Navbar() {
                     <div className="flex items-center space-x-12">
                         {/* Logo */}
                         <div className="flex-shrink-0">
-                            <Link href="/" className="flex items-center">
+                            <Link href={`/${locale}`} className="flex items-center">
                                 <Image
                                     src="/logo.png"
                                     alt="Logo"
@@ -50,7 +52,7 @@ export function Navbar() {
                                 return (
                                     <Link
                                         key={item.href}
-                                        href={item.href}
+                                        href={`/${locale}${item.href}`}
                                         className={`relative inline-flex items-center px-4 py-2 text-sm font-medium rounded-md transition-colors ${isActive
                                             ? 'text-blue-600 after:absolute after:bottom-0 after:left-0 after:w-full after:h-0.5 after:bg-blue-600'
                                             : 'text-gray-600 hover:text-blue-600 hover:bg-gray-50'
