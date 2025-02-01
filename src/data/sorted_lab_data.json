@@ -1,0 +1,4530 @@
+[
+  {
+    "university": "Alma Mater Studiorum - University of Bologna",
+    "lab": "Biometric System Laboratory",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 3240.9040405417745
+      }
+    ],
+    "totalScore": 3240.9040405417745
+  },
+  {
+    "university": "Alma Mater Studiorum - University of Bologna",
+    "lab": "LIA: Laboratorio di Informatica avanzata",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 4216.584043986316
+      }
+    ],
+    "totalScore": 4216.584043986316
+  },
+  {
+    "university": "Brown University",
+    "lab": "Human to Robots Laboratory",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 76.36753236814712
+      }
+    ],
+    "totalScore": 76.36753236814712
+  },
+  {
+    "university": "Brown University",
+    "lab": "Human to Robots Laboratory",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Brown University",
+    "lab": "Interactive 3D Vision and Learning Lab (IVL)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "Brown University",
+    "lab": "Interactive 3D Vision and Learning Lab (IVL)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Brown University",
+    "lab": "Programming Languages",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "Brown University",
+    "lab": "Programming Languages",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "California Institute of Technology (Caltech)",
+    "lab": "Artificial Intelligence and Machine Learning",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 623.7122734081797
+      }
+    ],
+    "totalScore": 623.7122734081797
+  },
+  {
+    "university": "Carnegie Mellon University",
+    "lab": "Center for Computational Analysis of Social and Organizational Systems",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "Carnegie Mellon University",
+    "lab": "Center for Computational Analysis of Social and Organizational Systems",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Carnegie Mellon University",
+    "lab": "Machine Learning Department",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "Carnegie Mellon University",
+    "lab": "Machine Learning Department",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Carnegie Mellon University",
+    "lab": "Ray and Stephanie Lane Computational Biology Department",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "Carnegie Mellon University",
+    "lab": "Ray and Stephanie Lane Computational Biology Department",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Carnegie Mellon University",
+    "lab": "Software and Societal Systems Department",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "Carnegie Mellon University",
+    "lab": "Software and Societal Systems Department",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "City University of Hong Kong",
+    "lab": "Video, Image, and Sound Analysis Lab (VISAL)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 2
+      }
+    ],
+    "totalScore": 2
+  },
+  {
+    "university": "Cornell University",
+    "lab": "Digital Life Initiative(DLI)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.656854249492381
+      }
+    ],
+    "totalScore": 5.656854249492381
+  },
+  {
+    "university": "Cornell University",
+    "lab": "Digital Life Initiative(DLI)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 181.01933598375618
+      }
+    ],
+    "totalScore": 181.01933598375618
+  },
+  {
+    "university": "EPFL",
+    "lab": "Artificial Intelligence",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "EPFL",
+    "lab": "Artificial Intelligence",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 15.590401797123874
+      }
+    ],
+    "totalScore": 15.590401797123874
+  },
+  {
+    "university": "EPFL",
+    "lab": "Communication Theory",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 25.279502654084588
+      },
+      {
+        "name": "ICML",
+        "score": 15.244444444444444
+      }
+    ],
+    "totalScore": 40.523947098529035
+  },
+  {
+    "university": "EPFL",
+    "lab": "Computer Vision",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ECCV",
+        "score": 45.15942002784651
+      },
+      {
+        "name": "ICCV",
+        "score": 10.5294211099027
+      },
+      {
+        "name": "WACV",
+        "score": 2.7380630175129417
+      }
+    ],
+    "totalScore": 58.42690415526215
+  },
+  {
+    "university": "EPFL",
+    "lab": "Computer Vision",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 31.711135791320167
+      }
+    ],
+    "totalScore": 31.711135791320167
+  },
+  {
+    "university": "EPFL",
+    "lab": "Distributed Computing",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 407.8909167902615
+      },
+      {
+        "name": "ICML",
+        "score": 28.14280869104915
+      },
+      {
+        "name": "NIPS",
+        "score": 9.824596427050013
+      }
+    ],
+    "totalScore": 445.85832190836067
+  },
+  {
+    "university": "EPFL",
+    "lab": "Images and Visual Representation",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 18.520259177452136
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "EPFL",
+    "lab": "Information in Networked Systems",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 25.279502654084588
+      },
+      {
+        "name": "ICML",
+        "score": 15.244444444444444
+      }
+    ],
+    "totalScore": 40.523947098529035
+  },
+  {
+    "university": "EPFL",
+    "lab": "Information Theory",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 25.279502654084588
+      },
+      {
+        "name": "ICML",
+        "score": 15.244444444444444
+      }
+    ],
+    "totalScore": 40.523947098529035
+  },
+  {
+    "university": "EPFL",
+    "lab": "Machine Learning and Optimization",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 25.030102841152708
+      },
+      {
+        "name": "ICLR",
+        "score": 17.24299992383475
+      },
+      {
+        "name": "ICML",
+        "score": 17.198191119352575
+      }
+    ],
+    "totalScore": 59.47129388434003
+  },
+  {
+    "university": "EPFL",
+    "lab": "Machine Learning and Optimization",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 1169.457566566654
+      },
+      {
+        "name": "ACL",
+        "score": 2.2587697572631282
+      }
+    ],
+    "totalScore": 1171.716336323917
+  },
+  {
+    "university": "EPFL",
+    "lab": "Mathematical Data Science",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 13.227244611029162
+      }
+    ],
+    "totalScore": 13.227244611029162
+  },
+  {
+    "university": "EPFL",
+    "lab": "Statistical Mechanics of Inference in Large Systems",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 25.279502654084588
+      },
+      {
+        "name": "ICML",
+        "score": 15.244444444444444
+      }
+    ],
+    "totalScore": 40.523947098529035
+  },
+  {
+    "university": "EPFL",
+    "lab": "Statistical Physics of Computation",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICML",
+        "score": 93.74433316206371
+      },
+      {
+        "name": "NIPS",
+        "score": 1
+      }
+    ],
+    "totalScore": 94.74433316206371
+  },
+  {
+    "university": "EPFL",
+    "lab": "Theory of Machine Learning",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 17.39678013839554
+      }
+    ],
+    "totalScore": 17.39678013839554
+  },
+  {
+    "university": "EPFL",
+    "lab": "Theory of Machine Learning",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 7349.159951994514
+      },
+      {
+        "name": "ICML",
+        "score": 136.40634647267953
+      },
+      {
+        "name": "NIPS",
+        "score": 22.160441662135447
+      }
+    ],
+    "totalScore": 7507.726740129329
+  },
+  {
+    "university": "Georgia Institute of Technology",
+    "lab": "Internet Intelligence Research Lab",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "Georgia Institute of Technology",
+    "lab": "Internet Intelligence Research Lab",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Georgia Institute of Technology",
+    "lab": "Systems Software & Security Lab",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 3240.9040405417745
+      }
+    ],
+    "totalScore": 3240.9040405417745
+  },
+  {
+    "university": "Georgia Institute of Technology",
+    "lab": "Theory Lab",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "Georgia Institute of Technology",
+    "lab": "Theory Lab",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Harvard University",
+    "lab": "Center for Brain Science (CBS)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 96.23408959407264
+      }
+    ],
+    "totalScore": 96.23408959407264
+  },
+  {
+    "university": "Harvard University",
+    "lab": "Hire Aspirations Institute",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 207.06279240848656
+      }
+    ],
+    "totalScore": 207.06279240848656
+  },
+  {
+    "university": "Harvard University",
+    "lab": "Technology and Entrepreneurship Center at Harvard",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 96.23408959407264
+      }
+    ],
+    "totalScore": 96.23408959407264
+  },
+  {
+    "university": "Imperial College London",
+    "lab": "Group on Language Audio & Music (GLAM)",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 189.57056733575496
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 189.57056733575496
+  },
+  {
+    "university": "Imperial College London",
+    "lab": "Language and Multimodal AI Lab (LAMA) group",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 563.939713089972
+      }
+    ],
+    "totalScore": 563.939713089972
+  },
+  {
+    "university": "Imperial College London",
+    "lab": "Language and Multimodal AI Lab (LAMA) group",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 20.631379419180746
+      },
+      {
+        "name": "EACL",
+        "score": 10.392304845413264
+      },
+      {
+        "name": "ACL",
+        "score": 7.207489081506927
+      },
+      {
+        "name": "ACL_EMNLP",
+        "score": 3.2
+      }
+    ],
+    "totalScore": 41.43117334610094
+  },
+  {
+    "university": "Imperial College London",
+    "lab": "Verification of Autonomous Systems (VAS)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 2
+      }
+    ],
+    "totalScore": 2
+  },
+  {
+    "university": "Indian Institute of Science",
+    "lab": "Machine Learning Lab",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 7.4535599249993
+      }
+    ],
+    "totalScore": 7.4535599249993
+  },
+  {
+    "university": "Indian Institute of Science",
+    "lab": "Machine Learning Lab",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 2.8284271247461903
+      },
+      {
+        "name": "ICML",
+        "score": 1
+      }
+    ],
+    "totalScore": 3.8284271247461903
+  },
+  {
+    "university": "Institut Polytechnique de Paris",
+    "lab": "Computer Science and Systems Engineering Laboratory (U2IS)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 385.84582413186746
+      }
+    ],
+    "totalScore": 385.84582413186746
+  },
+  {
+    "university": "KAIST - Korea Advanced Institute of Science & Technology",
+    "lab": "KAIST Kim Jaechul Graduate School of AI Seongnam Research Center",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "WACV",
+        "score": 585.662018573853
+      },
+      {
+        "name": "CVPR",
+        "score": 47.51465490675362
+      },
+      {
+        "name": "ICCV",
+        "score": 13.219017326886032
+      },
+      {
+        "name": "ECCV",
+        "score": 7.936346766617497
+      }
+    ],
+    "totalScore": 654.3320375741101
+  },
+  {
+    "university": "KAIST - Korea Advanced Institute of Science & Technology",
+    "lab": "KAIST Kim Jaechul Graduate School of AI Seongnam Research Center",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 89.8894777582742
+      }
+    ],
+    "totalScore": 89.8894777582742
+  },
+  {
+    "university": "KAIST - Korea Advanced Institute of Science & Technology",
+    "lab": "KAIST Kim Jaechul Graduate School of AI Seongnam Research Center",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 189.23446731548847
+      },
+      {
+        "name": "ICLR",
+        "score": 107.82160951286592
+      },
+      {
+        "name": "ICML",
+        "score": 74.9224671294188
+      }
+    ],
+    "totalScore": 371.9785439577732
+  },
+  {
+    "university": "KAIST - Korea Advanced Institute of Science & Technology",
+    "lab": "KAIST Kim Jaechul Graduate School of AI Seongnam Research Center",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 64
+      },
+      {
+        "name": "ACL_EMNLP",
+        "score": 31.540384394469022
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 95.54038439446902
+  },
+  {
+    "university": "King Abdullah University of Science & Technology (KAUST)",
+    "lab": "Computational Imaging Group",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "King Abdullah University of Science & Technology (KAUST)",
+    "lab": "Computational Imaging Group",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "King Abdullah University of Science & Technology (KAUST)",
+    "lab": "The Numerical Mathematics Group",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "King Abdullah University of Science & Technology (KAUST)",
+    "lab": "The Numerical Mathematics Group",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Korea University",
+    "lab": "High-performance Visual Computing Lab (HVCL)",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "CVPR",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Korea University",
+    "lab": "Natural Language Processing & Artificial Intelligence Lab (NLP&AI Lab)",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 2.8284271247461903
+      },
+      {
+        "name": "EACL",
+        "score": 2.8284271247461903
+      }
+    ],
+    "totalScore": 5.656854249492381
+  },
+  {
+    "university": "Lancaster University",
+    "lab": "Data Science",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "CVPR",
+        "score": 59.264829367846836
+      },
+      {
+        "name": "ECCV",
+        "score": 25.46356602495013
+      },
+      {
+        "name": "ICCV",
+        "score": 22.302419686559407
+      }
+    ],
+    "totalScore": 107.03081507935637
+  },
+  {
+    "university": "Lancaster University",
+    "lab": "Data Science",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 2
+      }
+    ],
+    "totalScore": 2
+  },
+  {
+    "university": "Lancaster University",
+    "lab": "Data Science",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 407.8909167902615
+      }
+    ],
+    "totalScore": 407.8909167902615
+  },
+  {
+    "university": "Lancaster University",
+    "lab": "Software Engineering",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 89.44271909999159
+      }
+    ],
+    "totalScore": 89.44271909999159
+  },
+  {
+    "university": "Massachusetts Institute of Technology (MIT)",
+    "lab": "Jameel Clinic",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ECCV",
+        "score": 610.940258945177
+      },
+      {
+        "name": "ICCV",
+        "score": 0
+      }
+    ],
+    "totalScore": 610.940258945177
+  },
+  {
+    "university": "Massachusetts Institute of Technology (MIT)",
+    "lab": "Jameel Clinic",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 59.9687521840611
+      },
+      {
+        "name": "ICLR",
+        "score": 25.58691673505702
+      }
+    ],
+    "totalScore": 85.55566891911812
+  },
+  {
+    "university": "Massachusetts Institute of Technology (MIT)",
+    "lab": "Sociotechnical Systems Research Center (SSRC)",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Massachusetts Institute of Technology (MIT)",
+    "lab": "Sociotechnical Systems Research Center (SSRC)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 9.223080279629565
+      }
+    ],
+    "totalScore": 9.223080279629565
+  },
+  {
+    "university": "Massachusetts Institute of Technology (MIT)",
+    "lab": "Sociotechnical Systems Research Center (SSRC)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 29.38975948392759
+      }
+    ],
+    "totalScore": 29.38975948392759
+  },
+  {
+    "university": "Massachusetts Institute of Technology (MIT)",
+    "lab": "Sociotechnical Systems Research Center (SSRC)",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL",
+        "score": 1
+      }
+    ],
+    "totalScore": 1
+  },
+  {
+    "university": "McGill University",
+    "lab": "Artificial Intelligence",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 79.11295069804972
+      }
+    ],
+    "totalScore": 79.11295069804972
+  },
+  {
+    "university": "McGill University",
+    "lab": "Artificial Intelligence",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 32.326027743619385
+      },
+      {
+        "name": "ICLR",
+        "score": 29.471954011327753
+      }
+    ],
+    "totalScore": 61.79798175494714
+  },
+  {
+    "university": "McGill University",
+    "lab": "Artificial Intelligence",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 8
+      },
+      {
+        "name": "ACL_EMNLP",
+        "score": 5.224707731634768
+      },
+      {
+        "name": "ACL",
+        "score": 1.9228265654434213
+      }
+    ],
+    "totalScore": 15.14753429707819
+  },
+  {
+    "university": "McGill University",
+    "lab": "Bioinformatics and Computational Biology",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 71.24193444271776
+      }
+    ],
+    "totalScore": 71.24193444271776
+  },
+  {
+    "university": "McGill University",
+    "lab": "Bioinformatics and Computational Biology",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 11.999506893221628
+      },
+      {
+        "name": "ICLR",
+        "score": 9.841104965336745
+      }
+    ],
+    "totalScore": 21.840611858558376
+  },
+  {
+    "university": "McGill University",
+    "lab": "Computer Systems and Networks",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 30.542693567626216
+      }
+    ],
+    "totalScore": 30.542693567626216
+  },
+  {
+    "university": "McGill University",
+    "lab": "Computer Systems and Networks",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 9.400236934394226
+      }
+    ],
+    "totalScore": 9.400236934394226
+  },
+  {
+    "university": "McGill University",
+    "lab": "Programming Languages",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 10.694714635689254
+      }
+    ],
+    "totalScore": 10.694714635689254
+  },
+  {
+    "university": "McGill University",
+    "lab": "Robotics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 71.24193444271776
+      }
+    ],
+    "totalScore": 71.24193444271776
+  },
+  {
+    "university": "McGill University",
+    "lab": "Software Engineering",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 476.4252302303059
+      }
+    ],
+    "totalScore": 476.4252302303059
+  },
+  {
+    "university": "National Taiwan University (NTU)",
+    "lab": "Bioinformatics and Cheminformatics Lab",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 385.84582413186746
+      }
+    ],
+    "totalScore": 385.84582413186746
+  },
+  {
+    "university": "National University of Singapore (NUS)",
+    "lab": "Advanced Robotics Center (ARC)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 385.84582413186746
+      }
+    ],
+    "totalScore": 385.84582413186746
+  },
+  {
+    "university": "National University of Singapore (NUS)",
+    "lab": "Image & National Satellite of Excellence in Trustworthy Software Systems (NSoE-TSS)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "National University of Singapore (NUS)",
+    "lab": "Image & National Satellite of Excellence in Trustworthy Software Systems (NSoE-TSS)",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "New York University (NYU)",
+    "lab": "CILVR Lab (Computational Intelligence, Learning, Vision, and Robotics)",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "New York University (NYU)",
+    "lab": "CILVR Lab (Computational Intelligence, Learning, Vision, and Robotics)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 649.519052838329
+      },
+      {
+        "name": "ICML",
+        "score": 44.09775017217924
+      }
+    ],
+    "totalScore": 693.6168030105082
+  },
+  {
+    "university": "New York University (NYU)",
+    "lab": "CILVR Lab (Computational Intelligence, Learning, Vision, and Robotics)",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL",
+        "score": 42.42546216146319
+      },
+      {
+        "name": "ACL_EMNLP",
+        "score": 35.321911143023776
+      },
+      {
+        "name": "NAACL",
+        "score": 26.013434703178774
+      }
+    ],
+    "totalScore": 103.76080800766573
+  },
+  {
+    "university": "New York University (NYU)",
+    "lab": "Machine Learning for Language (ML²) Group",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 649.519052838329
+      },
+      {
+        "name": "ICML",
+        "score": 89.44271909999159
+      }
+    ],
+    "totalScore": 738.9617719383206
+  },
+  {
+    "university": "New York University (NYU)",
+    "lab": "Machine Learning for Language (ML²) Group",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL",
+        "score": 41.78464219569434
+      },
+      {
+        "name": "ACL_EMNLP",
+        "score": 35.78703872575106
+      },
+      {
+        "name": "EACL",
+        "score": 34.62712241217422
+      },
+      {
+        "name": "NAACL",
+        "score": 19.48250158207599
+      }
+    ],
+    "totalScore": 131.6813049156956
+  },
+  {
+    "university": "Northwestern University",
+    "lab": "IDEAS - Design Automation of Intelligent Systems",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Northwestern University",
+    "lab": "IDEAS - Design Automation of Intelligent Systems",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 10.392304845413264
+      }
+    ],
+    "totalScore": 10.392304845413264
+  },
+  {
+    "university": "Northwestern University",
+    "lab": "Interactive Audio Lab",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Northwestern University",
+    "lab": "NuLogiCS Group",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Northwestern University",
+    "lab": "NuLogiCS Group",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 10.392304845413264
+      }
+    ],
+    "totalScore": 10.392304845413264
+  },
+  {
+    "university": "Northwestern University",
+    "lab": "NuLogiCS Group",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 20.901733311745858
+      }
+    ],
+    "totalScore": 20.901733311745858
+  },
+  {
+    "university": "Northwestern University",
+    "lab": "Qualitative Reasoning Group",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 8.180611821946384
+      }
+    ],
+    "totalScore": 8.180611821946384
+  },
+  {
+    "university": "Peking University",
+    "lab": "元宇宙技术研究所",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "CVPR",
+        "score": 1.4696938456699067
+      }
+    ],
+    "totalScore": 1.4696938456699067
+  },
+  {
+    "university": "Peking University",
+    "lab": "前沿计算研究中心",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 125
+      },
+      {
+        "name": "CVPR",
+        "score": 11.180339887498949
+      }
+    ],
+    "totalScore": 136.18033988749895
+  },
+  {
+    "university": "Peking University",
+    "lab": "前沿计算研究中心",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 12.0613443952272
+      }
+    ],
+    "totalScore": 12.0613443952272
+  },
+  {
+    "university": "Peking University",
+    "lab": "前沿计算研究中心",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 25.209366771256338
+      },
+      {
+        "name": "ICML",
+        "score": 24.767743906075538
+      },
+      {
+        "name": "ICLR",
+        "score": 1
+      }
+    ],
+    "totalScore": 50.97711067733188
+  },
+  {
+    "university": "Peking University",
+    "lab": "数据科学与工程研究所",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ECCV",
+        "score": 301.8691769624716
+      }
+    ],
+    "totalScore": 301.8691769624716
+  },
+  {
+    "university": "Peking University",
+    "lab": "数据科学与工程研究所",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICML",
+        "score": 35.934029495089376
+      },
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 35.934029495089376
+  },
+  {
+    "university": "Peking University",
+    "lab": "数据科学与工程研究所",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL_EMNLP",
+        "score": 11.137391966061385
+      }
+    ],
+    "totalScore": 11.137391966061385
+  },
+  {
+    "university": "Peking University",
+    "lab": "视频与视觉技术研究所",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "WACV",
+        "score": 322.21576621884907
+      },
+      {
+        "name": "ICCV",
+        "score": 51.11475606503307
+      },
+      {
+        "name": "ECCV",
+        "score": 44.279019437472996
+      },
+      {
+        "name": "CVPR",
+        "score": 24.851924724985146
+      }
+    ],
+    "totalScore": 442.4614664463403
+  },
+  {
+    "university": "Peking University",
+    "lab": "视频与视觉技术研究所",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 23.25255031053112
+      }
+    ],
+    "totalScore": 23.25255031053112
+  },
+  {
+    "university": "Peking University",
+    "lab": "视频与视觉技术研究所",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 64
+      },
+      {
+        "name": "NIPS",
+        "score": 61.36451740356967
+      },
+      {
+        "name": "ICML",
+        "score": 27.913993669063533
+      }
+    ],
+    "totalScore": 153.2785110726332
+  },
+  {
+    "university": "Peking University",
+    "lab": "视频与视觉技术研究所",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL",
+        "score": 4024.2113513084773
+      }
+    ],
+    "totalScore": 4024.2113513084773
+  },
+  {
+    "university": "Peking University",
+    "lab": "网络与高能效计算研究所",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 41.89138011845258
+      }
+    ],
+    "totalScore": 41.89138011845258
+  },
+  {
+    "university": "Peking University",
+    "lab": "计算语言学研究所",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 35.411492623680104
+      }
+    ],
+    "totalScore": 35.411492623680104
+  },
+  {
+    "university": "Peking University",
+    "lab": "计算语言学研究所",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 164.31676725154983
+      },
+      {
+        "name": "NIPS",
+        "score": 1
+      }
+    ],
+    "totalScore": 165.31676725154983
+  },
+  {
+    "university": "Peking University",
+    "lab": "计算语言学研究所",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL_EMNLP",
+        "score": 37.23327193181655
+      },
+      {
+        "name": "ACL",
+        "score": 16.029798448048542
+      },
+      {
+        "name": "NAACL",
+        "score": 2.9733979874721124
+      }
+    ],
+    "totalScore": 56.23646836733721
+  },
+  {
+    "university": "Peking University",
+    "lab": "软件研究所",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "CVPR",
+        "score": 8
+      }
+    ],
+    "totalScore": 8
+  },
+  {
+    "university": "Peking University",
+    "lab": "软件研究所",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICML",
+        "score": 1482.2280526288794
+      },
+      {
+        "name": "NIPS",
+        "score": 103.18914671611546
+      },
+      {
+        "name": "ICLR",
+        "score": 14.335468554221766
+      }
+    ],
+    "totalScore": 1599.7526678992167
+  },
+  {
+    "university": "Peking University",
+    "lab": "软件研究所",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL_EMNLP",
+        "score": 14.696938456699067
+      }
+    ],
+    "totalScore": 14.696938456699067
+  },
+  {
+    "university": "Pennsylvania State University",
+    "lab": "Center for Artificial Intelligence Foundations and Scientific Applications (CEN…",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 18.430012009817744
+      }
+    ],
+    "totalScore": 18.430012009817744
+  },
+  {
+    "university": "Pennsylvania State University",
+    "lab": "Center for Artificial Intelligence Foundations and Scientific Applications (CEN…",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 148.1620734196171
+      },
+      {
+        "name": "NIPS",
+        "score": 16.757761527873875
+      },
+      {
+        "name": "ICML",
+        "score": 4.242640687119285
+      }
+    ],
+    "totalScore": 169.16247563461025
+  },
+  {
+    "university": "Pennsylvania State University",
+    "lab": "Center for Artificial Intelligence Foundations and Scientific Applications (CEN…",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 8
+      }
+    ],
+    "totalScore": 8
+  },
+  {
+    "university": "Pennsylvania State University",
+    "lab": "Center for Socially Responsible Artificial Intelligence",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 11.637871545381284
+      }
+    ],
+    "totalScore": 11.637871545381284
+  },
+  {
+    "university": "Pennsylvania State University",
+    "lab": "Center for Socially Responsible Artificial Intelligence",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 148.1620734196171
+      },
+      {
+        "name": "NIPS",
+        "score": 54.043951700348984
+      },
+      {
+        "name": "ICML",
+        "score": 1
+      }
+    ],
+    "totalScore": 203.20602511996606
+  },
+  {
+    "university": "Pennsylvania State University",
+    "lab": "Center for Socially Responsible Artificial Intelligence",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL",
+        "score": 5.74959574576069
+      }
+    ],
+    "totalScore": 5.74959574576069
+  },
+  {
+    "university": "Pennsylvania State University",
+    "lab": "Software Systems Security Laboratory",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICML",
+        "score": 132.5745073534124
+      }
+    ],
+    "totalScore": 132.5745073534124
+  },
+  {
+    "university": "Pohang University of Science And Technology (POSTECH)",
+    "lab": "Algorithms (ALGO) Lab",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ECCV",
+        "score": 125
+      }
+    ],
+    "totalScore": 125
+  },
+  {
+    "university": "Pohang University of Science And Technology (POSTECH)",
+    "lab": "Algorithms (ALGO) Lab",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 11.180339887498949
+      }
+    ],
+    "totalScore": 11.180339887498949
+  },
+  {
+    "university": "Pohang University of Science And Technology (POSTECH)",
+    "lab": "Algorithms (ALGO) Lab",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 140.29611541307906
+      }
+    ],
+    "totalScore": 140.29611541307906
+  },
+  {
+    "university": "Seoul National University",
+    "lab": "Software Platform Lab",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 22.360679774997898
+      },
+      {
+        "name": "ICLR",
+        "score": 11.180339887498949
+      }
+    ],
+    "totalScore": 33.54101966249685
+  },
+  {
+    "university": "Seoul National University",
+    "lab": "Vision and Learning Lab",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ECCV",
+        "score": 206.37829343223092
+      },
+      {
+        "name": "ICCV",
+        "score": 140.29611541307906
+      },
+      {
+        "name": "CVPR",
+        "score": 0
+      }
+    ],
+    "totalScore": 346.67440884531
+  },
+  {
+    "university": "Seoul National University",
+    "lab": "Vision and Learning Lab",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 2
+      }
+    ],
+    "totalScore": 2
+  },
+  {
+    "university": "Seoul National University",
+    "lab": "Vision and Learning Lab",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL_EMNLP",
+        "score": 21.251865995755235
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 21.251865995755235
+  },
+  {
+    "university": "Seoul National University",
+    "lab": "Visual Computing Lab",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 18.520259177452136
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "Shanghai Jiao Tong University",
+    "lab": "Chen Guihai",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 27.62440693213194
+      }
+    ],
+    "totalScore": 27.62440693213194
+  },
+  {
+    "university": "Shanghai Jiao Tong University",
+    "lab": "Gao Xiaofeng",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 243.55492193753753
+      }
+    ],
+    "totalScore": 243.55492193753753
+  },
+  {
+    "university": "Shanghai Jiao Tong University",
+    "lab": "Gao Xiaofeng",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICML",
+        "score": 291.8629815512752
+      }
+    ],
+    "totalScore": 291.8629815512752
+  },
+  {
+    "university": "Shanghai Jiao Tong University",
+    "lab": "Guo Minyi",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 14.696938456699067
+      }
+    ],
+    "totalScore": 14.696938456699067
+  },
+  {
+    "university": "Shanghai Jiao Tong University",
+    "lab": "Guo Minyi",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 89.44271909999159
+      }
+    ],
+    "totalScore": 89.44271909999159
+  },
+  {
+    "university": "Shanghai Jiao Tong University",
+    "lab": "Guo Minyi",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 441.71484014010673
+      }
+    ],
+    "totalScore": 441.71484014010673
+  },
+  {
+    "university": "Shanghai Jiao Tong University",
+    "lab": "Wu Fan",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 207.06279240848656
+      }
+    ],
+    "totalScore": 207.06279240848656
+  },
+  {
+    "university": "Shanghai Jiao Tong University",
+    "lab": "Yao Bin",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 7.483314773547883
+      }
+    ],
+    "totalScore": 7.483314773547883
+  },
+  {
+    "university": "Texas A&M University",
+    "lab": "Aggie Graphics Group",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "Texas A&M University",
+    "lab": "Aggie Graphics Group",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "The University of Hong Kong",
+    "lab": "Law & Technology Centre",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 291.8629815512752
+      }
+    ],
+    "totalScore": 291.8629815512752
+  },
+  {
+    "university": "The University of Hong Kong",
+    "lab": "Law & Technology Centre",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 1855.5190648441207
+      }
+    ],
+    "totalScore": 1855.5190648441207
+  },
+  {
+    "university": "The University of Melbourne",
+    "lab": "Algorithms\nEffective data structures and algorithms optimise the performance of any computer program. Computer science has a number of continuing areas of interest including text information retrieval (search) technology, text indexation and compression, and the analysis of big data.",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "The University of Melbourne",
+    "lab": "Algorithms\nEffective data structures and algorithms optimise the performance of any computer program. Computer science has a number of continuing areas of interest including text information retrieval (search) technology, text indexation and compression, and the analysis of big data.",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "The University of Melbourne",
+    "lab": "Databases and Information Retrieval\nDatabases is the study of efficient storage, retrieval, and management of large data, whereas information retrieval is the process of accessing and extracting relevant information from the databases.",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "The University of Melbourne",
+    "lab": "Databases and Information Retrieval\nDatabases is the study of efficient storage, retrieval, and management of large data, whereas information retrieval is the process of accessing and extracting relevant information from the databases.",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "The University of Melbourne",
+    "lab": "Distributed Systems and Cloud Computing\nOur world-leading distributed computing research group is pushing the boundaries of how we can extract more performance and computer-power from large-scale networks of computing devices. Fog, edge, cloud and grid computing issues are a continuing focus of our distributed computing work.",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "The University of Melbourne",
+    "lab": "Distributed Systems and Cloud Computing\nOur world-leading distributed computing research group is pushing the boundaries of how we can extract more performance and computer-power from large-scale networks of computing devices. Fog, edge, cloud and grid computing issues are a continuing focus of our distributed computing work.",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "The University of Melbourne",
+    "lab": "Programming Languages and Formal Verification\nWe work on designing and implementing programming language and formal verification tools and techniques that enable the development of high-assurance trustworthy software.",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "The University of Melbourne",
+    "lab": "Programming Languages and Formal Verification\nWe work on designing and implementing programming language and formal verification tools and techniques that enable the development of high-assurance trustworthy software.",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "The University of Melbourne",
+    "lab": "Quantum Computing\nQuantum computing focuses on developing computer technology based on the principles of quantum theory, which explains the nature and behavior of energy and matter on the quantum (atomic and subatomic) level.",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "The University of Melbourne",
+    "lab": "Quantum Computing\nQuantum computing focuses on developing computer technology based on the principles of quantum theory, which explains the nature and behavior of energy and matter on the quantum (atomic and subatomic) level.",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "The University of Melbourne",
+    "lab": "Security and Privacy\nWe are working on novel and practical solutions to improve the security and privacy of large real-world systems. Our research includes both attack and defense approaches that work on different layers, from web APIs, ML models, core software libraries to micro-architecture, firmware and hardware.",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "The University of Melbourne",
+    "lab": "Security and Privacy\nWe are working on novel and practical solutions to improve the security and privacy of large real-world systems. Our research includes both attack and defense approaches that work on different layers, from web APIs, ML models, core software libraries to micro-architecture, firmware and hardware.",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "The University of Melbourne",
+    "lab": "Software Engineering\nSoftware Engineering is a multidisciplinary field which focuses on the systematic design, development, testing, and maintenance of software applications and systems. Research areas within this theme encompass topics such as software quality assurance, agile methodologies, program repair, and human and social aspects of software engineering.",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "The University of Melbourne",
+    "lab": "Software Engineering\nSoftware Engineering is a multidisciplinary field which focuses on the systematic design, development, testing, and maintenance of software applications and systems. Research areas within this theme encompass topics such as software quality assurance, agile methodologies, program repair, and human and social aspects of software engineering.",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "The University of Tokyo",
+    "lab": "Naoto Yokoya",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "The University of Tokyo",
+    "lab": "Naoto Yokoya",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Tsinghua University",
+    "lab": "高性能计算研究所",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 343
+      },
+      {
+        "name": "ICML",
+        "score": 1
+      }
+    ],
+    "totalScore": 344
+  },
+  {
+    "university": "Tsinghua University",
+    "lab": "高性能计算研究所",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL_EMNLP",
+        "score": 14.696938456699067
+      }
+    ],
+    "totalScore": 14.696938456699067
+  },
+  {
+    "university": "Tsinghua University",
+    "lab": "人机交互与媒体集成研究所",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "CVPR",
+        "score": 27.31437658411814
+      },
+      {
+        "name": "ECCV",
+        "score": 22.15375276802004
+      },
+      {
+        "name": "ICCV",
+        "score": 7.725000956256665
+      }
+    ],
+    "totalScore": 57.19313030839484
+  },
+  {
+    "university": "Tsinghua University",
+    "lab": "人机交互与媒体集成研究所",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 72.38752334917643
+      }
+    ],
+    "totalScore": 72.38752334917643
+  },
+  {
+    "university": "Tsinghua University",
+    "lab": "人机交互与媒体集成研究所",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 159.17117666750192
+      },
+      {
+        "name": "ICLR",
+        "score": 125
+      },
+      {
+        "name": "ICML",
+        "score": 33.038754376669594
+      }
+    ],
+    "totalScore": 317.2099310441715
+  },
+  {
+    "university": "Tsinghua University",
+    "lab": "智能技术与系统实验室",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "WACV",
+        "score": 301.8691769624716
+      },
+      {
+        "name": "CVPR",
+        "score": 35.62926541590679
+      },
+      {
+        "name": "ECCV",
+        "score": 16.778603461508098
+      },
+      {
+        "name": "ICCV",
+        "score": 11.589899252530437
+      }
+    ],
+    "totalScore": 365.8669450924169
+  },
+  {
+    "university": "Tsinghua University",
+    "lab": "智能技术与系统实验室",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 208.1154650954725
+      }
+    ],
+    "totalScore": 208.1154650954725
+  },
+  {
+    "university": "Tsinghua University",
+    "lab": "智能技术与系统实验室",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 74.39279047901698
+      },
+      {
+        "name": "NIPS",
+        "score": 67.54308131116356
+      },
+      {
+        "name": "ICML",
+        "score": 63.57046680452568
+      }
+    ],
+    "totalScore": 205.50633859470622
+  },
+  {
+    "university": "Tsinghua University",
+    "lab": "智能技术与系统实验室",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL_EMNLP",
+        "score": 112.05075257207199
+      },
+      {
+        "name": "ACL",
+        "score": 69.37938686628301
+      },
+      {
+        "name": "NAACL",
+        "score": 56.839151130843504
+      }
+    ],
+    "totalScore": 238.26929056919852
+  },
+  {
+    "university": "Tsinghua University",
+    "lab": "计算机网络研究所",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ECCV",
+        "score": 281.969856544986
+      },
+      {
+        "name": "CVPR",
+        "score": 15.408168138082466
+      }
+    ],
+    "totalScore": 297.3780246830685
+  },
+  {
+    "university": "Tsinghua University",
+    "lab": "计算机网络研究所",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Tsinghua University",
+    "lab": "计算机软件研究所",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 23.709581709715962
+      }
+    ],
+    "totalScore": 23.709581709715962
+  },
+  {
+    "university": "Tsinghua University",
+    "lab": "计算机软件研究所",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 85.86187860768831
+      },
+      {
+        "name": "ICML",
+        "score": 64
+      }
+    ],
+    "totalScore": 149.8618786076883
+  },
+  {
+    "university": "Tsinghua University",
+    "lab": "计算机软件研究所",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 51.70540483246301
+      },
+      {
+        "name": "ACL_EMNLP",
+        "score": 14.742404498334265
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 66.44780933079727
+  },
+  {
+    "university": "Universidad de Chile",
+    "lab": "RELELA: Representations for Learning and Language",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "Universidad de Chile",
+    "lab": "RELELA: Representations for Learning and Language",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "Université de Montréal",
+    "lab": "Robotics and Embodied AI Lab (REAL)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "Université de Montréal",
+    "lab": "Robotics and Embodied AI Lab (REAL)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "AI: Artificial Intelligence",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 172.60069524773067
+      },
+      {
+        "name": "ECCV",
+        "score": 103.18914671611546
+      },
+      {
+        "name": "WACV",
+        "score": 22.290583384097076
+      },
+      {
+        "name": "CVPR",
+        "score": 8.5183541999992
+      }
+    ],
+    "totalScore": 306.5987795479424
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "AI: Artificial Intelligence",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 20.342141284942752
+      }
+    ],
+    "totalScore": 20.342141284942752
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "AI: Artificial Intelligence",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 103.18914671611546
+      },
+      {
+        "name": "ICML",
+        "score": 64
+      },
+      {
+        "name": "NIPS",
+        "score": 31.057381296677455
+      }
+    ],
+    "totalScore": 198.2465280127929
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Algorithms Lab",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "WACV",
+        "score": 70.09279563550022
+      }
+    ],
+    "totalScore": 70.09279563550022
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Algorithms Lab",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 2
+      }
+    ],
+    "totalScore": 2
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Algorithms Lab",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0.47140452079103173
+      }
+    ],
+    "totalScore": 0.47140452079103173
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "AMLTN: Advanced Machine Learning Training Network",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ECCV",
+        "score": 103.18914671611546
+      },
+      {
+        "name": "ICCV",
+        "score": 28.836266227960415
+      },
+      {
+        "name": "WACV",
+        "score": 18.82915144768733
+      },
+      {
+        "name": "CVPR",
+        "score": 8.5183541999992
+      }
+    ],
+    "totalScore": 159.3729185917624
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "AMLTN: Advanced Machine Learning Training Network",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 20.342141284942752
+      }
+    ],
+    "totalScore": 20.342141284942752
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "AMLTN: Advanced Machine Learning Training Network",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 103.18914671611546
+      },
+      {
+        "name": "ICML",
+        "score": 64
+      },
+      {
+        "name": "NIPS",
+        "score": 31.578891822451187
+      }
+    ],
+    "totalScore": 198.76803853856666
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Artificial Intelligence (AI) and Machine Learning (ML)",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ECCV",
+        "score": 103.18914671611546
+      },
+      {
+        "name": "ICCV",
+        "score": 28.836266227960415
+      },
+      {
+        "name": "WACV",
+        "score": 26.332338203276514
+      },
+      {
+        "name": "CVPR",
+        "score": 8.5183541999992
+      }
+    ],
+    "totalScore": 166.8761053473516
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Artificial Intelligence (AI) and Machine Learning (ML)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 21.135656863718037
+      }
+    ],
+    "totalScore": 21.135656863718037
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Artificial Intelligence (AI) and Machine Learning (ML)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 103.18914671611546
+      },
+      {
+        "name": "NIPS",
+        "score": 41.22827449536527
+      },
+      {
+        "name": "ICML",
+        "score": 35.211631949265936
+      }
+    ],
+    "totalScore": 179.62905316074665
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "CAIDA: Centre for Artificial Intelligence Decision-making & Action",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ECCV",
+        "score": 103.18914671611546
+      },
+      {
+        "name": "ICCV",
+        "score": 28.836266227960415
+      },
+      {
+        "name": "WACV",
+        "score": 26.332338203276514
+      },
+      {
+        "name": "CVPR",
+        "score": 8.5183541999992
+      }
+    ],
+    "totalScore": 166.8761053473516
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "CAIDA: Centre for Artificial Intelligence Decision-making & Action",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 21.135656863718037
+      }
+    ],
+    "totalScore": 21.135656863718037
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "CAIDA: Centre for Artificial Intelligence Decision-making & Action",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 103.18914671611546
+      },
+      {
+        "name": "NIPS",
+        "score": 41.22827449536527
+      },
+      {
+        "name": "ICML",
+        "score": 39.446294591144756
+      }
+    ],
+    "totalScore": 183.86371580262548
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "CVL: Computer Vision Lab",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 28.836266227960415
+      },
+      {
+        "name": "WACV",
+        "score": 9.405752052437029
+      },
+      {
+        "name": "CVPR",
+        "score": 8.5183541999992
+      }
+    ],
+    "totalScore": 46.76037248039665
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "CVL: Computer Vision Lab",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5778.083419266289
+      }
+    ],
+    "totalScore": 5778.083419266289
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "CVL: Computer Vision Lab",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 16.067884112814163
+      }
+    ],
+    "totalScore": 16.067884112814163
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "DFP: Designing for People Cluster",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 1314.5341380123987
+      },
+      {
+        "name": "WACV",
+        "score": 7.261843774138907
+      }
+    ],
+    "totalScore": 1321.7959817865376
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "DMM: Data Management and Mining Lab",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 96.23408959407264
+      }
+    ],
+    "totalScore": 96.23408959407264
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "DSI: Data Science Institute",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "CVPR",
+        "score": 252.98221281347037
+      },
+      {
+        "name": "ICCV",
+        "score": 172.60069524773067
+      },
+      {
+        "name": "WACV",
+        "score": 13.85640646055102
+      }
+    ],
+    "totalScore": 439.43931452175207
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "DSI: Data Science Institute",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5778.083419266289
+      }
+    ],
+    "totalScore": 5778.083419266289
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "DSI: Data Science Institute",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 16.99378804179089
+      }
+    ],
+    "totalScore": 16.99378804179089
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Graphics & HCI",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 1314.5341380123987
+      },
+      {
+        "name": "WACV",
+        "score": 7.261843774138907
+      }
+    ],
+    "totalScore": 1321.7959817865376
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Graphics & HCI",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 2.8284271247461903
+      }
+    ],
+    "totalScore": 2.8284271247461903
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Imager: Laboratory for Graphics, Visualization and HCI",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 1314.5341380123987
+      },
+      {
+        "name": "WACV",
+        "score": 7.261843774138907
+      }
+    ],
+    "totalScore": 1321.7959817865376
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Imager: Laboratory for Graphics, Visualization and HCI",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 2.8284271247461903
+      }
+    ],
+    "totalScore": 2.8284271247461903
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "MILD: Mathematics of Information, Learning and Data",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ECCV",
+        "score": 103.18914671611546
+      },
+      {
+        "name": "WACV",
+        "score": 70.09279563550022
+      }
+    ],
+    "totalScore": 173.28194235161567
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "MILD: Mathematics of Information, Learning and Data",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 103.18914671611546
+      },
+      {
+        "name": "ICML",
+        "score": 81.36474803145538
+      },
+      {
+        "name": "NIPS",
+        "score": 18.737168290862872
+      }
+    ],
+    "totalScore": 203.29106303843372
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "ML: Machine Learning",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ECCV",
+        "score": 103.18914671611546
+      },
+      {
+        "name": "ICCV",
+        "score": 28.836266227960415
+      },
+      {
+        "name": "WACV",
+        "score": 26.332338203276514
+      },
+      {
+        "name": "CVPR",
+        "score": 8.5183541999992
+      }
+    ],
+    "totalScore": 166.8761053473516
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "ML: Machine Learning",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 21.135656863718037
+      }
+    ],
+    "totalScore": 21.135656863718037
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "ML: Machine Learning",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICLR",
+        "score": 103.18914671611546
+      },
+      {
+        "name": "ICML",
+        "score": 35.211631949265936
+      },
+      {
+        "name": "NIPS",
+        "score": 27.21432066433979
+      }
+    ],
+    "totalScore": 165.6150993297212
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "NLP: Natural Language Processing",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 96.23408959407264
+      }
+    ],
+    "totalScore": 96.23408959407264
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "PLAI: Programming Languages for Artificial Intelligence",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "WACV",
+        "score": 156.1697794069006
+      }
+    ],
+    "totalScore": 156.1697794069006
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "PLAI: Programming Languages for Artificial Intelligence",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 16.97056274847714
+      }
+    ],
+    "totalScore": 16.97056274847714
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Security and Privacy Group",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 27.386127875258307
+      }
+    ],
+    "totalScore": 27.386127875258307
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Security and Privacy Group",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICML",
+        "score": 18440.94335981758
+      }
+    ],
+    "totalScore": 18440.94335981758
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Software Engineering, Programming Languages and Formal Methods",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 12.089953721775599
+      }
+    ],
+    "totalScore": 12.089953721775599
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "SPL: Software Practices Lab",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 12.089953721775599
+      }
+    ],
+    "totalScore": 12.089953721775599
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Systems & Data",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "CVPR",
+        "score": 252.98221281347037
+      },
+      {
+        "name": "ICCV",
+        "score": 172.60069524773067
+      },
+      {
+        "name": "WACV",
+        "score": 13.85640646055102
+      }
+    ],
+    "totalScore": 439.43931452175207
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Systems & Data",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 23.930330116736023
+      }
+    ],
+    "totalScore": 23.930330116736023
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Systems & Data",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICML",
+        "score": 18440.94335981758
+      },
+      {
+        "name": "NIPS",
+        "score": 25.55909497899674
+      }
+    ],
+    "totalScore": 18466.502454796577
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Systopia: Systems Research, construed broadly",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 27.386127875258307
+      }
+    ],
+    "totalScore": 27.386127875258307
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Systopia: Systems Research, construed broadly",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICML",
+        "score": 18440.94335981758
+      },
+      {
+        "name": "NIPS",
+        "score": 12.089953721775599
+      }
+    ],
+    "totalScore": 18453.033313539352
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Theory & Scientific Computing",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "WACV",
+        "score": 70.09279563550022
+      }
+    ],
+    "totalScore": 70.09279563550022
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Theory & Scientific Computing",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 2
+      }
+    ],
+    "totalScore": 2
+  },
+  {
+    "university": "University of British Columbia",
+    "lab": "Theory & Scientific Computing",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0.47140452079103173
+      }
+    ],
+    "totalScore": 0.47140452079103173
+  },
+  {
+    "university": "University of California, Berkeley (UCB)",
+    "lab": "Agile Design of Efficient Processing Technologies (ADEPT)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 10.392304845413264
+      }
+    ],
+    "totalScore": 10.392304845413264
+  },
+  {
+    "university": "University of California, Berkeley (UCB)",
+    "lab": "Berkeley Laboratory for Automation Science and Engineering (AUTOLab)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "University of California, Berkeley (UCB)",
+    "lab": "Berkeley Laboratory for Automation Science and Engineering (AUTOLab)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "University of California, Berkeley (UCB)",
+    "lab": "Center for Augmented Cognition (CAC)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "University of California, Berkeley (UCB)",
+    "lab": "Center for Augmented Cognition (CAC)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "University of California, Berkeley (UCB)",
+    "lab": "Center for the Theoretical Foundations of Learning, Inference, Information, Intelligence, Mathematics and Microeconomics at Berkeley (CLIMB)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 44.5592128621811
+      },
+      {
+        "name": "ICML",
+        "score": 29.166096393846733
+      },
+      {
+        "name": "ICLR",
+        "score": 19.419753395021857
+      }
+    ],
+    "totalScore": 93.14506265104968
+  },
+  {
+    "university": "University of California, Berkeley (UCB)",
+    "lab": "Industrial Cyber-Physical Systems Center (iCyPhy)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "University of California, Berkeley (UCB)",
+    "lab": "Industrial Cyber-Physical Systems Center (iCyPhy)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "University of California, Berkeley (UCB)",
+    "lab": "Laboratory for Automation Science and Engineering (AUTOLAB)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "University of California, Berkeley (UCB)",
+    "lab": "Laboratory for Automation Science and Engineering (AUTOLAB)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "University of California, Berkeley (UCB)",
+    "lab": "Software Principles for Advanced Networking (SPAN)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 22.21270331933613
+      }
+    ],
+    "totalScore": 22.21270331933613
+  },
+  {
+    "university": "University of California, Berkeley (UCB)",
+    "lab": "Software Principles for Advanced Networking (SPAN)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "University of California, Los Angeles (UCLA)",
+    "lab": "Scalable Analytics Institute",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 430.34056281043274
+      }
+    ],
+    "totalScore": 430.34056281043274
+  },
+  {
+    "university": "University of California, Los Angeles (UCLA)",
+    "lab": "Scalable Analytics Institute",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 15.480470613460083
+      }
+    ],
+    "totalScore": 15.480470613460083
+  },
+  {
+    "university": "University of California, Los Angeles (UCLA)",
+    "lab": "Scalable Analytics Institute",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICML",
+        "score": 156.1697794069006
+      },
+      {
+        "name": "NIPS",
+        "score": 93.8294754662452
+      },
+      {
+        "name": "ICLR",
+        "score": 78.58473447197605
+      }
+    ],
+    "totalScore": 328.58398934512184
+  },
+  {
+    "university": "University of California, Los Angeles (UCLA)",
+    "lab": "Scalable Analytics Institute",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Analytical Solutions and Reasoning (ASR) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Analytical Solutions and Reasoning (ASR) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Computing Education (ITU) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Computing Education (ITU) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Design of Information Systems (DESIGN) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Design of Information Systems (DESIGN) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Digital Innovation (DIN) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Digital Innovation (DIN) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Digital Security (SEC) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Digital Security (SEC) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Digital Signal Processing and Image Analysis (DSB) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Digital Signal Processing and Image Analysis (DSB) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Entrepreneurship (ENT) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Entrepreneurship (ENT) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Information Systems (IS) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Information Systems (IS) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Language Technology Group (LTG) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Language Technology Group (LTG) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Nanoelectronics (NANO) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Nanoelectronics (NANO) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Networks and Distributed Systems (ND) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Networks and Distributed Systems (ND) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Programming Technology (PT) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Programming Technology (PT) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Reliable systems (PSY) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Reliable systems (PSY) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Robotics and Intelligent Systems (ROBIN) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Robotics and Intelligent Systems (ROBIN) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Scientific Computing and Machine Learning (SCML) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Scientific Computing and Machine Learning (SCML) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Software Engineering (SE) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Software Engineering (SE) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Strategic Research Initiative: Concurrent Security and Robustness for Networked Systems (ConSeRNS) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Strategic Research Initiative: Concurrent Security and Robustness for Networked Systems (ConSeRNS) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Strategic Research Initiative: Multimodal medical imaging and image analysis (MEDIMA) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Strategic Research Initiative: Multimodal medical imaging and image analysis (MEDIMA) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Technology and Sustainable Futures (TSF) - Department of Informatics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 5.857578214100848
+      }
+    ],
+    "totalScore": 5.857578214100848
+  },
+  {
+    "university": "University of Oslo",
+    "lab": "Technology and Sustainable Futures (TSF) - Department of Informatics",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 18.520259177452136
+      },
+      {
+        "name": "ACL",
+        "score": 0
+      }
+    ],
+    "totalScore": 18.520259177452136
+  },
+  {
+    "university": "University of Pennsylvania",
+    "lab": "Penn Research in Machine Learning (PRiML)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 16.354414206915116
+      }
+    ],
+    "totalScore": 16.354414206915116
+  },
+  {
+    "university": "University of Pennsylvania",
+    "lab": "Penn Research in Machine Learning (PRiML)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICML",
+        "score": 3694.850335263933
+      },
+      {
+        "name": "NIPS",
+        "score": 56.222873592756
+      }
+    ],
+    "totalScore": 3751.0732088566892
+  },
+  {
+    "university": "University of Pennsylvania",
+    "lab": "Penn Research in Machine Learning (PRiML)",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 27
+      },
+      {
+        "name": "EACL",
+        "score": 27
+      }
+    ],
+    "totalScore": 54
+  },
+  {
+    "university": "University of Southern California",
+    "lab": "Robotics and Autonomous Systems Center (RASC)",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "WACV",
+        "score": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "university": "University of Southern California",
+    "lab": "Robotics and Autonomous Systems Center (RASC)",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 10.373536738765264
+      }
+    ],
+    "totalScore": 10.373536738765264
+  },
+  {
+    "university": "University of Southern California",
+    "lab": "Robotics and Autonomous Systems Center (RASC)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 15.893914232917657
+      },
+      {
+        "name": "ICML",
+        "score": 0
+      },
+      {
+        "name": "ICLR",
+        "score": 0
+      }
+    ],
+    "totalScore": 15.893914232917657
+  },
+  {
+    "university": "University of Southern California",
+    "lab": "Robotics and Autonomous Systems Center (RASC)",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 19.258600203196842
+      },
+      {
+        "name": "EACL",
+        "score": 15.79754727797958
+      },
+      {
+        "name": "ACL",
+        "score": 13.936696220958655
+      },
+      {
+        "name": "ACL_EMNLP",
+        "score": 11.70587448798504
+      }
+    ],
+    "totalScore": 60.698718190120125
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Artificial Inteslligence",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "CVPR",
+        "score": 49.94259716689445
+      },
+      {
+        "name": "ECCV",
+        "score": 40.21923691140526
+      },
+      {
+        "name": "ICCV",
+        "score": 22.052095048549145
+      },
+      {
+        "name": "WACV",
+        "score": 5.196152422706632
+      }
+    ],
+    "totalScore": 117.41008154955549
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Artificial Inteslligence",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 55.14682444756269
+      }
+    ],
+    "totalScore": 55.14682444756269
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Artificial Inteslligence",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 129.40353339390046
+      },
+      {
+        "name": "ICML",
+        "score": 54.89367709851993
+      },
+      {
+        "name": "ICLR",
+        "score": 31.356788838047777
+      }
+    ],
+    "totalScore": 215.65399933046817
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Artificial Inteslligence",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL_EMNLP",
+        "score": 28.554869787647643
+      },
+      {
+        "name": "NAACL",
+        "score": 25.8180473164883
+      },
+      {
+        "name": "ACL",
+        "score": 7.92730415345872
+      }
+    ],
+    "totalScore": 62.30022125759466
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Bioinformatics & Computational Biology",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 148.1620734196171
+      }
+    ],
+    "totalScore": 148.1620734196171
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Bioinformatics & Computational Biology",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 27.66740461666733
+      }
+    ],
+    "totalScore": 27.66740461666733
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Bioinformatics & Computational Biology",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 26.222508064899156
+      },
+      {
+        "name": "ICLR",
+        "score": 18.9888378717293
+      }
+    ],
+    "totalScore": 45.211345936628454
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Bioinformatics & Computational Biology",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 140.29611541307906
+      },
+      {
+        "name": "ACL_EMNLP",
+        "score": 36.4828726939094
+      },
+      {
+        "name": "ACL",
+        "score": 1.9228265654434213
+      }
+    ],
+    "totalScore": 178.70181467243188
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Computer Vision",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "CVPR",
+        "score": 47.51800118155149
+      },
+      {
+        "name": "ECCV",
+        "score": 40.21923691140526
+      },
+      {
+        "name": "ICCV",
+        "score": 22.052095048549145
+      },
+      {
+        "name": "WACV",
+        "score": 5.196152422706632
+      }
+    ],
+    "totalScore": 114.98548556421252
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Computer Vision",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICML",
+        "score": 148.1620734196171
+      },
+      {
+        "name": "NIPS",
+        "score": 19.56777475401507
+      }
+    ],
+    "totalScore": 167.72984817363215
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Databases",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 756.1659870689768
+      }
+    ],
+    "totalScore": 756.1659870689768
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Formal Methods",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICML",
+        "score": 453.18759912424787
+      },
+      {
+        "name": "NIPS",
+        "score": 30.772969762986836
+      }
+    ],
+    "totalScore": 483.96056888723473
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Graphics & Visualization",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "CVPR",
+        "score": 47.331289699782275
+      },
+      {
+        "name": "ICCV",
+        "score": 41.42562787246681
+      },
+      {
+        "name": "ECCV",
+        "score": 40.21923691140526
+      },
+      {
+        "name": "WACV",
+        "score": 5.196152422706632
+      }
+    ],
+    "totalScore": 134.17230690636097
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Graphics & Visualization",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "ICML",
+        "score": 148.1620734196171
+      },
+      {
+        "name": "NIPS",
+        "score": 19.56777475401507
+      }
+    ],
+    "totalScore": 167.72984817363215
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Intelligent Robotics",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "CVPR",
+        "score": 117.57550765359254
+      }
+    ],
+    "totalScore": 117.57550765359254
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Intelligent Robotics",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 16.215510229147664
+      }
+    ],
+    "totalScore": 16.215510229147664
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Intelligent Robotics",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 28.348875729648135
+      }
+    ],
+    "totalScore": 28.348875729648135
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Machine Learning",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "CVPR",
+        "score": 33.525071254749214
+      },
+      {
+        "name": "ICCV",
+        "score": 28.85398336746529
+      },
+      {
+        "name": "ECCV",
+        "score": 22.616799280244486
+      },
+      {
+        "name": "WACV",
+        "score": 5.196152422706632
+      }
+    ],
+    "totalScore": 90.19200632516564
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Machine Learning",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 45.57235661424278
+      }
+    ],
+    "totalScore": 45.57235661424278
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Machine Learning",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 106.13308443213323
+      },
+      {
+        "name": "ICLR",
+        "score": 31.356788838047777
+      },
+      {
+        "name": "ICML",
+        "score": 23.420588129994776
+      }
+    ],
+    "totalScore": 160.9104614001758
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Machine Learning",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL_EMNLP",
+        "score": 28.554869787647643
+      },
+      {
+        "name": "NAACL",
+        "score": 24.733871235043015
+      },
+      {
+        "name": "ACL",
+        "score": 7.92730415345872
+      }
+    ],
+    "totalScore": 61.21604517614938
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Natural Language Processing",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 797.5311906126306
+      }
+    ],
+    "totalScore": 797.5311906126306
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Natural Language Processing",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 29.38764174843281
+      }
+    ],
+    "totalScore": 29.38764174843281
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Natural Language Processing",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "ACL_EMNLP",
+        "score": 28.554869787647643
+      },
+      {
+        "name": "NAACL",
+        "score": 21.29481882595574
+      },
+      {
+        "name": "ACL",
+        "score": 8.349617723413838
+      }
+    ],
+    "totalScore": 58.19930633701722
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Scientific Computing",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ICCV",
+        "score": 148.1620734196171
+      }
+    ],
+    "totalScore": 148.1620734196171
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Scientific Computing",
+    "field": "General AI",
+    "conferences": [
+      {
+        "name": "AAAI_CAI",
+        "score": 132.5745073534124
+      }
+    ],
+    "totalScore": 132.5745073534124
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Scientific Computing",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 9.291068275941935
+      }
+    ],
+    "totalScore": 9.291068275941935
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Scientific Computing",
+    "field": "NLP",
+    "conferences": [
+      {
+        "name": "NAACL",
+        "score": 140.29611541307906
+      }
+    ],
+    "totalScore": 140.29611541307906
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Security and Privacy",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 756.1659870689768
+      }
+    ],
+    "totalScore": 756.1659870689768
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Systems and Networking",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 756.1659870689768
+      }
+    ],
+    "totalScore": 756.1659870689768
+  },
+  {
+    "university": "University of Texas at Austin",
+    "lab": "Theoretical Computer Science",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 23.818874953373452
+      }
+    ],
+    "totalScore": 23.818874953373452
+  },
+  {
+    "university": "University of Washington",
+    "lab": "Cyber-Physical Systems Lab (CPSL)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 3240.9040405417745
+      }
+    ],
+    "totalScore": 3240.9040405417745
+  },
+  {
+    "university": "Yale University",
+    "lab": "Computer Systems Lab (CSL)",
+    "field": "Computer Vision",
+    "conferences": [
+      {
+        "name": "ECCV",
+        "score": 825.5131737289237
+      }
+    ],
+    "totalScore": 825.5131737289237
+  },
+  {
+    "university": "Yale University",
+    "lab": "Computer Systems Lab (CSL)",
+    "field": "Machine Learning",
+    "conferences": [
+      {
+        "name": "NIPS",
+        "score": 20293.614365114954
+      }
+    ],
+    "totalScore": 20293.614365114954
+  }
+]

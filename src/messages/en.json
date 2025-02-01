@@ -1,0 +1,130 @@
+{
+    "Metadata": {
+        "title": "Idea2Posts - AI-Powered Thread Posting Automation Service",
+        "description": "AI saves you 90% of the time spent managing your threads. If you have a link or idea, we'll automatically generate optimized Thread posts for you.",
+        "og": {
+            "title": "Idea2Posts - AI-Powered Thread Management Automation",
+            "description": "AI saves you 90% of the time spent managing your threads! Just share a content link. AI will automatically generate and schedule posts.",
+            "alt": "Idea2Posts Preview"
+        },
+        "twitter": {
+            "title": "Idea2Posts - AI-Powered Thread Management Automation",
+            "description": "AI saves you 90% of the time spent managing your threads! Just share a content link. AI will automatically generate and schedule posts."
+        }
+    },
+    "Landing": {
+        "welcome": "Welcome!"
+    },
+    "Navigation": {
+        "home": "Home",
+        "about": "About",
+        "contact": "Contact",
+        "conferenceRanking": "Conference Ranking",
+        "labRanking": "Lab Ranking"
+    },
+    "Footer": {
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "copyright": "© 2024 World Lab Ranking. All rights reserved."
+    },
+    "Privacy": {
+        "metadata": {
+            "title": "Privacy Policy - World Lab Ranking",
+            "description": "Privacy Policy for World Lab Ranking"
+        },
+        "title": "Privacy Policy",
+        "lastUpdated": "Last Updated: January 1, 2024",
+        "sections": {
+            "dataCollection": {
+                "title": "Personal Information We Collect",
+                "content": "We may collect the following personal information to provide our services:",
+                "items": {
+                    "personal": "Email address, name",
+                    "usage": "Service usage history, access logs",
+                    "technical": "IP address, browser information"
+                }
+            },
+            "dataUse": {
+                "title": "How We Use Your Information",
+                "content": "The collected personal information is used for the following purposes:",
+                "items": {
+                    "service": "Service provision and operation",
+                    "improvement": "Service improvement and development",
+                    "communication": "Notifications and customer support"
+                }
+            },
+            "dataSecurity": {
+                "title": "Data Protection",
+                "content": "We implement necessary technical and administrative measures to protect your personal information securely."
+            },
+            "cookies": {
+                "title": "Use of Cookies",
+                "content": "We may use cookies to provide our services, and users can refuse cookie usage through their browser settings."
+            },
+            "thirdParty": {
+                "title": "Third-Party Disclosure",
+                "content": "We do not share your personal information with third parties without your consent."
+            },
+            "contact": {
+                "title": "Contact Us",
+                "content": "If you have any questions about privacy protection, please contact us using the information below."
+            }
+        }
+    },
+    "Terms": {
+        "metadata": {
+            "title": "Terms of Service - World Lab Ranking",
+            "description": "Terms of Service for World Lab Ranking"
+        },
+        "title": "Terms of Service",
+        "lastUpdated": "Last Updated: January 1, 2024",
+        "sections": {
+            "acceptance": {
+                "title": "Agreement to Terms",
+                "content": "By using our service, you agree to be bound by these Terms of Service."
+            },
+            "services": {
+                "title": "Service Description",
+                "content": "World Lab Ranking is a service that analyzes and provides rankings of research institutions worldwide.",
+                "items": {
+                    "automation": "Research institution ranking information",
+                    "scheduling": "Research performance analysis data",
+                    "analytics": "Conference ranking information"
+                }
+            },
+            "accounts": {
+                "title": "Account Management",
+                "content": "Users are responsible for maintaining the accuracy and security of their account information."
+            },
+            "payment": {
+                "title": "Payment",
+                "content": "Users must agree to relevant costs and payment terms when using paid services."
+            },
+            "cancellation": {
+                "title": "Cancellation and Withdrawal",
+                "content": "Users may terminate their account at any time if they wish to discontinue the service."
+            },
+            "prohibited": {
+                "title": "Prohibited Activities",
+                "content": "The following activities are strictly prohibited when using the service:",
+                "items": {
+                    "spam": "Spam or illegal advertising activities",
+                    "illegal": "Using the service for illegal purposes",
+                    "harmful": "Actions that harm others"
+                }
+            },
+            "liability": {
+                "title": "Limitation of Liability",
+                "content": "While we strive for accuracy in the information provided, we do not guarantee the completeness, accuracy, or reliability of all information."
+            },
+            "changes": {
+                "title": "Changes to Terms",
+                "content": "These terms may be modified to reflect changes in laws or service updates."
+            },
+            "contact": {
+                "title": "Contact Us",
+                "content": "If you have any questions about the Terms of Service, please contact us via email below."
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "AAAI_CAI": "General AI",
+    "ACL": "NLP",
+    "ACL_EMNLP": "NLP",
+    "CVPR": "Computer Vision",
+    "EACL": "NLP",
+    "ECCV": "Computer Vision",
+    "ICCV": "Computer Vision",
+    "ICLR": "Machine Learning",
+    "ICML": "Machine Learning",
+    "NAACL": "NLP",
+    "NIPS": "Machine Learning",
+    "WACV": "Computer Vision"
+}
