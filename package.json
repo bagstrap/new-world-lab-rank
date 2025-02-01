@@ -8,12 +8,16 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate-data": "node --loader ts-node/esm src/scripts/generateSortedLabData.ts"
+    "generate-data": "node --loader ts-node/esm src/scripts/generateSortedLabData.ts",
+    "generate-locations": "node --loader ts-node/esm src/scripts/generateUniversityLocations.ts",
+    "generate-final": "node --loader ts-node/esm src/scripts/generateFinalData.ts"
   },
   "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.4.0",
     "@radix-ui/react-select": "^2.1.5",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "dotenv": "^16.4.7",
     "lucide-react": "^0.474.0",
     "next": "15.1.6",
     "next-intl": "^3.26.3",

@@ -1,0 +1,303 @@
+{
+  "Alma Mater Studiorum - University of Bologna": {
+    "lat": 44.4969129,
+    "lng": 11.352376,
+    "country": "Italy",
+    "continent": "Europe",
+    "formatted_address": "Via Zamboni, 33, 40126 Bologna BO, Italy"
+  },
+  "Brown University": {
+    "lat": 41.8267718,
+    "lng": -71.4025482,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "Providence, RI 02912, USA"
+  },
+  "California Institute of Technology (Caltech)": {
+    "lat": 34.1376576,
+    "lng": -118.125269,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "1200 E California Blvd, Pasadena, CA 91125, USA"
+  },
+  "Carnegie Mellon University": {
+    "lat": 40.4432027,
+    "lng": -79.9428499,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "5000 Forbes Ave, Pittsburgh, PA 15213, USA"
+  },
+  "City University of Hong Kong": {
+    "lat": 22.3370342,
+    "lng": 114.17272,
+    "country": "Hong Kong",
+    "continent": "Asia",
+    "formatted_address": "83 Tat Chee Ave, Kowloon Tong, Hong Kong"
+  },
+  "Cornell University": {
+    "lat": 42.4534492,
+    "lng": -76.4735027,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "Ithaca, NY 14850, USA"
+  },
+  "EPFL": {
+    "lat": 46.5190557,
+    "lng": 6.5667576,
+    "country": "Switzerland",
+    "continent": "Europe",
+    "formatted_address": "Rte Cantonale, 1015 Lausanne, Switzerland"
+  },
+  "Georgia Institute of Technology": {
+    "lat": 33.7756178,
+    "lng": -84.39628499999999,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "Atlanta, GA 30332, USA"
+  },
+  "Harvard University": {
+    "lat": 42.3744368,
+    "lng": -71.1182488,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "Massachusetts Hall, Cambridge, MA 02138, USA"
+  },
+  "Imperial College London": {
+    "lat": 51.49882220000001,
+    "lng": -0.1748735,
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "formatted_address": "Exhibition Rd, South Kensington, London SW7 2AZ, UK"
+  },
+  "Indian Institute of Science": {
+    "lat": 13.0170646,
+    "lng": 77.5658741,
+    "country": "India",
+    "continent": "Asia",
+    "formatted_address": "CV Raman Rd, Bengaluru, Karnataka 560012, India"
+  },
+  "Institut Polytechnique de Paris": {
+    "lat": 48.7126092,
+    "lng": 2.2107564,
+    "country": "France",
+    "continent": "Europe",
+    "formatted_address": "Rte de Saclay, 91120 Palaiseau, France"
+  },
+  "KAIST - Korea Advanced Institute of Science & Technology": {
+    "lat": 36.3721427,
+    "lng": 127.36039,
+    "country": "South Korea",
+    "continent": "Asia",
+    "formatted_address": "291 Daehak-ro, Yuseong District, Daejeon, South Korea"
+  },
+  "King Abdullah University of Science & Technology (KAUST)": {
+    "lat": 22.313251,
+    "lng": 39.1094336,
+    "country": "Saudi Arabia",
+    "continent": "Asia",
+    "formatted_address": "King Abdullah University Of Science And Technology Saudi Arabia"
+  },
+  "Korea University": {
+    "lat": 37.58938759999999,
+    "lng": 127.0324773,
+    "country": "South Korea",
+    "continent": "Asia",
+    "formatted_address": "145 Anam-ro, Seongbuk District, Seoul, South Korea"
+  },
+  "Lancaster University": {
+    "lat": 54.0103942,
+    "lng": -2.7877294,
+    "country": "United Kingdom",
+    "continent": "Europe",
+    "formatted_address": "Bailrigg, Lancaster LA1 4YW, UK"
+  },
+  "Massachusetts Institute of Technology (MIT)": {
+    "lat": 42.360091,
+    "lng": -71.09416,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "77 Massachusetts Ave, Cambridge, MA 02139, USA"
+  },
+  "McGill University": {
+    "lat": 45.50601839999999,
+    "lng": -73.5783235,
+    "country": "Canada",
+    "continent": "North America",
+    "formatted_address": "845 Rue Sherbrooke O, Montréal, QC H3A 0G4, Canada"
+  },
+  "National Taiwan University (NTU)": {
+    "lat": 25.0173405,
+    "lng": 121.5397518,
+    "country": "Taiwan",
+    "continent": "Asia",
+    "formatted_address": "No. 1, Section 4, Roosevelt Rd, Da’an District, Taipei City, Taiwan 10617"
+  },
+  "National University of Singapore (NUS)": {
+    "lat": 1.2966426,
+    "lng": 103.7763939,
+    "country": "Singapore",
+    "continent": "Asia",
+    "formatted_address": "21 Lower Kent Ridge Rd, Singapore 119077"
+  },
+  "New York University (NYU)": {
+    "lat": 40.72951339999999,
+    "lng": -73.9964609,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "New York, NY 10012, USA"
+  },
+  "Northwestern University": {
+    "lat": 42.0564594,
+    "lng": -87.67526699999999,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "633 Clark St, Evanston, IL 60208, USA"
+  },
+  "Peking University": {
+    "lat": 39.986913,
+    "lng": 116.3058739,
+    "country": "China",
+    "continent": "Asia",
+    "formatted_address": "5 Yi He Yuan Lu, Hai Dian Qu, Bei Jing Shi, China, 100871"
+  },
+  "Pennsylvania State University": {
+    "lat": 40.7982133,
+    "lng": -77.8599084,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "201 Old Main, University Park, PA 16802, USA"
+  },
+  "Pohang University of Science And Technology (POSTECH)": {
+    "lat": 36.0138857,
+    "lng": 129.3231836,
+    "country": "South Korea",
+    "continent": "Asia",
+    "formatted_address": "77 Cheongam-ro, Nam-gu, Pohang, Gyeongsangbuk-do, South Korea"
+  },
+  "Seoul National University": {
+    "lat": 37.4648267,
+    "lng": 126.9571988,
+    "country": "South Korea",
+    "continent": "Asia",
+    "formatted_address": "1 Gwanak-ro, Gwanak-gu, Seoul, South Korea"
+  },
+  "Shanghai Jiao Tong University": {
+    "lat": 31.0252201,
+    "lng": 121.4337784,
+    "country": "China",
+    "continent": "Asia",
+    "formatted_address": "China, Shang Hai Shi, Min Hang Qu, 老闵行东川路 邮政编码: 200240"
+  },
+  "Texas A&M University": {
+    "lat": 30.6187055,
+    "lng": -96.3364682,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "400 Bizzell St, College Station, TX 77840, USA"
+  },
+  "The University of Hong Kong": {
+    "lat": 22.2830891,
+    "lng": 114.1365621,
+    "country": "Hong Kong",
+    "continent": "Asia",
+    "formatted_address": "Pok Fu Lam, Hong Kong"
+  },
+  "The University of Melbourne": {
+    "lat": -37.7983459,
+    "lng": 144.960974,
+    "country": "Australia",
+    "continent": "Oceania",
+    "formatted_address": "Parkville VIC 3052, Australia"
+  },
+  "The University of Tokyo": {
+    "lat": 35.7138159,
+    "lng": 139.7627345,
+    "country": "Japan",
+    "continent": "Asia",
+    "formatted_address": "7-chōme-3-1 Hongō, Bunkyo City, Tokyo 113-8654, Japan"
+  },
+  "Tsinghua University": {
+    "lat": 39.9996674,
+    "lng": 116.3264439,
+    "country": "China",
+    "continent": "Asia",
+    "formatted_address": "30 Shuang Qing Lu, 蓝旗营 Hai Dian Qu, Bei Jing Shi, China, 100190"
+  },
+  "Universidad de Chile": {
+    "lat": -33.444508,
+    "lng": -70.6509542,
+    "country": "Chile",
+    "continent": "South America",
+    "formatted_address": "Av. Alameda Libertador Bernardo O'Higgins 1058, 8330111 Santiago, Región Metropolitana, Chile"
+  },
+  "Université de Montréal": {
+    "lat": 45.5018869,
+    "lng": -73.56739189999999,
+    "country": "Canada",
+    "continent": "North America",
+    "formatted_address": "Montreal, QC, Canada"
+  },
+  "University of British Columbia": {
+    "lat": 49.26060520000001,
+    "lng": -123.2459939,
+    "country": "Canada",
+    "continent": "North America",
+    "formatted_address": "Vancouver, BC V6T 1Z4, Canada"
+  },
+  "University of California, Berkeley (UCB)": {
+    "lat": 37.8712141,
+    "lng": -122.255463,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "Berkeley, CA, USA"
+  },
+  "University of California, Los Angeles (UCLA)": {
+    "lat": 34.0699182,
+    "lng": -118.4438495,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "Los Angeles, CA 90095, USA"
+  },
+  "University of Oslo": {
+    "lat": 59.9404992,
+    "lng": 10.7215296,
+    "country": "Norway",
+    "continent": "Europe",
+    "formatted_address": "Problemveien 11, 0313 Oslo, Norway"
+  },
+  "University of Pennsylvania": {
+    "lat": 39.9515013,
+    "lng": -75.1910161,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "Philadelphia, PA 19104, USA"
+  },
+  "University of Southern California": {
+    "lat": 34.0223519,
+    "lng": -118.285117,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "Los Angeles, CA 90007, USA"
+  },
+  "University of Texas at Austin": {
+    "lat": 30.2850284,
+    "lng": -97.7335226,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "2515 Speedway, Austin, TX 78712, USA"
+  },
+  "University of Washington": {
+    "lat": 47.65671709999999,
+    "lng": -122.3066181,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "1410 NE Campus Pkwy, Seattle, WA 98195, USA"
+  },
+  "Yale University": {
+    "lat": 41.3163244,
+    "lng": -72.92234309999999,
+    "country": "United States",
+    "continent": "North America",
+    "formatted_address": "New Haven, CT 06520, USA"
+  }
+}

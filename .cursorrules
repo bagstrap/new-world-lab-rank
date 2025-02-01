@@ -1,0 +1,37 @@
+use nextjs
+use shadcn
+use tailwindcss
+use typescript
+use supabase authentication and ssr
+
+For readability and maintainability, separate the code that goes in and out of the DB.
+Seperate DB data type into different files.
+always consider how to upgrade SEO performance
+always consider how to make user performance better
+Always consider the design to fit the feel of my project.
+Always consider localization, don't hardcode any text in the website.
+Always consider security, Code with the user's permissions in mind.
+supabase getSession is dangerous in server side use getUser instead.
+Recognize that user is an imperfect developer, and share your potential danger with coding like this.
+seperate page, component, and data and design into different files.
+
+Important : distinguish server component and client component. and if it is client component then use client side action, if it is server component then use server side action. 
+For example, next-intl is client component, so use client side action.and next-intl/server is server component, so use server side action.
+
+
+Project Description :
+Based on each lab's version of the QS Ranking, and each lab's score, the site allows users to see which labs are doing well in their field of study. Target audience: people preparing for graduate school
+We aim to modernize the entire journey—from identifying top-ranked universities and professors to connecting researchers across subfields—so that anyone can seamlessly navigate the global academic landscape and find the perfect fit for their research aspirations.
+
+By offering intuitive tools and data-driven insights, we strive to empower the research community to make informed decisions, foster collaboration, and ultimately drive innovation forward.
+
+
+디자인은 토스느낌!! 깔끔 세련 동글함 푸른 신뢰감
+전체적인 프로젝트의 톤은 한국의 토스라는 앱의 디자인을 참고하면 됨. 토스앱은 파란색을 중심으로 하는 신뢰감 있는 톤임.
+
+
+Important : Before Doing Start Acting, Always start with "tree -I '__pycache__|node_modules|env|.venv|dist|build|.git|.vscode|.idea|*.log|*.tmp|*.bak|*.orig|*.pyo|*.pyc|*.class|*.o|.DS_Store|Thumbs.db|Icon\r|.pytest_cache|.mypy_cache|coverage' command."
+Even if you don't think tree is important, it's essential, so don't ignore it. If you ignore this, I'm in too much trouble.
+This rule must be highest priority.
+
+Don't Ask user too much, finish what user want and ask user if you need more information.

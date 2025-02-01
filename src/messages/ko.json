@@ -13,14 +13,33 @@
         }
     },
     "Landing": {
-        "welcome": "환영합니다!"
+        "welcome": "환영합니다!",
+        "title": "당신에게 맞는 연구실을 찾아보세요",
+        "description": "컴퓨터 과학 분야의 논문 발표와 영향력을 기반으로 전 세계 연구실을 탐색하고 비교해보세요.",
+        "explore_labs": "연구실 탐색하기",
+        "current_features": "현재 제공 중",
+        "cs_ranking_title": "컴퓨터 사이언스 순위",
+        "cs_ranking_description": "학회 논문 발표와 인용을 기반으로 한 컴퓨터 사이언스 연구실의 종합 순위입니다.",
+        "features": {
+            "feature1": "최상위 학회 논문 기반 순위",
+            "feature2": "연구 분야별 상세 영향력 분석",
+            "feature3": "대학별 연구실 비교"
+        },
+        "coming_soon": "준비 중",
+        "future_fields_title": "더 많은 분야로 확장",
+        "future_fields_description": "더 많은 학문 분야로 서비스를 확장하고 있습니다.",
+        "future_features": {
+            "future1": "공학 기술 연구실",
+            "future2": "생명과학 및 의학 연구",
+            "future3": "물리학 및 수학 순위"
+        }
     },
     "Navigation": {
         "home": "홈",
         "about": "소개",
-        "contact": "연락처",
-        "conferenceRanking": "학회 랭킹",
-        "labRanking": "연구실 랭킹"
+        "contact": "문의",
+        "conferenceRanking": "학회 순위",
+        "labRanking": "연구실 순위"
     },
     "Footer": {
         "privacy": "개인정보 처리방침",
@@ -125,6 +144,47 @@
                 "title": "문의하기",
                 "content": "이용약관과 관련된 문의사항이 있으시면 아래 이메일로 연락해 주시기 바랍니다."
             }
+        }
+    },
+    "conference_ranking": {
+        "title": "학회 순위"
+    },
+    "lab_ranking": {
+        "title": "연구실 순위",
+        "description": "전 세계 연구실의 논문 발표와 영향력을 기반으로 비교하고 탐색해보세요.",
+        "filters": {
+            "select_continent": "대륙 선택",
+            "select_country": "국가 선택",
+            "select_field": "연구 분야 선택",
+            "select_conference": "학회 선택",
+            "all_continents": "모든 대륙",
+            "all_countries": "모든 국가",
+            "all_fields": "모든 분야",
+            "all_conferences": "모든 학회"
+        },
+        "search_placeholder": "연구실 또는 대학교 이름으로 검색...",
+        "total_score": "총점",
+        "field_score": "분야 점수",
+        "total": "전체",
+        "no_results": "검색 조건에 맞는 연구실이 없습니다",
+        "lab": "Lab",
+        "conferences": "학회",
+        "fields_name": "분야",
+        "conference_details": "학회 상세",
+        "field_details": "분야 상세",
+        "continents": {
+            "north america": "북아메리카",
+            "south america": "남아메리카",
+            "europe": "유럽",
+            "asia": "아시아",
+            "oceania": "오세아니아",
+            "africa": "아프리카"
+        },
+        "fields": {
+            "computer vision": "컴퓨터 비전",
+            "machine learning": "머신 러닝",
+            "general ai": "일반 AI",
+            "nlp": "자연어 처리"
         }
     }
 }

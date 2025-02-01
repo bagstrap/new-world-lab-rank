@@ -13,7 +13,25 @@
         }
     },
     "Landing": {
-        "welcome": "Welcome!"
+        "title": "Find Your Perfect Research Lab",
+        "description": "Explore and compare top research labs worldwide based on their publications and impact in different fields of computer science.",
+        "explore_labs": "Explore Labs",
+        "current_features": "Currently Available",
+        "cs_ranking_title": "Computer Science Rankings",
+        "cs_ranking_description": "Comprehensive rankings of computer science research labs based on conference publications and citations.",
+        "features": {
+            "feature1": "Rankings based on top-tier conference publications",
+            "feature2": "Detailed analysis of research impact by field",
+            "feature3": "Compare labs across different universities"
+        },
+        "coming_soon": "Coming Soon",
+        "future_fields_title": "Expanding to More Fields",
+        "future_fields_description": "We're working on expanding our coverage to more academic fields.",
+        "future_features": {
+            "future1": "Engineering and Technology Research Labs",
+            "future2": "Life Sciences and Medical Research",
+            "future3": "Physics and Mathematics Rankings"
+        }
     },
     "Navigation": {
         "home": "Home",
@@ -126,5 +144,37 @@
                 "content": "If you have any questions about the Terms of Service, please contact us via email below."
             }
         }
+    },
+    "conference_ranking": {
+        "title": "Conference Ranking"
+    },
+    "lab_ranking": {
+        "title": "Lab Rankings",
+        "description": "Explore and compare research labs worldwide based on their publications and impact in different fields.",
+        "filters": {
+            "select_continent": "Select Continent",
+            "select_field": "Select Field",
+            "select_conference": "Select Conference"
+        },
+        "search_placeholder": "Search by lab or university name...",
+        "total_score": "Total Score",
+        "no_results": "No labs found matching your criteria",
+        "lab": "Research Lab",
+        "conferences": "conferences",
+        "continents": {
+            "north america": "North America",
+            "south america": "South America",
+            "europe": "Europe",
+            "asia": "Asia",
+            "oceania": "Oceania",
+            "africa": "Africa"
+        },
+        "fields": {
+            "computer vision": "Computer Vision",
+            "machine learning": "Machine Learning",
+            "general ai": "General AI",
+            "nlp": "Natural Language Processing"
+        },
+        "fields_name": "Fields"
     }
 }

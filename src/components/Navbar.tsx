@@ -11,6 +11,7 @@ export function Navbar() {
     const pathname = usePathname()
 
     const navigation = [
+        { name: t('about'), href: '/about' },
         { name: t('conferenceRanking'), href: '/conference-ranking' },
         { name: t('labRanking'), href: '/lab-ranking' },
     ]
@@ -26,9 +27,11 @@ export function Navbar() {
                                 <Image
                                     src="/logo.png"
                                     alt="Logo"
-                                    width={32}
+                                    width={100}
                                     height={32}
-                                    className="h-8 w-auto"
+                                    className="h-8 w-auto object-contain"
+                                    priority
+                                    quality={100}
                                 />
                             </Link>
                         </div>
@@ -36,14 +39,14 @@ export function Navbar() {
                         {/* Navigation Links */}
                         <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
                             {navigation.map((item) => {
-                                const isActive = pathname.startsWith(item.href)
+                                const isActive = pathname === item.href || pathname.startsWith(item.href + '/')
                                 return (
                                     <Link
                                         key={item.href}
                                         href={item.href}
                                         className={`inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium ${isActive
-                                            ? 'border-blue-500 text-gray-900'
-                                            : 'border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700'
+                                                ? 'border-blue-500 text-gray-900'
+                                                : 'border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700'
                                             }`}
                                     >
                                         {item.name}
