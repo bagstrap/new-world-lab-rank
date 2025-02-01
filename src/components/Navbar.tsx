@@ -63,8 +63,20 @@ export function Navbar() {
                         </div>
                     </div>
 
-                    {/* Language Selector */}
-                    <div className="flex items-center">
+                    {/* Right side items */}
+                    <div className="flex items-center space-x-4">
+                        {/* Newsletter Button */}
+                        <button
+                            onClick={() => {
+                                // TODO: Implement newsletter subscription modal or redirect
+                                console.log('Newsletter subscription clicked')
+                            }}
+                            className="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-full shadow-sm text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors"
+                        >
+                            {t('newsletter')}
+                        </button>
+
+                        {/* Language Selector */}
                         <LanguageSelector />
                     </div>
                 </div>

@@ -44,14 +44,27 @@
             "future1": "Engineering and Technology Research Labs",
             "future2": "Life Sciences and Medical Research",
             "future3": "Physics and Mathematics Rankings"
+        },
+        "faq_title": "Frequently Asked Questions",
+        "faq_description": "Get answers to common questions about our research lab rankings",
+        "faqs": {
+            "q1": "How are lab rankings calculated?",
+            "a1": "Our rankings are based on publications in top-tier conferences, citation impact, and research output quality. We analyze data from multiple sources to provide comprehensive evaluations.",
+            "q2": "How often are rankings updated?",
+            "a2": "Rankings are updated regularly to reflect the latest conference publications and research achievements. We ensure our data stays current with academic developments.",
+            "q3": "Can I suggest a lab to be included?",
+            "a3": "Yes! We welcome suggestions for new labs to include in our rankings. Contact us with the lab's details and publication history.",
+            "q4": "How can I use these rankings?",
+            "a4": "Use our rankings to compare research labs, find potential graduate schools, identify collaboration opportunities, and make informed decisions about your academic career."
         }
     },
     "Navigation": {
         "home": "Home",
         "about": "About",
         "contact": "Contact",
-        "conferenceRanking": "Conference Ranking",
-        "labRanking": "Lab Ranking"
+        "conferenceRanking": "Conference Rankings",
+        "labRanking": "Lab Rankings",
+        "newsletter": "Subscribe to Newsletter"
     },
     "Footer": {
         "privacy": "Privacy Policy",
@@ -61,100 +74,132 @@
     "Privacy": {
         "metadata": {
             "title": "Privacy Policy - World Lab Ranking",
-            "description": "Privacy Policy for World Lab Ranking"
+            "description": "Privacy Policy for World Lab Ranking - Learn how we handle and protect research data and user information"
         },
         "title": "Privacy Policy",
-        "lastUpdated": "Last Updated: January 1, 2024",
+        "lastUpdated": "Last Updated: February 2024",
         "sections": {
             "dataCollection": {
-                "title": "Personal Information We Collect",
-                "content": "We may collect the following personal information to provide our services:",
+                "title": "Data Collection and Research Information",
+                "content": "We collect and process information through automated crawling agents and manual submissions. Here's what we collect:",
                 "items": {
-                    "personal": "Email address, name",
-                    "usage": "Service usage history, access logs",
-                    "technical": "IP address, browser information"
+                    "research": "Public research data from universities and laboratories",
+                    "publication": "Publication records and conference presentations",
+                    "personal": "Basic user information (email, name) when provided",
+                    "usage": "Service usage patterns and preferences",
+                    "technical": "Technical data for service operation"
+                }
+            },
+            "dataAccuracy": {
+                "title": "Data Accuracy and Limitations",
+                "content": "While we strive for accuracy in our data collection and ranking calculations, we acknowledge certain limitations:",
+                "items": {
+                    "coverage": "Our automated crawling may not cover all institutions due to technical limitations",
+                    "security": "Some information may be incomplete due to institutional security measures",
+                    "updates": "Data is updated regularly but may not reflect real-time changes",
+                    "interpretation": "Rankings should be considered as reference points rather than absolute measures"
                 }
             },
             "dataUse": {
-                "title": "How We Use Your Information",
-                "content": "The collected personal information is used for the following purposes:",
+                "title": "How We Use Information",
+                "content": "We use the collected information to:",
                 "items": {
-                    "service": "Service provision and operation",
-                    "improvement": "Service improvement and development",
-                    "communication": "Notifications and customer support"
+                    "ranking": "Generate and maintain research lab rankings",
+                    "analysis": "Provide insights into research trends and performance",
+                    "improvement": "Enhance and develop our services",
+                    "communication": "Facilitate communication within the research community"
                 }
             },
             "dataSecurity": {
-                "title": "Data Protection",
-                "content": "We implement necessary technical and administrative measures to protect your personal information securely."
+                "title": "Data Protection and Privacy",
+                "content": "We prioritize the protection of sensitive information and maintain strict privacy standards:",
+                "items": {
+                    "protection": "Individual researcher information is kept confidential",
+                    "aggregation": "Only aggregated and non-sensitive data is publicly displayed",
+                    "security": "We implement robust security measures to protect all collected data"
+                }
+            },
+            "dataSubmission": {
+                "title": "Data Submission and Corrections",
+                "content": "Users can submit additional information or request corrections to ensure data accuracy. We verify all submissions before inclusion."
             },
             "cookies": {
                 "title": "Use of Cookies",
-                "content": "We may use cookies to provide our services, and users can refuse cookie usage through their browser settings."
+                "content": "We use cookies and similar technologies to enhance user experience and service functionality. Users can control cookie settings through their browsers."
             },
             "thirdParty": {
-                "title": "Third-Party Disclosure",
-                "content": "We do not share your personal information with third parties without your consent."
+                "title": "Third-Party Access",
+                "content": "We do not share individual researcher or sensitive institutional data with third parties. Only publicly available aggregated data may be shared for research purposes."
             },
             "contact": {
                 "title": "Contact Us",
-                "content": "If you have any questions about privacy protection, please contact us using the information below."
+                "content": "For questions about our privacy practices or to submit data corrections, please contact us at:"
             }
         }
     },
     "Terms": {
         "metadata": {
             "title": "Terms of Service - World Lab Ranking",
-            "description": "Terms of Service for World Lab Ranking"
+            "description": "Terms of Service for World Lab Ranking - Understanding our service principles and user guidelines"
         },
         "title": "Terms of Service",
-        "lastUpdated": "Last Updated: January 1, 2024",
+        "lastUpdated": "Last Updated: February 2024",
         "sections": {
             "acceptance": {
                 "title": "Agreement to Terms",
-                "content": "By using our service, you agree to be bound by these Terms of Service."
+                "content": "By using World Lab Ranking, you acknowledge and agree to these terms, including our data collection and ranking methodologies."
             },
             "services": {
                 "title": "Service Description",
-                "content": "World Lab Ranking is a service that analyzes and provides rankings of research institutions worldwide.",
+                "content": "World Lab Ranking provides data-driven insights into global research institutions, aiming to:",
                 "items": {
-                    "automation": "Research institution ranking information",
-                    "scheduling": "Research performance analysis data",
-                    "analytics": "Conference ranking information"
+                    "objective": "Provide objective and fair information for graduate school aspirants",
+                    "trends": "Track and analyze global research trends and achievements",
+                    "transparency": "Maintain transparency in ranking methodologies",
+                    "community": "Foster collaboration within the research community"
                 }
             },
-            "accounts": {
-                "title": "Account Management",
-                "content": "Users are responsible for maintaining the accuracy and security of their account information."
+            "dataAccuracy": {
+                "title": "Data Accuracy Disclaimer",
+                "content": "While we strive for accuracy, users should note:",
+                "items": {
+                    "limitations": "Rankings may have inherent limitations due to data collection constraints",
+                    "completeness": "Not all institutions may be fully represented due to technical limitations",
+                    "interpretation": "Rankings should be used as reference points rather than absolute measures",
+                    "updates": "Data is updated regularly but may not reflect immediate changes"
+                }
             },
-            "payment": {
-                "title": "Payment",
-                "content": "Users must agree to relevant costs and payment terms when using paid services."
-            },
-            "cancellation": {
-                "title": "Cancellation and Withdrawal",
-                "content": "Users may terminate their account at any time if they wish to discontinue the service."
+            "userRights": {
+                "title": "User Rights and Responsibilities",
+                "content": "Users have the right to:",
+                "items": {
+                    "access": "Access and use publicly available ranking information",
+                    "submit": "Submit additional data or correction requests",
+                    "feedback": "Provide feedback on ranking methodologies",
+                    "privacy": "Have their personal information protected"
+                }
             },
             "prohibited": {
                 "title": "Prohibited Activities",
-                "content": "The following activities are strictly prohibited when using the service:",
+                "content": "The following activities are strictly prohibited:",
                 "items": {
-                    "spam": "Spam or illegal advertising activities",
-                    "illegal": "Using the service for illegal purposes",
-                    "harmful": "Actions that harm others"
+                    "misuse": "Misrepresenting ranking data or methodologies",
+                    "scraping": "Unauthorized data scraping or collection",
+                    "harmful": "Using the service to harm institutions or individuals",
+                    "commercial": "Commercial use without explicit permission"
                 }
             },
-            "liability": {
-                "title": "Limitation of Liability",
-                "content": "While we strive for accuracy in the information provided, we do not guarantee the completeness, accuracy, or reliability of all information."
-            },
             "changes": {
-                "title": "Changes to Terms",
-                "content": "These terms may be modified to reflect changes in laws or service updates."
+                "title": "Service Changes",
+                "content": "We may update our services, ranking methodologies, and these terms to improve accuracy and user experience. Users will be notified of significant changes."
+            },
+            "disclaimer": {
+                "title": "Disclaimer of Warranty",
+                "content": "While we strive for accuracy and completeness, our services are provided 'as is' without any warranties regarding the completeness or accuracy of rankings."
             },
             "contact": {
                 "title": "Contact Us",
-                "content": "If you have any questions about the Terms of Service, please contact us via email below."
+                "content": "For questions about these terms or to report issues, please contact us at:"
             }
         }
     },

@@ -11,6 +11,6 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     };
 }
 
-export default async function AboutPage() {
+export default async function HomePage() {
     return <AboutContent />;
-}
+} 
