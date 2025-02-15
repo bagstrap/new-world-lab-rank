@@ -16,6 +16,7 @@ export function Navbar() {
         { name: t('about'), href: '/about' },
         { name: t('labRanking'), href: '/lab-ranking' },
         { name: t('conferenceRanking'), href: '/conference-ranking' },
+        { name: t('gpaCalculator'), href: '/gpa-calculator' },
     ]
 
     // 현재 경로에서 언어 prefix를 제거한 실제 경로 확인

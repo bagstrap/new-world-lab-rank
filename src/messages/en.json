@@ -64,7 +64,8 @@
         "contact": "Contact",
         "conferenceRanking": "Conference Rankings",
         "labRanking": "Lab Rankings",
-        "newsletter": "Subscribe to Newsletter"
+        "newsletter": "Subscribe to Newsletter",
+        "gpaCalculator": "GPA Calculator"
     },
     "Footer": {
         "privacy": "Privacy Policy",
@@ -257,6 +258,48 @@
             "machine learning": "Machine Learning",
             "general ai": "General AI",
             "nlp": "Natural Language Processing"
+        }
+    },
+    "gpa_calculator": {
+        "grade_description": "Additional Notes",
+        "title": "GPA Calculator",
+        "us_grade": "US Grade Conversion",
+        "description": "Convert your grades from any country's grading system to the US 4.0 GPA scale. Simply select your country, choose your institution's grading system, add your courses, and see your converted GPA instantly.",
+        "select_country": "Select Your Country",
+        "select_country_placeholder": "Choose a country...",
+        "select_grading_system": "Select Grading System",
+        "select_grading_system_placeholder": "Choose your institution's grading system...",
+        "no_grading_systems_available": "No grading systems available for this country",
+        "common_scale": "Common Scale",
+        "course_name": "Course Name",
+        "course_name_placeholder": "Enter course name...",
+        "grade": "Grade",
+        "select_grade": "Select grade...",
+        "credits": "Credits",
+        "add_course": "Add Another Course",
+        "remove_course": "Remove Course",
+        "calculate_gpa": "Calculate GPA",
+        "your_gpa": "Your GPA",
+        "gpa_scale_note": "Calculated on US 4.0 scale",
+        "grade_conversion_table": "Grade Conversion Table",
+        "important_notes": "Important Notes",
+        "letter_grade": "Letter Grade",
+        "grade_points": "Grade Points (4.0 Scale)",
+        "score_range": "Score Range",
+        "explanation": {
+            "title": "How GPA is Calculated",
+            "intro": "This calculator helps you convert grades from any country's grading system to the US 4.0 GPA scale, which is widely used by American universities for academic assessment.",
+            "calculation_title": "Calculation Process",
+            "step1": "First, your grades are converted to US equivalent grades, then to GPA points using this standard scale:",
+            "step2": "Each course's GPA points are multiplied by its credits (or hours).",
+            "step2_example": "For example: If you got an A (4.0) in a 3-credit course, that's 12 points (4.0 × 3 = 12).",
+            "step3": "Finally, all points are added up and divided by the total number of credits to get your GPA.",
+            "important_notes_title": "Important Notes",
+            "note1": "Most undergraduate programs require a minimum GPA of 2.0 (C average).",
+            "note2": "Graduate programs typically require a minimum GPA of 3.0 (B average).",
+            "note3": "While D is technically a passing grade in some institutions, many programs won't accept credits with grades below C.",
+            "us_grade": "US Grade",
+            "gpa_points": "GPA Points"
         }
     }
 }

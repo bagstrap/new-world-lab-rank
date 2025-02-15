@@ -1,16 +1,19 @@
 import { getTranslations } from 'next-intl/server';
-import AboutContent from '@/components/AboutContent';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
     const { locale } = await params;
     const t = await getTranslations({ locale, namespace: 'Metadata' });
 
     return {
-        title: t('landing.title'),
-        description: t('landing.description'),
+        title: t('gpa_calculator.title'),
+        description: t('gpa_calculator.description'),
     };
 }
 
-export default async function AboutPage() {
-    return <AboutContent />;
+export default async function GPACalculatorPage() {
+    return (
+        <div>
+            <h1>About</h1>
+        </div>
+    )
 }
