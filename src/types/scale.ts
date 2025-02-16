@@ -14,7 +14,7 @@ export interface GradingScale {
     GradingScaleDescription?: string;
     SortOrder?: number;
     WebEnabled: boolean;
-    Uncommon: boolean;
+    Uncommon?: boolean;
     ReportsEnabled?: boolean;
     CreationDateTime: string;
     LastChangeDateTime: string;
