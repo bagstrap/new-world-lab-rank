@@ -78,6 +78,14 @@ async def crawl_pure_professor_detail(url: str):
         browser = await p.chromium.launch(headless=False)
         page = await browser.new_page()
 
+        # Initialize variables with default values
+        education = ""
+        experience = ""
+        interests = ""
+        achievements = ""
+        sdgs = []
+        research_topics = []
+
         try:
             await page.goto(url)
             await page.wait_for_selector(".person-details", timeout=5000)
@@ -118,29 +126,33 @@ async def crawl_pure_professor_detail(url: str):
             # Extract profile information
             profile_section = await page.query_selector(".person-profileinformation")
             if profile_section:
-                education = await profile_section.query_selector(
+                # Use more defensive selector queries
+                education_section = await profile_section.query_selector(
                     "h3.subheader:text-matches('Education', 'i') + div.textblock"
                 )
-                education = await education.inner_text() if education else ""
+                if education_section:
+                    education = await education_section.inner_text() or ""
 
-                experience = await profile_section.query_selector(
+                experience_section = await profile_section.query_selector(
                     "h3.subheader:text-matches('Professional Experience', 'i') + div.textblock"
                 )
-                experience = await experience.inner_text() if experience else ""
+                if experience_section:
+                    experience = await experience_section.inner_text() or ""
 
-                interests = await profile_section.query_selector(
+                interests_section = await profile_section.query_selector(
                     "h3.subheader:text-matches('Research interests', 'i') + div.textblock"
                 )
-                interests = await interests.inner_text() if interests else ""
+                if interests_section:
+                    interests = await interests_section.inner_text() or ""
 
-                achievements = await profile_section.query_selector(
+                achievements_section = await profile_section.query_selector(
                     "h3.subheader:text-matches('Major Research Achievements', 'i') + div.textblock"
                 )
-                achievements = await achievements.inner_text() if achievements else ""
+                if achievements_section:
+                    achievements = await achievements_section.inner_text() or ""
 
                 # Extract SDGs
                 sdg_images = await page.query_selector_all(".sdgs-content img")
-                sdgs = []
                 for sdg_img in sdg_images:
                     sdg_title = await sdg_img.get_attribute("alt")
                     if sdg_title:
