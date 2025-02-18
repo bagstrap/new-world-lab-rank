@@ -329,8 +329,8 @@ async def process_professor_pipeline(
 
 if __name__ == "__main__":
     universities = [
-        ("https://snucm.elsevierpure.com/", "Seoul National University Medical"),
-        ("https://pure.kaist.ac.kr/", "KAIST"),
+        # ("https://snucm.elsevierpure.com/", "Seoul National University Medical"),
+        # ("https://pure.kaist.ac.kr/", "KAIST"),
         ("https://pure.korea.ac.kr/", "Korea University"),
         ("https://yonsei.elsevierpure.com/", "Yonsei University"),
         ("https://khu.elsevierpure.com/", "Kyung Hee University"),
