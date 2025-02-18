@@ -1,0 +1,2201 @@
+{
+  "https://pure.kaist.ac.kr/en/persons/seungyoung-ahn": {
+    "name": "Seungyoung Ahn",
+    "title": "Design and Analysis of LCC-S Wireless Power Transfer Systems Considering Load-Dependent Leakage Magnetic Field",
+    "department": "Cho Chun Shik Graduate School of Mobility",
+    "email": "sahn@kaist.ac.kr",
+    "citations": 3,
+    "h_index": 30,
+    "research_outputs_by_year": {
+      "2000": 6,
+      "2001": 4,
+      "2002": 3,
+      "2003": 2,
+      "2004": 3,
+      "2007": 2,
+      "2008": 1,
+      "2010": 1,
+      "2011": 7,
+      "2012": 4,
+      "2013": 5,
+      "2014": 15,
+      "2015": 16,
+      "2016": 9,
+      "2017": 17,
+      "2018": 17,
+      "2019": 18,
+      "2020": 24,
+      "2021": 20,
+      "2022": 26,
+      "2023": 18,
+      "2024": 13
+    },
+    "education": [],
+    "professional_experience": [],
+    "research_interests": [],
+    "major_achievements": [],
+    "sustainable_development_goals": [
+      "SDG 3 - Good Health and Well-being",
+      "SDG 7 - Affordable and Clean Energy",
+      "SDG 9 - Industry, Innovation, and Infrastructure",
+      "SDG 16 - Peace, Justice and Strong Institutions"
+    ],
+    "research_topics": [
+      {
+        "topic": "Wireless Power Transfer",
+        "category": "Engineering",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Magnetic Field",
+        "category": "Engineering",
+        "relevance": 0.62
+      },
+      {
+        "topic": "Electric Vehicle",
+        "category": "Engineering",
+        "relevance": 0.26
+      },
+      {
+        "topic": "Printed Circuit Board",
+        "category": "Engineering",
+        "relevance": 0.13
+      },
+      {
+        "topic": "Power Distribution",
+        "category": "Engineering",
+        "relevance": 0.1
+      },
+      {
+        "topic": "Electric Power Distribution",
+        "category": "Engineering",
+        "relevance": 0.1
+      },
+      {
+        "topic": "Power Line",
+        "category": "Engineering",
+        "relevance": 0.1
+      },
+      {
+        "topic": "Electromagnetic Interference",
+        "category": "Engineering",
+        "relevance": 0.1
+      }
+    ],
+    "publications": [
+      {
+        "title": "Accurate Extraction for Inductance of Position Indicator Coil in Noisy Environment Using DC Coil",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/accurate-extraction-for-inductance-of-position-indicator-coil-in-",
+        "date": "2024",
+        "journal": "",
+        "type": "Research output: Chapter in Book/Report/Conference proceeding › Conference contribution › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Direct Current"
+        ]
+      },
+      {
+        "title": "A Method for Deembedding the Mounting Pad and Via-Hole Effect in a Test Fixture for Accurate Impedance Measurement of the Surface Mount Device Component",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/a-method-for-deembedding-the-mounting-pad-and-via-hole-effect-in-",
+        "date": "2024",
+        "journal": "IEEE Transactions on Instrumentation and Measurement.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 2,
+        "concepts": [
+          "Electrical Impedance",
+          "Test Fixture",
+          "Component Device",
+          "Passive Component",
+          "Surface (Surface Science)"
+        ]
+      },
+      {
+        "title": "Analysis of Electrical Stress of Switched-Mode Power Supply (SMPS) on Conductive Electromagnetic Pulses",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/analysis-of-electrical-stress-of-switched-mode-power-supply-smps-",
+        "date": "2024",
+        "journal": "",
+        "type": "Research output: Chapter in Book/Report/Conference proceeding › Conference contribution › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Electromagnetic Pulse",
+          "Electronic Circuit",
+          "Stress Analysis",
+          "Electromagnetic Interference",
+          "Electromagnetic Radiation"
+        ]
+      },
+      {
+        "title": "A Quantitative Channel Pre-Evaluation Method using Eye Aperture for Low-Power Double Data Rate (LPDDR)",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/a-quantitative-channel-pre-evaluation-method-using-eye-aperture-f",
+        "date": "2024",
+        "journal": "",
+        "type": "Research output: Chapter in Book/Report/Conference proceeding › Conference contribution › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Data Rate",
+          "Crosstalk",
+          "Intersymbol Interference",
+          "Step Response"
+        ]
+      },
+      {
+        "title": "Design and Analysis of LCC-S Wireless Power Transfer Systems Considering Load-Dependent Leakage Magnetic Field",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/design-and-analysis-of-lcc-s-wireless-power-transfer-systems-cons",
+        "date": "1 Jun 2024",
+        "journal": "IEEE Transactions on Electromagnetic Compatibility.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 3,
+        "concepts": [
+          "Wireless Power Transfer",
+          "Magnetic Field",
+          "Classification Systems",
+          "Electromagnetic Interference",
+          "Interference Level"
+        ]
+      }
+    ],
+    "profile_url": "https://pure.kaist.ac.kr/en/persons/seungyoung-ahn",
+    "crawled_at": "2025-02-18T16:06:11.358721"
+  },
+  "https://pure.kaist.ac.kr/en/persons/byeong-soo-bae": {
+    "name": "Byeong-Soo Bae",
+    "title": "Environmentally stable luminescent perovskite nanocrystals passivated and encapsulated by siloxane hybrids enabling reliable color-converted organic light-emitting diodes",
+    "department": "Department of Materials Science & Engineering",
+    "email": "bsbae@kaist.ac.kr",
+    "citations": 6,
+    "h_index": 53,
+    "research_outputs_by_year": {
+      "2000": 7,
+      "2001": 8,
+      "2002": 1,
+      "2003": 14,
+      "2004": 16,
+      "2005": 16,
+      "2006": 11,
+      "2007": 10,
+      "2008": 10,
+      "2009": 10,
+      "2010": 13,
+      "2011": 17,
+      "2012": 16,
+      "2013": 13,
+      "2014": 9,
+      "2015": 5,
+      "2016": 21,
+      "2017": 13,
+      "2018": 13,
+      "2019": 9,
+      "2020": 8,
+      "2021": 9,
+      "2022": 7,
+      "2023": 7,
+      "2024": 2
+    },
+    "education": [
+      "o (1986) B.S., Seoul National University",
+      "o (1988) M.Eng. Drexel University",
+      "o (1993) Ph.D., University of Arizona"
+    ],
+    "professional_experience": [
+      "o (2022~Present) Professor, KAIST, Daejeon, Korea",
+      "o (2012~Present) CEO, Solip Tech Co. Daejeon, Korea",
+      "o (2016~Present) Director, Wearable Platform Material Technology Center, KAIST",
+      "o (2006~2007) Visiting Professor, Flexible Display Center (FDC), Arizona State University, USA",
+      "o (2002~2014) Director, Sol-Gel Innovation Project, KAIST",
+      "o (1999~2000) IREX Fellow, Australian National University (ANU), Australia"
+    ],
+    "research_interests": [
+      "o Sol-gel synthesized siloxane hybrid materials (Hybrimers)",
+      "o Glass-fabric reinforced siloxane films for flexible and stretchable devices",
+      "o Low dielectric (Dk & Df) siloxane materials for microwave electronics and advanced semiconductor packaging",
+      "o Quantum dot/Perovskite nanocrystal incorporated siloxane resin for color converting in micro-LED displays",
+      "o PFAS-/NMP-free siloxane binder for electrode materials in Li ion battery"
+    ],
+    "major_achievements": [
+      "o Flexible hard coating resin for foldable/flexible display cover window",
+      "o Transparent glass-fabric reinforced siloxane films for substrate or cover window films of flexible displays",
+      "o Heat/humidity stable quantum dot/Perovskite nanocrystal incorporated siloxane resin for color converting materials in display applications",
+      "o High refractive index and thermally stable LED encapsulant resin",
+      "o Eco-friendly low dielectric (Dk & Df) siloxane materials for microwave electronic substrates (PCB)"
+    ],
+    "sustainable_development_goals": [
+      "SDG 3 - Good Health and Well-being",
+      "SDG 7 - Affordable and Clean Energy",
+      "SDG 12 - Responsible Consumption and Production"
+    ],
+    "research_topics": [
+      {
+        "topic": "Sol-Gel",
+        "category": "Material Science",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Film",
+        "category": "Material Science",
+        "relevance": 0.96
+      },
+      {
+        "topic": "Hybrid Material",
+        "category": "Material Science",
+        "relevance": 0.71
+      },
+      {
+        "topic": "Thin Films",
+        "category": "Material Science",
+        "relevance": 0.51
+      },
+      {
+        "topic": "Thin-Film Transistor",
+        "category": "Material Science",
+        "relevance": 0.4
+      },
+      {
+        "topic": "Refractive Index",
+        "category": "Material Science",
+        "relevance": 0.39
+      },
+      {
+        "topic": "Light-Emitting Diode",
+        "category": "Material Science",
+        "relevance": 0.25
+      },
+      {
+        "topic": "Oxide Compound",
+        "category": "Material Science",
+        "relevance": 0.21
+      }
+    ],
+    "publications": [
+      {
+        "title": "Composite UTG Cover Window Selectively Reinforced with Glass-Cloth for Improvement of Both Pen-Drop Resistance and Foldability",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/composite-utg-cover-window-selectively-reinforced-with-glass-clot",
+        "date": "2024",
+        "journal": "Digest of Technical Papers - SID International Symposium.",
+        "type": "Research output: Contribution to journal › Conference article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Polyethylene Terephthalate",
+          "Film",
+          "Impact Resistance"
+        ]
+      },
+      {
+        "title": "Polarity control of siloxane composite films for triboelectric nanogenerator based self-powered body temperature monitoring",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/polarity-control-of-siloxane-composite-films-for-triboelectric-na",
+        "date": "Aug 2024",
+        "journal": "Nano Energy.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 2,
+        "concepts": [
+          "Triboelectric Nanogenerators",
+          "Self-Powered",
+          "Monitoring System",
+          "Power Source",
+          "Continuous Monitoring"
+        ]
+      },
+      {
+        "title": "A conformable microneedle sensor with photopatternable skin adhesive and gel electrolyte for continuous glucose monitoring",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/a-conformable-microneedle-sensor-with-photopatternable-skin-adhes",
+        "date": "20 Oct 2023",
+        "journal": "Device.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 6,
+        "concepts": [
+          "Microneedle",
+          "Optical Lithography",
+          "Broad Range",
+          "Soft Material",
+          "Patterning Method"
+        ]
+      },
+      {
+        "title": "An intrinsically stretchable multi-biochemical sensor for sweat analysis using photo-patternable ecoflex",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/an-intrinsically-stretchable-multi-biochemical-sensor-for-sweat-a",
+        "date": "Dec 2023",
+        "journal": "npj Flexible Electronics.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 12,
+        "concepts": [
+          "Lithography",
+          "Laser Ablation",
+          "Punching"
+        ]
+      },
+      {
+        "title": "Environmentally stable luminescent perovskite nanocrystals passivated and encapsulated by siloxane hybrids enabling reliable color-converted organic light-emitting diodes",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/environmentally-stable-luminescent-perovskite-nanocrystals-passiv",
+        "date": "15 Oct 2023",
+        "journal": "Chemical Engineering Journal.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 6,
+        "concepts": [
+          "Organic Light-Emitting Diode",
+          "Luminiscence Type",
+          "Siloxane",
+          "Perovskite Nanocrystal",
+          "Light-Emitting Diode"
+        ]
+      }
+    ],
+    "profile_url": "https://pure.kaist.ac.kr/en/persons/byeong-soo-bae",
+    "crawled_at": "2025-02-18T16:06:16.698845"
+  },
+  "https://pure.kaist.ac.kr/en/persons/choongsik-bae": {
+    "name": "Choongsik Bae",
+    "title": "Understanding hydrogen jet dynamics for direct injection hydrogen engines",
+    "department": "Department of Mechanical Engineering",
+    "email": "csbae@kaist.ac.kr",
+    "citations": 11,
+    "h_index": 43,
+    "research_outputs_by_year": {
+      "2000": 8,
+      "2001": 3,
+      "2002": 13,
+      "2003": 6,
+      "2004": 7,
+      "2005": 4,
+      "2006": 6,
+      "2007": 19,
+      "2008": 6,
+      "2009": 14,
+      "2010": 6,
+      "2011": 12,
+      "2012": 6,
+      "2013": 25,
+      "2014": 11,
+      "2015": 17,
+      "2016": 16,
+      "2017": 17,
+      "2018": 8,
+      "2019": 15,
+      "2020": 8,
+      "2021": 15,
+      "2022": 8,
+      "2023": 3,
+      "2024": 2
+    },
+    "education": [],
+    "professional_experience": [],
+    "research_interests": [],
+    "major_achievements": [],
+    "sustainable_development_goals": [
+      "SDG 7 - Affordable and Clean Energy",
+      "SDG 14 - Life Below Water"
+    ],
+    "research_topics": [
+      {
+        "topic": "Ignition Engine",
+        "category": "Engineering",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Compression Ignition",
+        "category": "Engineering",
+        "relevance": 0.79
+      },
+      {
+        "topic": "Direct-Injection",
+        "category": "Engineering",
+        "relevance": 0.68
+      },
+      {
+        "topic": "Exhaust Gas Recirculation",
+        "category": "Engineering",
+        "relevance": 0.5
+      },
+      {
+        "topic": "Diesel Engine",
+        "category": "Engineering",
+        "relevance": 0.48
+      },
+      {
+        "topic": "Spark Ignition Engine",
+        "category": "Engineering",
+        "relevance": 0.46
+      },
+      {
+        "topic": "Injection Pressure",
+        "category": "Engineering",
+        "relevance": 0.43
+      },
+      {
+        "topic": "Indicated Mean Effective Pressure",
+        "category": "Engineering",
+        "relevance": 0.35
+      }
+    ],
+    "publications": [
+      {
+        "title": "Measurement of Hydrogen Jet Equivalence Ratio using Laser Induced Breakdown Spectroscopy",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/measurement-of-hydrogen-jet-equivalence-ratio-using-laser-induced",
+        "date": "9 Apr 2024",
+        "journal": "SAE Technical Papers.",
+        "type": "Research output: Contribution to journal › Conference article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Equivalence Ratio",
+          "Dwell Time",
+          "Constant Volume",
+          "Internal Combustion Engine",
+          "Low Energy Density"
+        ]
+      },
+      {
+        "title": "The future of ship engines: Renewable fuels and enabling technologies for decarbonization",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/the-future-of-ship-engines-renewable-fuels-and-enabling-technolog",
+        "date": "Jan 2024",
+        "journal": "International Journal of Engine Research.",
+        "type": "Research output: Contribution to journal › Editorial",
+        "citations": 14,
+        "concepts": [
+          "Greenhouse Gas",
+          "Fuel Technology",
+          "Carbon Fuel"
+        ]
+      },
+      {
+        "title": "Improvements of Thermal and Combustion Efficiencies by Modifying a Piston Geometry in a Diesel/Natural Gas RCCI Engine",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/improvements-of-thermal-and-combustion-efficiencies-by-modifying-",
+        "date": "11 Apr 2023",
+        "journal": "SAE Technical Papers.",
+        "type": "Research output: Contribution to journal › Conference article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Low Carbon Fuel"
+        ]
+      },
+      {
+        "title": "The Effect of Engine Parameters on In-Cylinder Pressure Reconstruction from Vibration Signals Based on a DNN Model in CNG-Diesel Dual-Fuel Engine",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/the-effect-of-engine-parameters-on-in-cylinder-pressure-reconstru",
+        "date": "11 Apr 2023",
+        "journal": "SAE Technical Papers.",
+        "type": "Research output: Contribution to journal › Conference article › peer-review",
+        "citations": 1,
+        "concepts": [
+          "Pressure Reconstruction",
+          "Marine Engines"
+        ]
+      },
+      {
+        "title": "Understanding hydrogen jet dynamics for direct injection hydrogen engines",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/understanding-hydrogen-jet-dynamics-for-direct-injection-hydrogen",
+        "date": "Oct 2023",
+        "journal": "International Journal of Engine Research.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 11,
+        "concepts": [
+          "Hydrogen Engine",
+          "Engine Design"
+        ]
+      }
+    ],
+    "profile_url": "https://pure.kaist.ac.kr/en/persons/choongsik-bae",
+    "crawled_at": "2025-02-18T16:06:22.237863"
+  },
+  "https://pure.kaist.ac.kr/en/persons/joongmyeon-bae": {
+    "name": "Joongmyeon Bae",
+    "title": "A computational-fluid-dynamics study on scaling up a single flat membrane reactor for on-site hydrogen production",
+    "department": "Department of Mechanical Engineering",
+    "email": "jmbae@kaist.ac.kr",
+    "citations": 1,
+    "h_index": 40,
+    "research_outputs_by_year": {
+      "2002": 1,
+      "2003": 2,
+      "2004": 3,
+      "2005": 10,
+      "2006": 8,
+      "2007": 10,
+      "2008": 25,
+      "2009": 25,
+      "2010": 22,
+      "2011": 18,
+      "2012": 9,
+      "2013": 7,
+      "2014": 7,
+      "2015": 10,
+      "2016": 7,
+      "2017": 11,
+      "2018": 5,
+      "2019": 4,
+      "2020": 9,
+      "2021": 6,
+      "2022": 3,
+      "2023": 2,
+      "2024": 4
+    },
+    "education": [
+      "o (1989) B.A., Seoul National University",
+      "o (1991) M.A., Seoul National University",
+      "o (1996) Ph.D., Imperial College London"
+    ],
+    "professional_experience": [
+      "o (2021~Present) Director, Institute for Security Convergence Research, Korea",
+      "o (2021~Present) Vice President, The Korean Society of Mechanical Engineers (2024 Senior Vice President)",
+      "o (2019~2020) Vice President, Fuel Cell Division, The Korean Ceramic Society",
+      "o (2016~Present) Director, Korea Innovative Technology Startup (KITS), Korea",
+      "o (2013~2017) Director, Institute of Technology Value Creation (ITVC), KAIST",
+      "o (2009~Present) Professor, KAIST, Daejeon",
+      "o (2005~2009) Associate Professor, KAIST, Daejeon",
+      "o (2002~2005) Assistant Professor,KAIST, Daejeon",
+      "o (1999~2002) Senior Researcher, Argonne National Laboratory (ANL), United States",
+      "o (1996~1999) Researcher, National Institute of Advanced Industrial Science and Technology (AIST), Japan"
+    ],
+    "research_interests": [
+      "Fuel Reforming for Hydrogen production, Solid Oxide Fuel Cell for Hydrogen utilization, Integrated System on Energy system, Numerical Study using Computational Fluid Dynamics"
+    ],
+    "major_achievements": [
+      "o Development of high-performance catalysts with exsolved alloy nanoparticles for hydrogen production via diesel reforming",
+      "o Innovative design and manufacturing processes of developed MS-SOFC, enhancing efficiency and stability over traditional SOFC systems",
+      "o Development of SOFC integrated system using various hydrogen sources such as direct hydrogen, diesel, and ammonia"
+    ],
+    "sustainable_development_goals": [
+      "SDG 7 - Affordable and Clean Energy",
+      "SDG 9 - Industry, Innovation, and Infrastructure"
+    ],
+    "research_topics": [
+      {
+        "topic": "Oxide Compound",
+        "category": "Material Science",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Solid Oxide Fuel Cell",
+        "category": "Engineering",
+        "relevance": 0.68
+      },
+      {
+        "topic": "Cathode",
+        "category": "Material Science",
+        "relevance": 0.52
+      },
+      {
+        "topic": "Anode",
+        "category": "Material Science",
+        "relevance": 0.33
+      },
+      {
+        "topic": "Hydrogen Production",
+        "category": "Chemical Engineering",
+        "relevance": 0.24
+      },
+      {
+        "topic": "Density",
+        "category": "Material Science",
+        "relevance": 0.22
+      },
+      {
+        "topic": "Intermediate Temperature",
+        "category": "Engineering",
+        "relevance": 0.22
+      },
+      {
+        "topic": "Cathode Material",
+        "category": "Material Science",
+        "relevance": 0.21
+      }
+    ],
+    "publications": [
+      {
+        "title": "A design study on a flat membrane-reactor stack for on-site hydrogen production",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/a-design-study-on-a-flat-membrane-reactor-stack-for-on-site-hydro",
+        "date": "Jul 2024",
+        "journal": "Chemical Engineering Research and Design.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Steam Reformer",
+          "Catalytic Membrane"
+        ]
+      },
+      {
+        "title": "Evaluation of Electrolyte Materials of Gd- and Ce-Doped Scandia-Stabilized Zirconia and Yb- and Bi-Doped Gadolinium-Doped Ceria for Highly Durable Solid Oxide Fuel Cells",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/evaluation-of-electrolyte-materials-of-gd-and-ce-doped-scandia-st",
+        "date": "Jul 2024",
+        "journal": "International Journal of Precision Engineering and Manufacturing - Green Technology.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 4,
+        "concepts": [
+          "Oxide Compound",
+          "Zirconia",
+          "Ionic Conductivity",
+          "Cerium Oxide",
+          "Gadolinium"
+        ]
+      },
+      {
+        "title": "Hydrogen Sensor with a Thick Catalyst Layer Anchored on Polyimide Film",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/hydrogen-sensor-with-a-thick-catalyst-layer-anchored-on-polyimide",
+        "date": "21 Oct 2024",
+        "journal": "Advanced Materials Technologies.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Polyimide",
+          "Nanostructure",
+          "Film",
+          "Metal Oxide",
+          "Thermal Conductivity"
+        ]
+      },
+      {
+        "title": "Thermal design of a combined hydrogen and oxygen supply system for a fuel cell in low-oxygen environments",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/thermal-design-of-a-combined-hydrogen-and-oxygen-supply-system-fo",
+        "date": "2 Jan 2024",
+        "journal": "International Journal of Hydrogen Energy.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Supply System",
+          "Fuel-Cell Power System",
+          "Fuel Cell",
+          "Hydrogen Peroxide",
+          "Dehydrogenation"
+        ]
+      },
+      {
+        "title": "A computational-fluid-dynamics study on scaling up a single flat membrane reactor for on-site hydrogen production",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/a-computational-fluid-dynamics-study-on-scaling-up-a-single-flat-",
+        "date": "Dec 2023",
+        "journal": "Chemical Engineering Research and Design.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 1,
+        "concepts": [
+          "Hydrogen Production",
+          "Membrane Reactor",
+          "Peclet Number",
+          "Steam Reformer",
+          "Catalytic Membrane"
+        ]
+      }
+    ],
+    "profile_url": "https://pure.kaist.ac.kr/en/persons/joongmyeon-bae",
+    "crawled_at": "2025-02-18T16:06:27.230467"
+  },
+  "https://pure.kaist.ac.kr/en/persons/tae-hyun-bae": {
+    "name": "Tae-Hyun Bae",
+    "title": "High-Performance Mixed-Matrix Membranes Using a Zeolite@MOF Core-Shell Structure Synthesized via Ion-Exchange-Induced Crystallization and Post-Synthetic Conversion",
+    "department": "Department of Chemical and Biomolecular Engineering",
+    "email": "thbae@kaist.ac.kr",
+    "citations": 12,
+    "h_index": 49,
+    "research_outputs_by_year": {
+      "2002": 2,
+      "2003": 1,
+      "2005": 4,
+      "2006": 1,
+      "2007": 1,
+      "2008": 2,
+      "2009": 3,
+      "2010": 1,
+      "2011": 3,
+      "2012": 3,
+      "2013": 3,
+      "2015": 2,
+      "2016": 5,
+      "2017": 7,
+      "2018": 13,
+      "2019": 17,
+      "2020": 19,
+      "2021": 15,
+      "2022": 9,
+      "2023": 10,
+      "2024": 7
+    },
+    "education": [
+      "Ph.D. Georgia Institute of Technology, 2010",
+      "Ph.D. Seoul National University, 2006",
+      "M.S. Seoul National University, 2001",
+      "B.S. Seoul National University, 1999"
+    ],
+    "professional_experience": [],
+    "research_interests": [
+      "Porous Material, Membrane Technology, Adsorption, Molecular Separation, Environmental Technology"
+    ],
+    "major_achievements": [],
+    "sustainable_development_goals": [
+      "SDG 6 - Clean Water and Sanitation",
+      "SDG 7 - Affordable and Clean Energy",
+      "SDG 11 - Sustainable Cities and Communities",
+      "SDG 12 - Responsible Consumption and Production",
+      "SDG 13 - Climate Action"
+    ],
+    "research_topics": [
+      {
+        "topic": "Carbon Dioxide",
+        "category": "Material Science",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Methane",
+        "category": "Chemical Engineering",
+        "relevance": 0.67
+      },
+      {
+        "topic": "Adsorption",
+        "category": "Chemical Engineering",
+        "relevance": 0.51
+      },
+      {
+        "topic": "Zeolite",
+        "category": "Material Science",
+        "relevance": 0.46
+      },
+      {
+        "topic": "Polyimide",
+        "category": "Chemical Engineering",
+        "relevance": 0.37
+      },
+      {
+        "topic": "Graphene",
+        "category": "Chemical Engineering",
+        "relevance": 0.34
+      },
+      {
+        "topic": "Nanocrystalline Material",
+        "category": "Material Science",
+        "relevance": 0.33
+      },
+      {
+        "topic": "Thin Films",
+        "category": "Material Science",
+        "relevance": 0.33
+      }
+    ],
+    "publications": [
+      {
+        "title": "3D ZnO/ZIF-8 Hierarchical Nanostructure for Sensitive and Selective NO2 Sensing at Room Temperature",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/3d-znozif-8-hierarchical-nanostructure-for-sensitive-and-selectiv",
+        "date": "Apr 2024",
+        "journal": "Small Structures.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 8,
+        "concepts": [
+          "Room Temperature",
+          "Nanomaterial",
+          "Gas Sensor",
+          "ZnO",
+          "Nitrogen Dioxide"
+        ]
+      },
+      {
+        "title": "Direct CO2 mineralization using seawater reverse osmosis brine facilitated by hollow fiber membrane contactor",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/direct-cosub2sub-mineralization-using-seawater-reverse-osmosis-br",
+        "date": "1 May 2024",
+        "journal": "Chemical Engineering Journal.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 5,
+        "concepts": [
+          "Carbon Dioxide",
+          "Seawater",
+          "Reverse Osmosis",
+          "Seawater Desalination",
+          "Superhydrophobic"
+        ]
+      },
+      {
+        "title": "Evaluating ionic behavior of bicarbonate and carbamate species in blended Diisopropanolamine/2-amino-2-methyl propanol aqueous solutions using CO2 solubility experimental data and electrolyte activity coefficient models",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/evaluating-ionic-behavior-of-bicarbonate-and-carbamate-species-in",
+        "date": "15 Mar 2024",
+        "journal": "Journal of Molecular Liquids.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Diisopropanolamine",
+          "Carbamic Acid",
+          "Carbon Dioxide",
+          "Chemical Compound",
+          "CO2 Absorption"
+        ]
+      },
+      {
+        "title": "Experimental data driven thermodynamic modelling and process simulation for biogas upgrading",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/experimental-data-driven-thermodynamic-modelling-and-process-simu",
+        "date": "1 Jan 2024",
+        "journal": "Chemical Engineering Journal.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 4,
+        "concepts": [
+          "Biogas",
+          "Activity Coefficient",
+          "Vapor-Liquid Equilibrium",
+          "Aqueous Solution"
+        ]
+      },
+      {
+        "title": "High-Performance Mixed-Matrix Membranes Using a Zeolite@MOF Core-Shell Structure Synthesized via Ion-Exchange-Induced Crystallization and Post-Synthetic Conversion",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/high-performance-mixed-matrix-membranes-using-a-zeolitemof-core-s",
+        "date": "22 Jan 2024",
+        "journal": "JACS Au.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 12,
+        "concepts": [
+          "Zeolite",
+          "Metal-Organic Framework",
+          "Metal-Organic Frameworks",
+          "Ion Exchange",
+          "Carbon Dioxide"
+        ]
+      }
+    ],
+    "profile_url": "https://pure.kaist.ac.kr/en/persons/tae-hyun-bae",
+    "crawled_at": "2025-02-18T16:06:32.641178"
+  },
+  "https://pure.kaist.ac.kr/en/persons/mu-hyun-baik": {
+    "name": "Mu-Hyun Baik",
+    "title": "APP-C31: An Intracellular Promoter of Both Metal-Free and Metal-Bound Amyloid-β40 Aggregation and Toxicity in Alzheimer's Disease",
+    "department": "Department of Chemistry",
+    "email": "mbaik2805@kaist.ac.kr",
+    "citations": 2,
+    "h_index": 62,
+    "research_outputs_by_year": {
+      "2001": 4,
+      "2002": 6,
+      "2003": 6,
+      "2004": 9,
+      "2005": 7,
+      "2006": 10,
+      "2007": 4,
+      "2008": 11,
+      "2009": 7,
+      "2010": 4,
+      "2011": 10,
+      "2012": 4,
+      "2013": 7,
+      "2014": 5,
+      "2015": 10,
+      "2016": 8,
+      "2017": 16,
+      "2018": 28,
+      "2019": 32,
+      "2020": 31,
+      "2021": 18,
+      "2022": 12,
+      "2023": 18,
+      "2024": 9,
+      "2025": 4
+    },
+    "education": [
+      "o Ph.D., Inorganic and Organometallic Chemistry, UNC Chapel Hill (2000)",
+      "o Vordiplom (B.S.), Chemistry, Heinrich-Heine Universität Düsseldorf (1995)"
+    ],
+    "professional_experience": [
+      "o 2015 –present Professor, KAIST",
+      "o 2008 – 2015 Associate Professor, Indiana University",
+      "o 2003 – 2008 Assistant Professor, Indiana University",
+      "o 2003 – 2003 Research fellow with Prof. Jenny Green, Oxford Univ.",
+      "o 2000 – 2003 Postdoctoral fellow with Prof. Rich Friesner, Columbia Univ."
+    ],
+    "research_interests": [
+      "Organometallic Catalysis",
+      "Computational Molecular Modeling",
+      "Artificial Photosynthesis"
+    ],
+    "major_achievements": [
+      "o 2013, Scialog Innovation Award (Research Corporation)",
+      "o 2010, Scialog Fellow Award (Research Corporation)",
+      "o 2009, Kavli Fellow Award (National Academy of Sciences USA & Kavli Foundation)",
+      "o 2007, Alfred P. Sloan Fellow, Alfred P. Sloan Foundation",
+      "o 2007, NSF-CAREER Award, National Science Foundation USA",
+      "o 2006, Cottrell Scholar Award, Research Corporation",
+      "o 2006, Indiana University Outstanding Junior Faculty Award, Indiana University",
+      "o 1999, James T. Dobbins Fellow, Univ. of North Carolina",
+      "o 1999, SCM Fellow, SCM Inc. Amsterdam",
+      "o 1998, Cray Predoctoral Fellow Award, Cray Inc.",
+      "o 1995, DAAD Predoctoral Scholar, Deutscher Akademischer Austausch Dienst"
+    ],
+    "sustainable_development_goals": [
+      "SDG 3 - Good Health and Well-being",
+      "SDG 7 - Affordable and Clean Energy",
+      "SDG 14 - Life Below Water"
+    ],
+    "research_topics": [
+      {
+        "topic": "Density Functional Theory",
+        "category": "Chemistry",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Ambient Reaction Temperature",
+        "category": "Chemistry",
+        "relevance": 0.42
+      },
+      {
+        "topic": "Alkene",
+        "category": "Chemistry",
+        "relevance": 0.4
+      },
+      {
+        "topic": "Titanium",
+        "category": "Chemistry",
+        "relevance": 0.4
+      },
+      {
+        "topic": "Electronic State",
+        "category": "Chemistry",
+        "relevance": 0.38
+      },
+      {
+        "topic": "Rhodium",
+        "category": "Chemistry",
+        "relevance": 0.34
+      },
+      {
+        "topic": "Regioselectivity",
+        "category": "Chemistry",
+        "relevance": 0.3
+      },
+      {
+        "topic": "Mechanistic Study",
+        "category": "Chemistry",
+        "relevance": 0.29
+      }
+    ],
+    "publications": [
+      {
+        "title": "Bis(oxazoline) Iron Complexes Enable Tuning of Lewis Acidity for Catalytic Carbonyl-Olefin Metathesis",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/bisoxazoline-iron-complexes-enable-tuning-of-lewis-acidity-for-ca",
+        "date": "17 Jan 2025",
+        "journal": "ACS Catalysis.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Lewis Acidity",
+          "Olefin Metathesis"
+        ]
+      },
+      {
+        "title": "Mechanistic insights into the visible-light-driven O-arylation of carboxylic acids catalyzed by xanthine-based nickel complexes",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/mechanistic-insights-into-the-visible-light-driven-o-arylation-of",
+        "date": "2025",
+        "journal": "Chemical Science.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Arylation",
+          "Cross-Coupling Reaction",
+          "Photocatalytic",
+          "Xanthine",
+          "Visible Spectrum"
+        ]
+      },
+      {
+        "title": "Scope and Mechanism of the Ruthenium-Catalyzed sp3 C-H Coupling Reaction of 2-Alkylindoles with Enones for the Synthesis of Carbazole Derivatives",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/scope-and-mechanism-of-the-ruthenium-catalyzed-spsup3sup-c-h-coup",
+        "date": "13 Jan 2025",
+        "journal": "Organometallics.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Deuterium"
+        ]
+      },
+      {
+        "title": "The degradation mechanism of multi-resonance thermally activated delayed fluorescence materials",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/the-degradation-mechanism-of-multi-resonance-thermally-activated-",
+        "date": "Dec 2025",
+        "journal": "Nature Communications.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 1,
+        "concepts": [
+          "Delayed Fluorescence",
+          "Degradation Mechanism",
+          "Polycyclic Aromatic Hydrocarbon",
+          "Oxidation Reaction",
+          "Stability"
+        ]
+      },
+      {
+        "title": "APP-C31: An Intracellular Promoter of Both Metal-Free and Metal-Bound Amyloid-β40 Aggregation and Toxicity in Alzheimer's Disease",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/app-c31-an-intracellular-promoter-of-both-metal-free-and-metal-bo",
+        "date": "26 Jan 2024",
+        "journal": "Advanced Science.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 2,
+        "concepts": [
+          "Alzheimer's Disease",
+          "Amyloid",
+          "Promoter Region",
+          "Amyloid Precursor Protein",
+          "C-Terminus"
+        ]
+      }
+    ],
+    "profile_url": "https://pure.kaist.ac.kr/en/persons/mu-hyun-baik",
+    "crawled_at": "2025-02-18T16:06:37.953199"
+  },
+  "https://pure.kaist.ac.kr/en/persons/hyochoong-bang": {
+    "name": "Hyochoong Bang",
+    "title": "Mitigating Time-Delay in Nonlinear Dynamics Inversion for Multirotor Unmanned Aerial Vehicles",
+    "department": "Department of Aerospace Engineering",
+    "email": "hcbang@kaist.ac.kr",
+    "citations": 1,
+    "h_index": 31,
+    "research_outputs_by_year": {
+      "2000": 2,
+      "2001": 3,
+      "2002": 5,
+      "2003": 15,
+      "2004": 8,
+      "2005": 7,
+      "2006": 10,
+      "2007": 14,
+      "2008": 17,
+      "2009": 19,
+      "2010": 12,
+      "2011": 18,
+      "2012": 13,
+      "2013": 23,
+      "2014": 15,
+      "2015": 11,
+      "2016": 17,
+      "2017": 12,
+      "2018": 23,
+      "2019": 12,
+      "2020": 14,
+      "2021": 15,
+      "2022": 20,
+      "2023": 32,
+      "2024": 9
+    },
+    "education": [
+      "(1985) B.S. Seoul Nat'l Univ",
+      "(1987) M.S. Seoul Nat'l Univ",
+      "(1992 )Ph.D. Texas A&M Univ"
+    ],
+    "professional_experience": [
+      "2021. 1 - present, Chair of National defense subcommittee of Presidential Advisory Council on Science and Technology",
+      "2020. 3 - present, Senior vice president of The Korean Society for Aeronautical and Space Sciences (KSAS)",
+      "2019. 3 - 2021. 8, Director of KAIST Institute for Security Convergence Research center (ISCR)",
+      "2017 - 2019. 2, Vice Dean, College of Engineering",
+      "2015 - present, Director of High-Speed Vehicle Research Center",
+      "2012-2016, Head of Department of Aerospace Engineering",
+      "2009.3 - present, Professor, KAIST",
+      "2008 - 2017, Head of Interdisciplinary Program on Space Exploration Engineering (SPEX)",
+      "2008 - Present, Director for National Space Lab.(NSL) (Equivalent to NRL in Space Engineering by KOSEF)",
+      "2003 - 2009. 2, Associate Professor, KAIST",
+      "2001 - 2003. 2, Assistant Professor, KAIST",
+      "2002 - 2007, Director for National Research Lab.(NRL) in Space Fine Attitude Control Lab.",
+      "1999. 9 - 2000. 12, Assistant Professor, Chungnam National University",
+      "1995. 3 - 1999. 8, Senior Researcher, Korea Aerospace Research Institute(KARI)",
+      "1992. 7 - 1994. 12, Research Assistant Professor, U.S. Naval Postgraduate School",
+      "1989. 1 - 1992. 5, Research Assistant, Texas A&M University"
+    ],
+    "research_interests": [
+      "Satellite attitude dynamics and control",
+      "Spacecraft guidance and navigation",
+      "Inter-planetary mission design",
+      "Space systems",
+      "UAV flight dynamics and control",
+      "UAV flight control systems design",
+      "Aerospace vehicle trajectory planning and optimization",
+      "Missile Defense system and Application for Defense (Vision processing and AI application)"
+    ],
+    "major_achievements": [
+      "o Large angle attitude control of spacecraft with actuator saturation",
+      "o Flexible spacecraft attitude maneuver by application of sliding mode control",
+      "o Proportional navigation-based collision avoidance for UAVs"
+    ],
+    "sustainable_development_goals": [
+      "SDG 7 - Affordable and Clean Energy"
+    ],
+    "research_topics": [
+      {
+        "topic": "Unmanned Aerial Vehicle",
+        "category": "Engineering",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Attitude Control",
+        "category": "Engineering",
+        "relevance": 0.85
+      },
+      {
+        "topic": "Control Law",
+        "category": "Engineering",
+        "relevance": 0.83
+      },
+      {
+        "topic": "Computer Simulation",
+        "category": "Engineering",
+        "relevance": 0.75
+      },
+      {
+        "topic": "Simulation Result",
+        "category": "Engineering",
+        "relevance": 0.39
+      },
+      {
+        "topic": "Reinforcement Learning",
+        "category": "Engineering",
+        "relevance": 0.39
+      },
+      {
+        "topic": "Control System",
+        "category": "Engineering",
+        "relevance": 0.36
+      },
+      {
+        "topic": "Target Tracking",
+        "category": "Engineering",
+        "relevance": 0.34
+      }
+    ],
+    "publications": [
+      {
+        "title": "Data-Driven Fault Detection and Isolation for Quadrotor Using Sparse Identification of Nonlinear Dynamics and Thau Observer",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/data-driven-fault-detection-and-isolation-for-quadrotor-using-spa",
+        "date": "2024",
+        "journal": "",
+        "type": "Research output: Chapter in Book/Report/Conference proceeding › Conference contribution › peer-review",
+        "citations": 5,
+        "concepts": [
+          "Quadcopter"
+        ]
+      },
+      {
+        "title": "Data-Driven Hazard Avoidance Landing of Parafoil: A Deep Reinforcement Learning Approach",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/data-driven-hazard-avoidance-landing-of-parafoil-a-deep-reinforce",
+        "date": "Jan 2024",
+        "journal": "Journal of Aerospace Information Systems.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 1,
+        "concepts": [
+          "Learning Approach",
+          "Reinforcement Learning",
+          "Deep Reinforcement Learning",
+          "Driven Approach",
+          "Vehicle Dynamics"
+        ]
+      },
+      {
+        "title": "Fault-Tolerant Control for Aircraft with Structural Damage Using Sparse Online Gaussian Process Regression",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/fault-tolerant-control-for-aircraft-with-structural-damage-using-",
+        "date": "Jul 2024",
+        "journal": "International Journal of Aeronautical and Space Sciences.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 5,
+        "concepts": [
+          "Adaptive Control",
+          "Moment Of Inertia"
+        ]
+      },
+      {
+        "title": "Gaussian process-based state derivative estimator with temporal input in incremental flight control design",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/gaussian-process-based-state-derivative-estimator-with-temporal-i",
+        "date": "May 2024",
+        "journal": "Aerospace Science and Technology.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 2,
+        "concepts": [
+          "Information Bound"
+        ]
+      },
+      {
+        "title": "Mitigating Time-Delay in Nonlinear Dynamics Inversion for Multirotor Unmanned Aerial Vehicles",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/mitigating-time-delay-in-nonlinear-dynamics-inversion-for-multiro",
+        "date": "Mar 2024",
+        "journal": "Journal of Guidance, Control, and Dynamics.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 1,
+        "concepts": []
+      }
+    ],
+    "profile_url": "https://pure.kaist.ac.kr/en/persons/hyochoong-bang",
+    "crawled_at": "2025-02-18T16:06:43.349330"
+  },
+  "https://pure.kaist.ac.kr/en/persons/andrea-bianchi": {
+    "name": "Andrea Bianchi",
+    "title": "Decoupling Geometry from Surface Finish by Parameterizing Texture Directly in G-code for Fused Deposition Modeling (FDM) Printing",
+    "department": "Department of Industrial Design",
+    "email": "andrea@kaist.ac.kr",
+    "citations": 0,
+    "h_index": 22,
+    "research_outputs_by_year": {
+      "2009": 1,
+      "2010": 3,
+      "2011": 6,
+      "2012": 4,
+      "2013": 3,
+      "2015": 7,
+      "2016": 6,
+      "2017": 7,
+      "2018": 4,
+      "2019": 9,
+      "2020": 7,
+      "2021": 2,
+      "2022": 5,
+      "2023": 3,
+      "2024": 8
+    },
+    "education": [
+      "(2004) B.S. Bocconi University",
+      "(2007) M.S., New York University",
+      "(2012) Ph.D., KAIST"
+    ],
+    "professional_experience": [
+      "o (2019~Present) Associate Professor, KAIST, Daejeon",
+      "o (2015~2019) Assistant Professor, KAIST, Daejeon",
+      "o (2013~2015)Assistant Professor, Sungkyunkwan University, Suwon, Korea"
+    ],
+    "research_interests": [
+      "Human-Computer Interaction (HCI), Physical Computing, Digital Fabrication, XR/VR/AR, Haptics, Robotics"
+    ],
+    "major_achievements": [],
+    "sustainable_development_goals": [],
+    "research_topics": [
+      {
+        "topic": "Password",
+        "category": "Computer Science",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Haptic Feedback",
+        "category": "Computer Science",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Measurement Unit",
+        "category": "Computer Science",
+        "relevance": 0.88
+      },
+      {
+        "topic": "Wearable Device",
+        "category": "Computer Science",
+        "relevance": 0.74
+      },
+      {
+        "topic": "Virtual Reality",
+        "category": "Computer Science",
+        "relevance": 0.74
+      },
+      {
+        "topic": "Physical Interface",
+        "category": "Computer Science",
+        "relevance": 0.55
+      },
+      {
+        "topic": "Realism",
+        "category": "Computer Science",
+        "relevance": 0.46
+      },
+      {
+        "topic": "Input Interface",
+        "category": "Computer Science",
+        "relevance": 0.44
+      }
+    ],
+    "publications": [
+      {
+        "title": "3D printed pyrography: Using wood filament and dynamic control of nozzle temperature for embedding shades of color in objects",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/3d-printed-pyrography-using-wood-filament-and-dynamic-control-of-",
+        "date": "5 Mar 2024",
+        "journal": "Additive Manufacturing.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 4,
+        "concepts": [
+          "Colour Difference",
+          "Control Dynamics",
+          "Three Dimensional Printing",
+          "Metrics",
+          "Dimensional Surface"
+        ]
+      },
+      {
+        "title": "3D Printing Locally Activated Visual-Displays Embedded in 3D Objects via Electrically Conductive and Thermochromic Materials",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/3d-printing-locally-activated-visual-displays-embedded-in-3d-obje",
+        "date": "11 May 2024",
+        "journal": "",
+        "type": "Research output: Chapter in Book/Report/Conference proceeding › Conference contribution › peer-review",
+        "citations": 1,
+        "concepts": [
+          "Three Dimensional Printing",
+          "Display Device",
+          "Luminaires"
+        ]
+      },
+      {
+        "title": "Big or Small, It's All in Your Head: Visuo-Haptic Illusion of Size-Change Using Finger-Repositioning",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/big-or-small-its-all-in-your-head-visuo-haptic-illusion-of-size-c",
+        "date": "11 May 2024",
+        "journal": "",
+        "type": "Research output: Chapter in Book/Report/Conference proceeding › Conference contribution › peer-review",
+        "citations": 2,
+        "concepts": [
+          "Virtual Reality",
+          "Realism",
+          "Strong Influence"
+        ]
+      },
+      {
+        "title": "BlinkBoard: Guiding and monitoring circuit assembly for synchronous and remote physical computing education",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/blinkboard-guiding-and-monitoring-circuit-assembly-for-synchronou",
+        "date": "Mar 2024",
+        "journal": "HardwareX.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 1,
+        "concepts": [
+          "Education Computing",
+          "Command Line Interface",
+          "Output Pin",
+          "Secondary School",
+          "School Student"
+        ]
+      },
+      {
+        "title": "Decoupling Geometry from Surface Finish by Parameterizing Texture Directly in G-code for Fused Deposition Modeling (FDM) Printing",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/decoupling-geometry-from-surface-finish-by-parameterizing-texture",
+        "date": "2024",
+        "journal": "Archives of Design Research.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Texture Parameter",
+          "Mechanical Attribute"
+        ]
+      }
+    ],
+    "profile_url": "https://pure.kaist.ac.kr/en/persons/andrea-bianchi",
+    "crawled_at": "2025-02-18T16:06:48.642559"
+  },
+  "https://pure.kaist.ac.kr/en/persons/chanhee-boo": {
+    "name": "ChanHee Boo",
+    "title": "Investigating the potential of ammonium retention by graphene oxide ceramic nanofiltration membranes for the treatment of semiconductor wastewater",
+    "department": "Department of Civil and Environmental Engineering",
+    "email": "chanhee.boo@kaist.ac.kr",
+    "citations": 35,
+    "h_index": 35,
+    "research_outputs_by_year": {
+      "2010": 1,
+      "2012": 1,
+      "2013": 2,
+      "2014": 2,
+      "2015": 3,
+      "2016": 3,
+      "2017": 4,
+      "2018": 6,
+      "2019": 3,
+      "2020": 5,
+      "2021": 5,
+      "2022": 5,
+      "2023": 1,
+      "2024": 1
+    },
+    "education": [
+      "o (2009) BS., Korea University",
+      "o (2011) MS., Korea University",
+      "o (2018) Ph.D., Yale University"
+    ],
+    "professional_experience": [
+      "o (2023~Present) Assistant Professor, KAIST, Daejeon",
+      "o (2020~2023) Senior Researcher, Korea Institute of Science & Technology (KIST), Seoul, Korea",
+      "o (2018~2020) Postdoctoral Researcher, Columbia University, New York, USA"
+    ],
+    "research_interests": [
+      "Inorganic/organic membrane fabrication, Ultra-pure-water production, Surface Modification, Solvent Extraction"
+    ],
+    "major_achievements": [],
+    "sustainable_development_goals": [
+      "SDG 3 - Good Health and Well-being",
+      "SDG 7 - Affordable and Clean Energy",
+      "SDG 8 - Decent Work and Economic Growth",
+      "SDG 12 - Responsible Consumption and Production"
+    ],
+    "research_topics": [
+      {
+        "topic": "Reverse Osmosis",
+        "category": "Chemical Engineering",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Fouling",
+        "category": "Chemical Engineering",
+        "relevance": 0.99
+      },
+      {
+        "topic": "Thin Films",
+        "category": "Material Science",
+        "relevance": 0.76
+      },
+      {
+        "topic": "Polyamide",
+        "category": "Material Science",
+        "relevance": 0.61
+      },
+      {
+        "topic": "Nanoparticle",
+        "category": "Chemical Engineering",
+        "relevance": 0.6
+      },
+      {
+        "topic": "Nanofiltration",
+        "category": "Chemical Engineering",
+        "relevance": 0.59
+      },
+      {
+        "topic": "Osmosis Membrane",
+        "category": "Material Science",
+        "relevance": 0.45
+      },
+      {
+        "topic": "Nanofiltration Membrane",
+        "category": "Material Science",
+        "relevance": 0.4
+      }
+    ],
+    "publications": [
+      {
+        "title": "More resilient polyester membranes for high-performance reverse osmosis desalination",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/more-resilient-polyester-membranes-for-high-performance-reverse-o",
+        "date": "19 Apr 2024",
+        "journal": "Science.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 45,
+        "concepts": [
+          "Polyamide",
+          "Polyester",
+          "Boron",
+          "Thin Films",
+          "Osmosis Membrane"
+        ]
+      },
+      {
+        "title": "Performance, limitation, and opportunities of acid-resistant nanofiltration membranes for industrial wastewater treatment",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/performance-limitation-and-opportunities-of-acid-resistant-nanofi",
+        "date": "15 Jan 2023",
+        "journal": "Journal of Membrane Science.",
+        "type": "Research output: Contribution to journal › Review article › peer-review",
+        "citations": 73,
+        "concepts": [
+          "Industrial Wastewater Treatment"
+        ]
+      },
+      {
+        "title": "Elucidating the Roles of Polyamide Layer Structural Properties in the Permeability-Selectivity Tradeoff Governing Aqueous Separations",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/elucidating-the-roles-of-polyamide-layer-structural-properties-in",
+        "date": "14 Oct 2022",
+        "journal": "ACS ES and T Engineering.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 7,
+        "concepts": [
+          "Polyamide",
+          "Volume Element",
+          "Membranes Separation",
+          "Reverse Osmosis",
+          "Nanofiltration"
+        ]
+      },
+      {
+        "title": "Inorganic Scaling in Membrane Desalination: Models, Mechanisms, and Characterization Methods",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/inorganic-scaling-in-membrane-desalination-models-mechanisms-and-",
+        "date": "21 Jun 2022",
+        "journal": "Environmental Science and Technology.",
+        "type": "Research output: Contribution to journal › Review article › peer-review",
+        "citations": 100,
+        "concepts": [
+          "Nucleation",
+          "Mechanical Strength",
+          "Crystal Growth",
+          "Calcium Carbonate",
+          "Silicon Dioxide"
+        ]
+      },
+      {
+        "title": "Investigating the potential of ammonium retention by graphene oxide ceramic nanofiltration membranes for the treatment of semiconductor wastewater",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/investigating-the-potential-of-ammonium-retention-by-graphene-oxi",
+        "date": "Jan 2022",
+        "journal": "Chemosphere.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 35,
+        "concepts": [
+          "Graphene Oxide",
+          "Nanofiltration Membrane",
+          "Oxide Ceramics",
+          "Graphene",
+          "Nanofiltration"
+        ]
+      }
+    ],
+    "profile_url": "https://pure.kaist.ac.kr/en/persons/chanhee-boo",
+    "crawled_at": "2025-02-18T16:06:54.062837"
+  },
+  "https://pure.kaist.ac.kr/en/persons/hye-ryung-byon": {
+    "name": "Hye Ryung Byon",
+    "title": "Solubility and Stability of Redox-Active Organic Molecules in Redox Flow Batteries",
+    "department": "Department of Chemistry",
+    "email": "hrbyon@kaist.ac.kr",
+    "citations": 4,
+    "h_index": 37,
+    "research_outputs_by_year": {
+      "2005": 3,
+      "2006": 2,
+      "2007": 4,
+      "2008": 4,
+      "2009": 2,
+      "2011": 4,
+      "2012": 1,
+      "2013": 6,
+      "2014": 5,
+      "2015": 4,
+      "2016": 4,
+      "2018": 6,
+      "2019": 5,
+      "2020": 11,
+      "2021": 10,
+      "2022": 6,
+      "2023": 8,
+      "2024": 6,
+      "2025": 1
+    },
+    "education": [
+      "Ph. D., POSTECH, Chemistry (2008)",
+      "B.S., Sookmyung Womens University, Chemistry and Physics (2002)"
+    ],
+    "professional_experience": [
+      "2016-present KAIST, Chemistry, Associate/assistant professor",
+      "2011-2016 RIKEN (Japan), Byon Initiative Research Unit, Principal Investigator",
+      "2008-2010 MIT, Mechanical Engineering, Postdoctoral associate"
+    ],
+    "research_interests": [
+      "Electrochemical energy storage",
+      "Electrochemical energy conversion"
+    ],
+    "major_achievements": [
+      "2021 Korea Toray Fellowship (Toray)",
+      "2020 I-sense Young Electrochemist Award (Korea Chemical Society)",
+      "2019 Nano Research Young Innovators Award in Nano Energy Award (Springer & Tsinghua University Press)",
+      "2018 Young Scientist Award (KAST)",
+      "2017 Outstanding Lecture Award (KAIST, Chemistry)",
+      "2017 Distinguished Lectureship Award (Chemical Society of Japan)",
+      "2016 TJ Park Science Fellowship (POSCO)"
+    ],
+    "sustainable_development_goals": [
+      "SDG 3 - Good Health and Well-being",
+      "SDG 7 - Affordable and Clean Energy"
+    ],
+    "research_topics": [
+      {
+        "topic": "Battery (Electrochemical Energy Engineering)",
+        "category": "Material Science",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Lithium",
+        "category": "Material Science",
+        "relevance": 0.96
+      },
+      {
+        "topic": "Carbon Nanotube",
+        "category": "Material Science",
+        "relevance": 0.88
+      },
+      {
+        "topic": "Nanoparticle",
+        "category": "Material Science",
+        "relevance": 0.45
+      },
+      {
+        "topic": "Redox Flow Battery",
+        "category": "Material Science",
+        "relevance": 0.29
+      },
+      {
+        "topic": "Cathode",
+        "category": "Material Science",
+        "relevance": 0.26
+      },
+      {
+        "topic": "Oxidation Reaction",
+        "category": "Material Science",
+        "relevance": 0.25
+      },
+      {
+        "topic": "Lithium Ion Battery",
+        "category": "Material Science",
+        "relevance": 0.2
+      }
+    ],
+    "publications": [
+      {
+        "title": "Lithiation-driven cascade dissolution coprecipitation of sulfide superionic conductors",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/lithiation-driven-cascade-dissolution-coprecipitation-of-sulfide-",
+        "date": "Jan 2025",
+        "journal": "Energy Storage Materials.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Anode",
+          "Sulfide Solid Electrolyte",
+          "All-Solid-State Batteries",
+          "Coprecipitation",
+          "Solid Electrolyte"
+        ]
+      },
+      {
+        "title": "Constructing Reversible Li Deposition Interfaces by Tailoring Lithiophilic Functionalities of a Heteroatom-Doped Graphene Interlayer for Highly Stable Li Metal Anodes",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/constructing-reversible-li-deposition-interfaces-by-tailoring-lit",
+        "date": "26 Jun 2024",
+        "journal": "ACS Applied Materials and Interfaces.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 1,
+        "concepts": [
+          "Graphene",
+          "Lithium",
+          "Lithium Metal Anode",
+          "Adsorption",
+          "Nucleation"
+        ]
+      },
+      {
+        "title": "Enhanced redox with hetero-halogens",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/enhanced-redox-with-hetero-halogens",
+        "date": "Jun 2024",
+        "journal": "Nature Energy.",
+        "type": "Research output: Contribution to journal › Comment/debate",
+        "citations": 2,
+        "concepts": [
+          "Energy Density",
+          "Aqueous Battery"
+        ]
+      },
+      {
+        "title": "Identifying the active sites and intermediates on copper surfaces for electrochemical nitrate reduction to ammonia",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/identifying-the-active-sites-and-intermediates-on-copper-surfaces",
+        "date": "12 Jan 2024",
+        "journal": "Chemical Science.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 13,
+        "concepts": [
+          "Ammonia",
+          "Oxide Compound",
+          "Nitrate Reduction Reaction",
+          "Density Functional Theory",
+          "Nitrogen Dioxide"
+        ]
+      },
+      {
+        "title": "Solubility and Stability of Redox-Active Organic Molecules in Redox Flow Batteries",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/solubility-and-stability-of-redox-active-organic-molecules-in-red",
+        "date": "23 Sep 2024",
+        "journal": "ACS Applied Energy Materials.",
+        "type": "Research output: Contribution to journal › Review article › peer-review",
+        "citations": 4,
+        "concepts": [
+          "Redox Flow Battery",
+          "Disproportionation Reaction",
+          "Redox Process",
+          "Energy Storage"
+        ]
+      }
+    ],
+    "profile_url": "https://pure.kaist.ac.kr/en/persons/hye-ryung-byon",
+    "crawled_at": "2025-02-18T16:06:59.197566"
+  },
+  "https://pure.kaist.ac.kr/en/persons/meeyoung-cha": {
+    "name": "Meeyoung Cha",
+    "title": "Uncertainty-Aware Face Embedding with Contrastive Learning for Open-Set Evaluation",
+    "department": "School of Computing",
+    "email": "meeyoungcha@kaist.ac.kr",
+    "citations": 0,
+    "h_index": 35,
+    "research_outputs_by_year": {
+      "2004": 1,
+      "2006": 2,
+      "2007": 1,
+      "2008": 2,
+      "2009": 7,
+      "2010": 2,
+      "2011": 4,
+      "2012": 11,
+      "2013": 10,
+      "2014": 7,
+      "2015": 3,
+      "2016": 6,
+      "2017": 6,
+      "2018": 4,
+      "2019": 7,
+      "2020": 13,
+      "2021": 16,
+      "2022": 15,
+      "2023": 24,
+      "2024": 5
+    },
+    "education": [
+      "o (2002) B.S., KAIST",
+      "o (2004) M.S., KAIST",
+      "o (2008) Ph.D., KAIST"
+    ],
+    "professional_experience": [
+      "ㅇ (Dec. 2023~Present) Scientific Director, Max Planck Institute for Security and Privacy, Bochum, Germany",
+      "ㅇ (Jan. 2019~May. 2024) Chief Investigator, Institute for Basic Science, IBS, Daejeon",
+      "ㅇ (Mar. 2024~Present) Professor, School of Computing, KAIST, Daejeon",
+      "ㅇ (Aug. 2017~Feb. 2024) Associate Professor, School of Computing, KAIST, Daejeon",
+      "ㅇ (Mar.2014~Jul. 2017) Associate Professor, Graduate School of Culture Technolgy, KAIST, Daejeon",
+      "ㅇ (May.2010~Feb. 2014) Assistant Professor, Graduate School of Culture Technolgy, KAIST, Daejeon",
+      "ㅇ(Aug.2015~Aug.2016) Visiting Professor, Facebook, Menlo Park",
+      "ㅇ (Jul. 2013~ Aug. 2013) Visiting Professor, Max Planck Institute for Software System(MPI-SWS), Saarbruecken, Germany",
+      "ㅇ (Jan. 2008~ May. 2010) Postdoctoral Researcher, Max Planck Institute for Software System(MPI-SWS), Saarbruecken, Germany"
+    ],
+    "research_interests": [
+      "Data Science for Humanity Understanding the patterns of socially meaningful information",
+      "(e.g., fake news, offensive language, conventions, media bias), designing human-centric AI",
+      "(e.g., fairness, accountability, explainability), and developing computational approaches for the",
+      "United Nations Sustainable Development Goals (e.g., poverty mapping, well-being)."
+    ],
+    "major_achievements": [
+      "Test-of-Time Award, ACM IMC 2022",
+      "Test-of-Time Award, AAAI ICWSM 2020",
+      "Minister of Science and ICT Award, South Korea, 2022",
+      "Young Information Scientist Award, South Korea, 2019"
+    ],
+    "sustainable_development_goals": [
+      "SDG 2 - Zero Hunger",
+      "SDG 3 - Good Health and Well-being",
+      "SDG 5 - Gender Equality",
+      "SDG 7 - Affordable and Clean Energy",
+      "SDG 8 - Decent Work and Economic Growth",
+      "SDG 10 - Reduced Inequalities",
+      "SDG 11 - Sustainable Cities and Communities",
+      "SDG 12 - Responsible Consumption and Production",
+      "SDG 13 - Climate Action",
+      "SDG 16 - Peace, Justice and Strong Institutions"
+    ],
+    "research_topics": [
+      {
+        "topic": "Online Social Networks",
+        "category": "Computer Science",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Social Media",
+        "category": "Computer Science",
+        "relevance": 0.78
+      },
+      {
+        "topic": "Facebook",
+        "category": "Psychology",
+        "relevance": 0.78
+      },
+      {
+        "topic": "Social Network",
+        "category": "Computer Science",
+        "relevance": 0.63
+      },
+      {
+        "topic": "Federated Learning",
+        "category": "Computer Science",
+        "relevance": 0.63
+      },
+      {
+        "topic": "Contrastive Learning",
+        "category": "Computer Science",
+        "relevance": 0.47
+      },
+      {
+        "topic": "Artificial Intelligence",
+        "category": "Psychology",
+        "relevance": 0.47
+      },
+      {
+        "topic": "Public Health",
+        "category": "Psychology",
+        "relevance": 0.47
+      }
+    ],
+    "publications": [
+      {
+        "title": "Context-Aware Offensive Language Detection in Human-Chatbot Conversations",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/context-aware-offensive-language-detection-in-human-chatbot-conve",
+        "date": "2024",
+        "journal": "",
+        "type": "Research output: Chapter in Book/Report/Conference proceeding › Conference contribution › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Chatbot",
+          "Experimental Result",
+          "Annotation",
+          "Attention (Machine Learning)",
+          "Neural Network Model"
+        ]
+      },
+      {
+        "title": "Detecting Offensive Language in an Open Chatbot Platform",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/detecting-offensive-language-in-an-open-chatbot-platform",
+        "date": "2024",
+        "journal": "",
+        "type": "Research output: Chapter in Book/Report/Conference proceeding › Conference contribution › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Pattern Languages",
+          "Service Provider"
+        ]
+      },
+      {
+        "title": "Explainable Product Classification for Customs",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/explainable-product-classification-for-customs",
+        "date": "22 Feb 2024",
+        "journal": "ACM Transactions on Intelligent Systems and Technology.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 1,
+        "concepts": [
+          "Legal Decision",
+          "Critical Function"
+        ]
+      },
+      {
+        "title": "SUBTLE: An Unsupervised Platform with Temporal Link Embedding that Maps Animal Behavior",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/subtle-an-unsupervised-platform-with-temporal-link-embedding-that",
+        "date": "Oct 2024",
+        "journal": "International Journal of Computer Vision.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Classification",
+          "Embedding"
+        ]
+      },
+      {
+        "title": "Uncertainty-Aware Face Embedding with Contrastive Learning for Open-Set Evaluation",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/uncertainty-aware-face-embedding-with-contrastive-learning-for-op",
+        "date": "2024",
+        "journal": "IEEE Transactions on Information Forensics and Security.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Open Set Face Recognition"
+        ]
+      }
+    ],
+    "profile_url": "https://pure.kaist.ac.kr/en/persons/meeyoung-cha",
+    "crawled_at": "2025-02-18T16:07:04.466654"
+  },
+  "https://pure.kaist.ac.kr/en/persons/seung-hyun-cha": {
+    "name": "Seung Hyun Cha",
+    "title": "Effects of indoor vegetation density on human well-being for a healthy built environment",
+    "department": "Graduate School of Culture Technology",
+    "email": "shcha@kaist.ac.kr",
+    "citations": 8,
+    "h_index": 19,
+    "research_outputs_by_year": {
+      "2015": 2,
+      "2016": 1,
+      "2017": 4,
+      "2018": 6,
+      "2019": 10,
+      "2020": 7,
+      "2021": 5,
+      "2022": 4,
+      "2023": 6,
+      "2024": 3
+    },
+    "education": [
+      "o (2009) B.E., Korea University",
+      "o (2011) M.S., Stanford University",
+      "o (2015) Ph.D., University of Cambridge"
+    ],
+    "professional_experience": [
+      "o (2021~Present) Associate Professor, KAIST, Daejeon",
+      "o (2018~2021) Assistant Professor,Hanyang University, Seoul, Korea",
+      "o (2015~2018) Assistant Professor, The Hong Kong Polytechnic University, Hong Kong"
+    ],
+    "research_interests": [
+      "Future Space, Human Space Interaction, Metaverse Sapce Design, VR/AR/IOT"
+    ],
+    "major_achievements": [],
+    "sustainable_development_goals": [
+      "SDG 3 - Good Health and Well-being",
+      "SDG 7 - Affordable and Clean Energy",
+      "SDG 11 - Sustainable Cities and Communities",
+      "SDG 13 - Climate Action"
+    ],
+    "research_topics": [
+      {
+        "topic": "Pipe Heat Exchanger",
+        "category": "Engineering",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Tape",
+        "category": "Engineering",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Hotels",
+        "category": "Engineering",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Design Sample",
+        "category": "Engineering",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Modular Construction",
+        "category": "Engineering",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Virtual Environments",
+        "category": "Computer Science",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Design Phase",
+        "category": "Computer Science",
+        "relevance": 0.75
+      },
+      {
+        "topic": "Sustainable Build Environment",
+        "category": "Engineering",
+        "relevance": 0.66
+      }
+    ],
+    "publications": [
+      {
+        "title": "A living lab to develop smart home services for the residential welfare of older adults",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/a-living-lab-to-develop-smart-home-services-for-the-residential-w",
+        "date": "Jun 2024",
+        "journal": "Technology in Society.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 6,
+        "concepts": [
+          "Home Care",
+          "Independent Living",
+          "Emotional Stability",
+          "Metabolic Rate",
+          "Psychology"
+        ]
+      },
+      {
+        "title": "Creating spatial visualizations using fine-tuned interior design style models informed by user preferences",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/creating-spatial-visualizations-using-fine-tuned-interior-design-",
+        "date": "Oct 2024",
+        "journal": "Advanced Engineering Informatics.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 3,
+        "concepts": [
+          "User Preference",
+          "Interior Design",
+          "Artificial Intelligence",
+          "Multiple Scenario",
+          "Visual Representation"
+        ]
+      },
+      {
+        "title": "Empirical investigation of occupant-centric thermal comfort in hotel guestrooms",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/empirical-investigation-of-occupant-centric-thermal-comfort-in-ho",
+        "date": "Jan 2024",
+        "journal": "Renewable and Sustainable Energy Reviews.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 2,
+        "concepts": [
+          "Thermal Comfort",
+          "Hotels",
+          "Ancillaries",
+          "Global Standard",
+          "Fan Coil Unit"
+        ]
+      },
+      {
+        "title": "Client-engaged collaborative pre-design framework for modular housing",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/client-engaged-collaborative-pre-design-framework-for-modular-hou",
+        "date": "Dec 2023",
+        "journal": "Automation in Construction.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 0,
+        "concepts": [
+          "Early Phase",
+          "Design Phase",
+          "Mass Customization",
+          "Modular Construction",
+          "Design Sample"
+        ]
+      },
+      {
+        "title": "Effects of indoor vegetation density on human well-being for a healthy built environment",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/effects-of-indoor-vegetation-density-on-human-well-being-for-a-he",
+        "date": "Apr 2023",
+        "journal": "Developments in the Built Environment.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 8,
+        "concepts": [
+          "Built Environment",
+          "Electroencephalography",
+          "Decision Maker",
+          "Inflection Point"
+        ]
+      }
+    ],
+    "profile_url": "https://pure.kaist.ac.kr/en/persons/seung-hyun-cha",
+    "crawled_at": "2025-02-18T16:07:09.378049"
+  },
+  "https://pure.kaist.ac.kr/en/persons/daejun-chang": {
+    "name": "Daejun Chang",
+    "title": "Techno–economic analysis of fuel cell powered urban air mobility system",
+    "department": "Department of Mechanical Engineering",
+    "email": "djchang@kaist.ac.kr",
+    "citations": 3,
+    "h_index": 30,
+    "research_outputs_by_year": {
+      "2003": 2,
+      "2004": 2,
+      "2005": 2,
+      "2006": 3,
+      "2007": 3,
+      "2008": 2,
+      "2009": 1,
+      "2010": 2,
+      "2011": 6,
+      "2012": 10,
+      "2013": 11,
+      "2014": 20,
+      "2015": 11,
+      "2016": 14,
+      "2017": 15,
+      "2018": 16,
+      "2019": 9,
+      "2020": 2,
+      "2021": 8,
+      "2022": 3,
+      "2023": 2,
+      "2024": 6
+    },
+    "education": [
+      "o (1991) B.A., KAIST",
+      "o (1993) M.A., KAIST",
+      "o (1997) Ph.D., KAIST"
+    ],
+    "professional_experience": [
+      "o (2009~ Present) Professor, KAIST, Daejeon",
+      "o (1997~ 2009) Researcher, Hyundai Heavy Industries"
+    ],
+    "research_interests": [
+      "o Liquid hydrogen systems and infrastructure",
+      "o Scalable thermal energy storage",
+      "o Alternative fuels"
+    ],
+    "major_achievements": [
+      "o LPV (Lattice Pressure Vessel) for scalable pressure vessel (unique solution for large LCO2 tanks)",
+      "o V-CCS (Vacuum Cargo Containment System) for large-scale LH2 tanks",
+      "o UT-ESS (Unified Thermal ESS) for thermal energy storage scalable beyond GWhr",
+      "o IDP-LT (Internal Differential Pressure Level Transmitter) for LH2"
+    ],
+    "sustainable_development_goals": [
+      "SDG 3 - Good Health and Well-being",
+      "SDG 7 - Affordable and Clean Energy",
+      "SDG 13 - Climate Action",
+      "SDG 14 - Life Below Water"
+    ],
+    "research_topics": [
+      {
+        "topic": "Lifecycle Cost",
+        "category": "Engineering",
+        "relevance": 1.0
+      },
+      {
+        "topic": "Liquefied Natural Gas",
+        "category": "Engineering",
+        "relevance": 0.81
+      },
+      {
+        "topic": "Propulsion System",
+        "category": "Engineering",
+        "relevance": 0.75
+      },
+      {
+        "topic": "Energy Engineering",
+        "category": "Engineering",
+        "relevance": 0.62
+      },
+      {
+        "topic": "Storage Tank",
+        "category": "Engineering",
+        "relevance": 0.61
+      },
+      {
+        "topic": "Carbon Capture",
+        "category": "Engineering",
+        "relevance": 0.48
+      },
+      {
+        "topic": "Fuel Gas",
+        "category": "Engineering",
+        "relevance": 0.44
+      },
+      {
+        "topic": "Capital Expenditure",
+        "category": "Engineering",
+        "relevance": 0.39
+      }
+    ],
+    "publications": [
+      {
+        "title": "Correction: Deep Reinforcement Learning-Based Energy Management for Liquid Hydrogen-Fueled Hybrid Electric Ship Propulsion System (Journal of Marine Science and Engineering, (2023), 11, 10, (2007), 10.3390/jmse11102007)",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/correction-deep-reinforcement-learning-based-energy-management-fo",
+        "date": "Mar 2024",
+        "journal": "Journal of Marine Science and Engineering.",
+        "type": "Research output: Contribution to journal › Comment/debate",
+        "citations": 0,
+        "concepts": [
+          "Electric Power Plant"
+        ]
+      },
+      {
+        "title": "Design and analysis of liquid hydrogen-fueled hybrid ship propulsion system with dynamic simulation",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/design-and-analysis-of-liquid-hydrogen-fueled-hybrid-ship-propuls",
+        "date": "2 Jan 2024",
+        "journal": "International Journal of Hydrogen Energy.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 14,
+        "concepts": [
+          "Tugboats"
+        ]
+      },
+      {
+        "title": "Process design and energy assessment of an onboard carbon capture system with boilers or heat pumps for additional steam generation",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/process-design-and-energy-assessment-of-an-onboard-carbon-capture",
+        "date": "2024",
+        "journal": "Ships and Offshore Structures.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 4,
+        "concepts": [
+          "Energy Engineering",
+          "Heat Pump",
+          "Carbon Capture",
+          "Process Design",
+          "Capture System"
+        ]
+      },
+      {
+        "title": "Technical feasibility of large-scale transportable liquid hydrogen export terminal",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/technical-feasibility-of-large-scale-transportable-liquid-hydroge",
+        "date": "13 May 2024",
+        "journal": "International Journal of Hydrogen Energy.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 4,
+        "concepts": [
+          "Renewable Energy Source",
+          "Technological Development"
+        ]
+      },
+      {
+        "title": "Techno–economic analysis of fuel cell powered urban air mobility system",
+        "url": "https://pure.kaist.ac.krhttps://pure.kaist.ac.kr/en/publications/technoeconomic-analysis-of-fuel-cell-powered-urban-air-mobility-s",
+        "date": "2 Jan 2024",
+        "journal": "International Journal of Hydrogen Energy.",
+        "type": "Research output: Contribution to journal › Article › peer-review",
+        "citations": 3,
+        "concepts": [
+          "Air Mobility",
+          "Fuel Cell",
+          "Propulsion System",
+          "Economic Feasibility",
+          "Lifecycle Cost"
+        ]
+      }
+    ],
+    "profile_url": "https://pure.kaist.ac.kr/en/persons/daejun-chang",
+    "crawled_at": "2025-02-18T16:07:14.866103"
+  }
+}
