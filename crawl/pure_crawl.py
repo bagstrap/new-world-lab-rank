@@ -342,16 +342,16 @@ async def process_professor_pipeline(
 if __name__ == "__main__":
     universities = [
         # ("https://snucm.elsevierpure.com/", "Seoul National University Medical"),
-        # ("https://pure.kaist.ac.kr/", "KAIST"),
-        ("https://pure.korea.ac.kr/", "Korea University"),
-        ("https://yonsei.elsevierpure.com/", "Yonsei University"),
-        ("https://khu.elsevierpure.com/", "Kyung Hee University"),
-        ("https://inha.pure.elsevier.com/", "Inha University"),
-        ("https://pure.ewha.ac.kr/", "Ewha Womans University"),
-        ("https://pure.uos.ac.kr/", "University of Seoul"),
-        ("https://pure.dongguk.edu/", "Dongguk University"),
-        ("https://cuk.elsevierpure.com/", "Chung-Ang University"),
-        ("https://konkuk.pure.elsevier.com/", "Konkuk University"),
+        ("https://pure.kaist.ac.kr/", "KAIST"),
+        # ("https://pure.korea.ac.kr/", "Korea University"),
+        # ("https://yonsei.elsevierpure.com/", "Yonsei University"),
+        # ("https://khu.elsevierpure.com/", "Kyung Hee University"),
+        # ("https://inha.pure.elsevier.com", "Inha University"),
+        # ("https://pure.ewha.ac.kr/", "Ewha Womans University"),
+        # ("https://pure.uos.ac.kr/", "University of Seoul"),
+        # ("https://pure.dongguk.edu/", "Dongguk University"),
+        # ("https://cuk.elsevierpure.com/", "Chung-Ang University"),
+        # ("https://konkuk.pure.elsevier.com/", "Konkuk University"),
     ]
 
     async def crawl_universities_in_batches():
