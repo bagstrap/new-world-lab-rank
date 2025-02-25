@@ -17,6 +17,8 @@ async def crawl_pure_professor_list(prefix_url: str):
         current_page = 0
 
         while True:
+            if len(results) > 1000:
+                break
             # Navigate to the page
             await page.goto(f"{prefix_url}/en/persons/?page={current_page}")
 
@@ -342,7 +344,7 @@ async def process_professor_pipeline(
 if __name__ == "__main__":
     universities = [
         # ("https://snucm.elsevierpure.com/", "Seoul National University Medical"),
-        ("https://pure.kaist.ac.kr/", "KAIST"),
+        # ("https://pure.kaist.ac.kr/", "KAIST"),
         # ("https://pure.korea.ac.kr/", "Korea University"),
         # ("https://yonsei.elsevierpure.com/", "Yonsei University"),
         # ("https://khu.elsevierpure.com/", "Kyung Hee University"),
@@ -352,6 +354,25 @@ if __name__ == "__main__":
         # ("https://pure.dongguk.edu/", "Dongguk University"),
         # ("https://cuk.elsevierpure.com/", "Chung-Ang University"),
         # ("https://konkuk.pure.elsevier.com/", "Konkuk University"),
+        ("https://pure.johnshopkins.edu/", "Johns Hopkins University"),
+        ("https://research.birmingham.ac.uk/", "University of Birmingham"),
+        ("https://columbia.demo.elsevierpure.com/", "Columbia University"),
+        ("https://pure.psu.edu/", "Pennsylvania State University"),
+        ("https://nyuscholars.nyu.edu/", "New York University"),
+        ("https://kclpure.kcl.ac.uk/portal", "King's College London"),
+        (
+            "https://pure.kfupm.edu.sa/",
+            "King Fahd University of Petroleum and Minerals",
+        ),
+        ("https://nsf.elsevierpure.com/en/", "National Science Foundation"),
+        ("https://pure.au.dk/portal/en/", "Aarhus University"),
+        (
+            "https://utsouthwestern.elsevierpure.com/en/",
+            "UT Southwestern Medical Center",
+        ),
+        ("https://experts.illinois.edu/", "University of Illinois"),
+        ("https://www.scholars.northwestern.edu/", "Northwestern University"),
+        ("https://ohiostate.elsevierpure.com/en/", "Ohio State University"),
     ]
 
     async def crawl_universities_in_batches():
