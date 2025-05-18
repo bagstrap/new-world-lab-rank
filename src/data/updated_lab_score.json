@@ -1,0 +1,898 @@
+{
+  "Massachusetts Institute of Technology (MIT)": {
+    "Laboratory for Information and Decision Systems (LIDS)": {
+      "CVPR": 0,
+      "NIPS": 1.928421139717102,
+      "ICLR": 0,
+      "ICCV": 0.014593453146517277,
+      "ICML": 0.2029280960559845,
+      "AAAI_CAI": 0.35762789845466614,
+      "ACL_EMNLP": 0,
+      "WACV": 0,
+      "Total": 2.50357058737427
+    },
+    "Computer Science and Artificial Intelligence Laboratory (CSAIL)": {
+      "CVPR": 0,
+      "NIPS": 2.035322904586792,
+      "ICLR": 0.11711806803941727,
+      "ICCV": 0.12665949761867523,
+      "ICML": 0.673855721950531,
+      "NAACL": 0,
+      "AAAI_CAI": 0.20821388065814972,
+      "ACL_EMNLP": 0.13675642013549805,
+      "ACL": 0.17547233402729034,
+      "WACV": 0,
+      "ECCV": 0.527907133102417,
+      "Total": 4.001305960118771
+    },
+    "Total": 6.504876547493041
+  },
+  "Peking University": {
+    "视频与视觉技术研究所": {
+      "CVPR": 3.796577428930329e-15,
+      "NIPS": 0.3438303768634796,
+      "ICLR": 0,
+      "ICCV": 0,
+      "ICML": 0,
+      "AAAI_CAI": 0.09419620782136917,
+      "ACL": 0.025480201467871666,
+      "WACV": 0,
+      "ECCV": 0.2414059042930603,
+      "Total": 0.7049126904457845
+    },
+    "计算语言学研究所": {
+      "NIPS": 0.0015552837867289782,
+      "ICLR": 0,
+      "NAACL": 0,
+      "AAAI_CAI": 0.0008404708351008594,
+      "ACL_EMNLP": 0,
+      "ACL": 0,
+      "Total": 0.0023957546218298376
+    },
+    "数据科学与工程研究所": {
+      "NIPS": 0.004720075521618128,
+      "ICML": 0,
+      "ACL_EMNLP": 0,
+      "ECCV": 0,
+      "Total": 0.004720075521618128
+    },
+    "软件研究所": {
+      "CVPR": 0,
+      "NIPS": 0,
+      "ICLR": 0,
+      "ICML": 0,
+      "ACL_EMNLP": 0,
+      "Total": 0
+    },
+    "前沿计算研究中心": {
+      "CVPR": 0,
+      "NIPS": 0.06745224446058273,
+      "ICLR": 1.093902099809981e-36,
+      "ICCV": 0,
+      "ICML": 0.024268215522170067,
+      "AAAI_CAI": 0,
+      "Total": 0.0917204599827528
+    },
+    "网络与高能效计算研究所": {
+      "AAAI_CAI": 0,
+      "Total": 0
+    },
+    "元宇宙技术研究所": {
+      "CVPR": 0,
+      "Total": 0
+    },
+    "Total": 0.8037489805719853
+  },
+  "University of British Columbia": {
+    "Artificial Intelligence (AI) and Machine Learning (ML)": {
+      "CVPR": 0,
+      "NIPS": 0.34388017654418945,
+      "ICLR": 0,
+      "ICCV": 0.1449780911207199,
+      "ICML": 0.0007418648456223309,
+      "AAAI_CAI": 0.04295528680086136,
+      "WACV": 0,
+      "ECCV": 0,
+      "Total": 0.532555419311393
+    },
+    "ML: Machine Learning": {
+      "CVPR": 0,
+      "NIPS": 0.14246980845928192,
+      "ICLR": 0,
+      "ICCV": 0.1449780911207199,
+      "ICML": 0.0007418648456223309,
+      "AAAI_CAI": 0.04295528680086136,
+      "WACV": 0,
+      "ECCV": 0,
+      "Total": 0.3311450512264855
+    },
+    "MILD: Mathematics of Information, Learning and Data": {
+      "NIPS": 0,
+      "ICLR": 0,
+      "ICML": 0,
+      "WACV": 0,
+      "ECCV": 0,
+      "Total": 0
+    },
+    "AMLTN: Advanced Machine Learning Training Network": {
+      "CVPR": 0,
+      "NIPS": 0.13909652829170227,
+      "ICLR": 0,
+      "ICCV": 0.1449780911207199,
+      "ICML": 0,
+      "AAAI_CAI": 0.05490197613835335,
+      "WACV": 0,
+      "ECCV": 0,
+      "Total": 0.33897659555077553
+    },
+    "AI: Artificial Intelligence": {
+      "CVPR": 0,
+      "NIPS": 0.20166543126106262,
+      "ICLR": 0,
+      "ICCV": 0,
+      "ICML": 0,
+      "AAAI_CAI": 0.05490197613835335,
+      "WACV": 0,
+      "ECCV": 0,
+      "Total": 0.25656740739941597
+    },
+    "CAIDA: Centre for Artificial Intelligence Decision-making & Action": {
+      "CVPR": 0,
+      "NIPS": 0.34388017654418945,
+      "ICLR": 0,
+      "ICCV": 0.1449780911207199,
+      "ICML": 0.0008394902688451111,
+      "AAAI_CAI": 0.04295528680086136,
+      "WACV": 0,
+      "ECCV": 0,
+      "Total": 0.5326530447346158
+    },
+    "PLAI: Programming Languages for Artificial Intelligence": {
+      "NIPS": 0,
+      "WACV": 0,
+      "Total": 0
+    },
+    "Systems & Data": {
+      "CVPR": 0,
+      "NIPS": 0.0032900231890380383,
+      "ICCV": 0,
+      "ICML": 0.0002578523999545723,
+      "AAAI_CAI": 0.07173773646354675,
+      "WACV": 0,
+      "Total": 0.07528561205253936
+    },
+    "DSI: Data Science Institute": {
+      "CVPR": 0,
+      "NIPS": 0.010891219601035118,
+      "ICCV": 0,
+      "AAAI_CAI": 0.020015140995383263,
+      "WACV": 0,
+      "Total": 0.03090636059641838
+    },
+    "Theory & Scientific Computing": {
+      "NIPS": 0,
+      "AAAI_CAI": 0,
+      "WACV": 0,
+      "Total": 0
+    },
+    "Algorithms Lab": {
+      "NIPS": 0,
+      "AAAI_CAI": 0,
+      "WACV": 0,
+      "Total": 0
+    },
+    "CVL: Computer Vision Lab": {
+      "CVPR": 0,
+      "NIPS": 0.01827959343791008,
+      "ICCV": 0.1449780911207199,
+      "AAAI_CAI": 0.020015140995383263,
+      "WACV": 0,
+      "Total": 0.18327282555401325
+    },
+    "Graphics & HCI": {
+      "NIPS": 0,
+      "ICCV": 0,
+      "WACV": 0,
+      "Total": 0
+    },
+    "DFP: Designing for People Cluster": {
+      "ICCV": 0,
+      "WACV": 0,
+      "Total": 0
+    },
+    "Imager: Laboratory for Graphics, Visualization and HCI": {
+      "NIPS": 0,
+      "ICCV": 0,
+      "WACV": 0,
+      "Total": 0
+    },
+    "Software Engineering, Programming Languages and Formal Methods": {
+      "NIPS": 0,
+      "Total": 0
+    },
+    "SPL: Software Practices Lab": {
+      "NIPS": 0,
+      "Total": 0
+    },
+    "Systopia: Systems Research, construed broadly": {
+      "NIPS": 0,
+      "ICML": 0.0002578523999545723,
+      "AAAI_CAI": 0,
+      "Total": 0.0002578523999545723
+    },
+    "NLP: Natural Language Processing": {
+      "NIPS": 0,
+      "Total": 0
+    },
+    "DMM: Data Management and Mining Lab": {
+      "NIPS": 0,
+      "Total": 0
+    },
+    "Security and Privacy Group": {
+      "ICML": 0.0002578523999545723,
+      "AAAI_CAI": 0,
+      "Total": 0.0002578523999545723
+    },
+    "Total": 2.281878021225566
+  },
+  "National University of Singapore (NUS)": {
+    "Advanced Robotics Center (ARC)": {
+      "ICLR": 0,
+      "Total": 0
+    },
+    "NUS-Tsinghua-Southampton Centre for Extreme Search (NExT++)": {
+      "AAAI_CAI": 0,
+      "Total": 0
+    },
+    "Total": 0
+  },
+  "National Taiwan University (NTU)": {
+    "Bioinformatics and Cheminformatics Lab": {
+      "ICLR": 0,
+      "Total": 0
+    },
+    "Total": 0
+  },
+  "Institut Polytechnique de Paris": {
+    "Computer Science and Systems Engineering Laboratory (U2IS)": {
+      "ICLR": 0,
+      "Total": 0
+    },
+    "Total": 0
+  },
+  "Tsinghua University": {
+    "人机交互与媒体集成研究所": {
+      "CVPR": 0.04605143517255783,
+      "NIPS": 1.3687210083007812,
+      "ICLR": 0,
+      "ICCV": 0,
+      "ICML": 0.1196347251534462,
+      "AAAI_CAI": 0.42420268058776855,
+      "ECCV": 0.30961018800735474,
+      "Total": 2.2682200372219086
+    },
+    "计算机网络研究所": {
+      "CVPR": 0.4511720538139343,
+      "ACL": 0.0036473944783210754,
+      "ECCV": 0,
+      "Total": 0.4548194482922554
+    },
+    "智能技术与系统实验室": {
+      "CVPR": 0.02186574414372444,
+      "NIPS": 0.49467480182647705,
+      "ICLR": 0,
+      "ICCV": 0.06038876995444298,
+      "ICML": 0.4898839592933655,
+      "NAACL": 0.20266962051391602,
+      "AAAI_CAI": 0.24943147599697113,
+      "ACL_EMNLP": 0.1785661280155182,
+      "ACL": 0.8472170233726501,
+      "WACV": 0,
+      "ECCV": 0.03133199363946915,
+      "Total": 2.5760295167565346
+    },
+    "计算机软件研究所": {
+      "NIPS": 0.040000222623348236,
+      "ICML": 0,
+      "NAACL": 0,
+      "AAAI_CAI": 0.042107827961444855,
+      "ACL_EMNLP": 0,
+      "ACL": 0,
+      "Total": 0.08210805058479309
+    },
+    "高性能计算研究所": {
+      "NIPS": 0,
+      "ICML": 0.003813269780948758,
+      "ACL_EMNLP": 0,
+      "Total": 0.003813269780948758
+    },
+    "Total": 5.38499032263644
+  },
+  "Northwestern University": {
+    "Qualitative Reasoning Group": {
+      "AAAI_CAI": 0,
+      "Total": 0
+    },
+    "Interactive Audio Lab": {
+      "NIPS": 0.004720075521618128,
+      "Total": 0.004720075521618128
+    },
+    "NuLogiCS Group": {
+      "NIPS": 0.025850392878055573,
+      "ICCV": 0.008064407855272293,
+      "AAAI_CAI": 0,
+      "Total": 0.033914800733327866
+    },
+    "IDEAS - Design Automation of Intelligent Systems": {
+      "ICCV": 0.008064407855272293,
+      "AAAI_CAI": 0,
+      "Total": 0.008064407855272293
+    },
+    "Total": 0.046699284110218287
+  },
+  "Imperial College London": {
+    "Verification of Autonomous Systems (VAS)": {
+      "AAAI_CAI": 0,
+      "Total": 0
+    },
+    "Language and Multimodal AI Lab (LAMA) group": {
+      "NAACL": 0.07945527881383896,
+      "AAAI_CAI": 0,
+      "ACL_EMNLP": 0,
+      "ACL": 0,
+      "EACL": 0,
+      "Total": 0.07945527881383896
+    },
+    "Group on Language Audio & Music (GLAM)": {
+      "NAACL": 0,
+      "ACL": 0.0007383049814961851,
+      "Total": 0.0007383049814961851
+    },
+    "Total": 0.08019358379533514
+  },
+  "EPFL": {
+    "Computer Vision": {
+      "NIPS": 0.025113264098763466,
+      "ICCV": 0,
+      "WACV": 0,
+      "ECCV": 0.3295098841190338,
+      "Total": 0.3546231482177973
+    },
+    "Theory of Machine Learning": {
+      "NIPS": 0.11847507953643799,
+      "ICLR": 0.00045272085117176175,
+      "ICCV": 0.022786466404795647,
+      "ICML": 0,
+      "Total": 0.1417142667924054
+    },
+    "Machine Learning and Optimization": {
+      "NIPS": 0.013973413966596127,
+      "ICLR": 0.00035387877142056823,
+      "ICML": 0,
+      "NAACL": 0,
+      "ACL": 0,
+      "Total": 0.014327292738016695
+    },
+    "Information in Networked Systems": {
+      "NIPS": 0,
+      "ICML": 0.00005180641892366111,
+      "Total": 0.00005180641892366111
+    },
+    "Communication Theory": {
+      "NIPS": 0,
+      "ICML": 0.00005180641892366111,
+      "Total": 0.00005180641892366111
+    },
+    "Information Theory": {
+      "NIPS": 0,
+      "ICML": 0.00005180641892366111,
+      "Total": 0.00005180641892366111
+    },
+    "Statistical Mechanics of Inference in Large Systems": {
+      "NIPS": 0,
+      "ICML": 0.00005180641892366111,
+      "Total": 0.00005180641892366111
+    },
+    "Statistical Physics of Computation": {
+      "NIPS": 0.0015552837867289782,
+      "ICML": 0,
+      "Total": 0.0015552837867289782
+    },
+    "Distributed Computing": {
+      "NIPS": 0,
+      "ICML": 0,
+      "Total": 0
+    },
+    "Images and Visual Representation": {
+      "ICCV": 0,
+      "Total": 0
+    },
+    "Mathematical Data Science": {
+      "NIPS": 0,
+      "Total": 0
+    },
+    "Artificial Intelligence": {
+      "NIPS": 0,
+      "AAAI_CAI": 0.009417061693966389,
+      "Total": 0.009417061693966389
+    },
+    "Total": 0.5218442789046094
+  },
+  "Technical University of Munich": {
+    "Algorithmic Economics & Operations Research": {
+      "CVPR": 0,
+      "NIPS": 0.023566586896777153,
+      "ICCV": 0.14499108493328094,
+      "AAAI_CAI": 0,
+      "ACL": 0.0036473944783210754,
+      "ECCV": 0.06680551171302795,
+      "Total": 0.23901057802140713
+    },
+    "Information Systems & Software Engineering": {
+      "CVPR": 0,
+      "NIPS": 0.023566586896777153,
+      "ICCV": 0.14499108493328094,
+      "AAAI_CAI": 0,
+      "ACL": 0.0036473944783210754,
+      "ECCV": 0.06680551171302795,
+      "Total": 0.23901057802140713
+    },
+    "Human-centered Engineering": {
+      "NIPS": 0,
+      "ECCV": 0.0023389356210827827,
+      "Total": 0.0023389356210827827
+    },
+    "Robotics & Autonomous Systems": {
+      "NIPS": 0,
+      "ECCV": 0.0023389356210827827,
+      "Total": 0.0023389356210827827
+    },
+    "Total": 0.4826990272849798
+  },
+  "New York University (NYU)": {
+    "CILVR Lab (Computational Intelligence, Learning, Vision, and Robotics)": {
+      "NIPS": 0.002608334645628929,
+      "ICLR": 0,
+      "ICCV": 0.014593453146517277,
+      "ICML": 0,
+      "NAACL": 0.18263591825962067,
+      "ACL_EMNLP": 0.1493391990661621,
+      "ACL": 0,
+      "Total": 0.349176905117929
+    },
+    "Machine Learning for Language (ML²) Group": {
+      "ICLR": 0,
+      "ICML": 0,
+      "NAACL": 0.13813932240009308,
+      "ACL_EMNLP": 0.10316304862499237,
+      "ACL": 0.1509876251220703,
+      "EACL": 0.4520377516746521,
+      "Total": 0.8443277478218079
+    },
+    "Total": 1.1935046529397368
+  },
+  "Cornell University": {
+    "Digital Life Initiative(DLI)": {
+      "NIPS": 0,
+      "AAAI_CAI": 0,
+      "Total": 0
+    },
+    "People-Aware Computing Lab(PAC)": {
+      "NIPS": 0,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.005203910171985626
+    },
+    "Total": 0.005203910171985626
+  },
+  "Carnegie Mellon University": {
+    "Ray and Stephanie Lane Computational Biology Department": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Machine Learning Department": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Software and Societal Systems Department": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Center for Computational Analysis of Social and Organizational Systems": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Total": 0.03124897927045822
+  },
+  "Universidad de Chile": {
+    "RELELA: Representations for Learning and Language": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Total": 0.007812244817614555
+  },
+  "The University of Tokyo": {
+    "Naoto Yokoya": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Total": 0.007812244817614555
+  },
+  "University of California, Berkeley (UCB)": {
+    "Berkeley Laboratory for Automation Science and Engineering (AUTOLab)": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Center for Augmented Cognition (CAC)": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Industrial Cyber-Physical Systems Center (iCyPhy)": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Laboratory for Automation Science and Engineering (AUTOLAB)": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Software Principles for Advanced Networking (SPAN)": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Center for the Theoretical Foundations of Learning, Inference, Information, Intelligence, Mathematics and Microeconomics at Berkeley (CLIMB)": {
+      "NIPS": 0.22254613041877747,
+      "ICLR": 0.0001539354707347229,
+      "ICML": 0.000031254450732376426,
+      "Total": 0.22273132034024457
+    },
+    "Agile Design of Efficient Processing Technologies (ADEPT)": {
+      "NIPS": 0.005091329570859671,
+      "ICML": 0,
+      "Total": 0.005091329570859671
+    },
+    "Total": 0.266883873999177
+  },
+  "Brown University": {
+    "Interactive 3D Vision and Learning Lab (IVL)": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Programming Languages": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Human to Robots Laboratory": {
+      "AAAI_CAI": 0,
+      "Total": 0
+    },
+    "Total": 0.01562448963522911
+  },
+  "Texas A&M University": {
+    "Aggie Graphics Group": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Total": 0.007812244817614555
+  },
+  "Georgia Institute of Technology": {
+    "Internet Intelligence Research Lab": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Theory Lab": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Systems Software & Security Lab": {
+      "NIPS": 0.00631195493042469,
+      "Total": 0.00631195493042469
+    },
+    "Total": 0.0219364445656538
+  },
+  "The University of Melbourne": {
+    "Algorithms\nEffective data structures and algorithms optimise the performance of any computer program. Computer science has a number of continuing areas of interest including text information retrieval (search) technology, text indexation and compression, and the analysis of big data.": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Databases and Information Retrieval\nDatabases is the study of efficient storage, retrieval, and management of large data, whereas information retrieval is the process of accessing and extracting relevant information from the databases.": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Distributed Systems and Cloud Computing\nOur world-leading distributed computing research group is pushing the boundaries of how we can extract more performance and computer-power from large-scale networks of computing devices. Fog, edge, cloud and grid computing issues are a continuing focus of our distributed computing work.": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Programming Languages and Formal Verification\nWe work on designing and implementing programming language and formal verification tools and techniques that enable the development of high-assurance trustworthy software.": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Quantum Computing\nQuantum computing focuses on developing computer technology based on the principles of quantum theory, which explains the nature and behavior of energy and matter on the quantum (atomic and subatomic) level.": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Security and Privacy\nWe are working on novel and practical solutions to improve the security and privacy of large real-world systems. Our research includes both attack and defense approaches that work on different layers, from web APIs, ML models, core software libraries to micro-architecture, firmware and hardware.": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Software Engineering\nSoftware Engineering is a multidisciplinary field which focuses on the systematic design, development, testing, and maintenance of software applications and systems. Research areas within this theme encompass topics such as software quality assurance, agile methodologies, program repair, and human and social aspects of software engineering.": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Total": 0.05468571372330189
+  },
+  "Université de Montréal": {
+    "Robotics and Embodied AI Lab (REAL)": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Total": 0.007812244817614555
+  },
+  "King Abdullah University of Science & Technology (KAUST)": {
+    "Computational Imaging Group": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "The Numerical Mathematics Group": {
+      "NIPS": 0.002608334645628929,
+      "AAAI_CAI": 0.005203910171985626,
+      "Total": 0.007812244817614555
+    },
+    "Total": 0.01562448963522911
+  },
+  "University of Southern California": {
+    "Robotics and Autonomous Systems Center (RASC)": {
+      "NIPS": 0.022180482745170593,
+      "ICLR": 3.3198445765336175e-36,
+      "ICML": 0.011572756804525852,
+      "NAACL": 0,
+      "AAAI_CAI": 0.005064622964709997,
+      "ACL_EMNLP": 0,
+      "ACL": 0,
+      "WACV": 0.002736542606726289,
+      "EACL": 0,
+      "Total": 0.04155440512113273
+    },
+    "Total": 0.04155440512113273
+  },
+  "University of Pennsylvania": {
+    "Penn Research in Machine Learning (PRiML)": {
+      "NIPS": 0.029014401137828827,
+      "ICML": 0.00004676528260461055,
+      "NAACL": 0,
+      "AAAI_CAI": 0,
+      "EACL": 0,
+      "Total": 0.029061166420433437
+    },
+    "Total": 0.029061166420433437
+  },
+  "Pennsylvania State University": {
+    "Center for Artificial Intelligence Foundations and Scientific Applications (CEN…": {
+      "NIPS": 0,
+      "ICML": 0,
+      "NAACL": 0,
+      "Total": 0
+    },
+    "Software Systems Security Laboratory": {
+      "ICML": 0,
+      "Total": 0
+    },
+    "Total": 0
+  },
+  "KAIST - Korea Advanced Institute of Science & Technology": {
+    "Users and Information Lab": {
+      "NIPS": 0,
+      "ICLR": 0.00021543166076298803,
+      "NAACL": 0,
+      "ACL_EMNLP": 0.04660211503505707,
+      "ACL": 0,
+      "Total": 0.046817546695820056
+    },
+    "암호론 연구실": {
+      "NIPS": 0,
+      "Total": 0
+    },
+    "Total": 0.046817546695820056
+  },
+  "Korea University": {
+    "High-performance Visual Computing Lab (HVCL)": {
+      "CVPR": 0.007729420904070139,
+      "Total": 0.007729420904070139
+    },
+    "Natural Language Processing & Artificial Intelligence Lab (NLP&AI Lab)": {
+      "NAACL": 0,
+      "EACL": 0,
+      "Total": 0
+    },
+    "Total": 0.007729420904070139
+  },
+  "Shanghai Jiao Tong University": {
+    "Guo Minyi": {
+      "ICLR": 0,
+      "ICCV": 0,
+      "AAAI_CAI": 0,
+      "Total": 0
+    },
+    "Chen Guihai": {
+      "AAAI_CAI": 0,
+      "Total": 0
+    },
+    "Wu Fan": {
+      "AAAI_CAI": 0,
+      "Total": 0
+    },
+    "Gao Xiaofeng": {
+      "ICML": 0,
+      "AAAI_CAI": 0,
+      "Total": 0
+    },
+    "Yao Bin": {
+      "AAAI_CAI": 0,
+      "Total": 0
+    },
+    "Total": 0
+  },
+  "Pohang University of Science And Technology (POSTECH)": {
+    "Algorithms (ALGO) Lab": {
+      "NIPS": 0,
+      "AAAI_CAI": 0,
+      "ECCV": 0,
+      "Total": 0
+    },
+    "Total": 0
+  },
+  "Sungkyunkwan University(SKKU)": {
+    "지능형임베디드시스템연구실": {
+      "AAAI_CAI": 0,
+      "Total": 0
+    },
+    "Embedded Software Lab": {
+      "AAAI_CAI": 0,
+      "Total": 0
+    },
+    "Natural Language Processing (NLP) Lab": {
+      "ACL": 0.0036473944783210754,
+      "Total": 0.0036473944783210754
+    },
+    "자연어처리 연구실": {
+      "NAACL": 6.214743909924085e-19,
+      "EACL": 0,
+      "Total": 6.214743909924085e-19
+    },
+    "NLPLAB": {
+      "NAACL": 6.214743909924085e-19,
+      "EACL": 0,
+      "Total": 6.214743909924085e-19
+    },
+    "효율적 기계학습 연구실": {
+      "NIPS": 0,
+      "ICLR": 0.0000012964059123987681,
+      "Total": 0.0000012964059123987681
+    },
+    "Efficient Learning Laboratory": {
+      "NIPS": 0,
+      "ICLR": 0.0000012964059123987681,
+      "Total": 0.0000012964059123987681
+    },
+    "Total": 0.003649987290145874
+  },
+  "Yale University": {
+    "Computer Systems Lab (CSL)": {
+      "NIPS": 0.0468776561319828,
+      "ECCV": 0,
+      "Total": 0.0468776561319828
+    },
+    "Total": 0.0468776561319828
+  },
+  "Harvard University": {
+    "Hire Aspirations Institute": {
+      "ICLR": 0,
+      "Total": 0
+    },
+    "Center for Brain Science (CBS)": {
+      "NIPS": 0,
+      "Total": 0
+    },
+    "Technology and Entrepreneurship Center at Harvard": {
+      "NIPS": 0,
+      "Total": 0
+    },
+    "Total": 0
+  },
+  "Hanyang University": {
+    "제어 및 최적화 연구실": {
+      "NIPS": 0.0004987367428839207,
+      "Total": 0.0004987367428839207
+    },
+    "지능시스템 연구실": {
+      "NIPS": 0.0004987367428839207,
+      "Total": 0.0004987367428839207
+    },
+    "Total": 0.0009974734857678413
+  },
+  "Alma Mater Studiorum - University of Bologna": {
+    "LIA: Laboratorio di Informatica avanzata": {
+      "AAAI_CAI": 0.013404455035924911,
+      "Total": 0.013404455035924911
+    },
+    "Biometric System Laboratory": {
+      "NIPS": 0.00631195493042469,
+      "Total": 0.00631195493042469
+    },
+    "Total": 0.019716409966349602
+  },
+  "Trinity College Dublin, The University of Dublin": {
+    "CONNECT": {
+      "WACV": 0.004952081944793463,
+      "Total": 0.004952081944793463
+    },
+    "CONNECT | Ireland’s research centre for Future Networks and Communications": {
+      "WACV": 0.004952081944793463,
+      "Total": 0.004952081944793463
+    },
+    "Total": 0.009904163889586926
+  },
+  "University of Washington": {
+    "Cyber-Physical Systems Lab (CPSL)": {
+      "NIPS": 0.00631195493042469,
+      "Total": 0.00631195493042469
+    },
+    "Total": 0.00631195493042469
+  },
+  "Kyung Hee University": {
+    "MLVC LAB": {
+      "NIPS": 0.004720075521618128,
+      "ICLR": 3.3198445765336175e-36,
+      "ICCV": 0,
+      "Total": 0.004720075521618128
+    },
+    "AGI @ KHU ": {
+      "ECCV": 0.0023389356210827827,
+      "Total": 0.0023389356210827827
+    },
+    "\n      KHU Vision and Learning Lab.\n    ": {
+      "ECCV": 0.0023389356210827827,
+      "Total": 0.0023389356210827827
+    },
+    "Total": 0.009397946763783693
+  },
+  "Indian Institute of Science": {
+    "Machine Learning Lab": {
+      "NIPS": 0,
+      "ICML": 0.003813269780948758,
+      "AAAI_CAI": 0,
+      "Total": 0.003813269780948758
+    },
+    "Total": 0.003813269780948758
+  },
+  "City University of Hong Kong": {
+    "Video, Image, and Sound Analysis Lab (VISAL)": {
+      "AAAI_CAI": 0,
+      "Total": 0
+    },
+    "Total": 0
+  }
+}

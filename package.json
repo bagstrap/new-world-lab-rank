@@ -10,7 +10,8 @@
     "lint": "next lint",
     "generate-data": "node --loader ts-node/esm src/scripts/generateSortedLabData.ts",
     "generate-locations": "node --loader ts-node/esm src/scripts/generateUniversityLocations.ts",
-    "generate-final": "node --loader ts-node/esm src/scripts/generateFinalData.ts"
+    "generate-final": "node --loader ts-node/esm src/scripts/generateFinalData.ts",
+    "fix-unicode": "node --loader ts-node/esm src/scripts/fixUnicodeEncoding.ts"
   },
   "dependencies": {
     "@googlemaps/google-maps-services-js": "^3.4.0",
